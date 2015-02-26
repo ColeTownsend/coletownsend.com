@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include _head.html %}
+  <body class="post">
+    {% include _navigation_main.html %}
+    {% if page.image.feature %}
+    <header class="full bg-img" data-src="{{ site.url }}{{ site.image.post }}{{ page.image.feature }}" {% if page.image.feature_2x %} data-2x="{{ site.url }}{{ site.image.post }}{{ page.image.feature_2x }}" {% else %} data-2x="{{ site.url }}{{ site.image.post }}{{ page.image.feature }}" {% endif %}>
+    </header>
+    <section class="wrap">
+      <article data-no-instant>
+        <header>
+          <h1>{{ page.title }}</h1>
+          <div class="description">
+            <div><span class="label">Role&#58;</span><span class="tag">{{page.role}}</span></div>
+            <div>
+              <span class="label">Responsibility&#58;</span>
+              <span class="tag">{{ page.tags | join: ', ' }}</span>
+            </div>
+          </div>
+        </header>
+        {{ content }}
+      </article>
+    </section>
+
+    {% else %}
+    <section class="wrap">
+      <article data-no-instant>
+        <header class="no-bg-img">
+          <h1>{{ page.title }}</h1>
+          <div class="description">
+            <div><span class="label">Role&#58;</span><span class="tag">{{page.role}}</span></div>
+            <div>
+              <span class="label">Responsibility&#58;</span>
+              <span class="tag">{{ page.tags | array_to_sentence_string }}</span>
+            </div>
+        </header>
+        {{ content }}
+      </article>
+    </section>
+    {% endif %}
+    {% include _footer.html %}
+  </body>
+</html>

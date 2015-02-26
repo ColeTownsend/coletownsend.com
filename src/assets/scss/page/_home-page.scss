@@ -1,0 +1,231 @@
+.home header[role="main-header"] {
+  background: $red-gray;
+  nav {
+  border-bottom: 2px solid rgba(0,0,0,.1);
+  }
+}
+
+// Home Page
+section[class*="block-"] {
+  min-height: 19em;
+  position: relative;
+  overflow: hidden;
+  @include media($small) {
+    min-height: 16em;
+  }
+}
+// First Block
+.block-1 {
+  padding: $base-line-height 0;
+  padding-bottom: $base-line-height*2;
+  background: $red-gray;
+  margin-bottom: $base-line-height*2;
+  @include media($small) {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  article {
+    @extend %container;
+    float: none;
+    padding: 3em 0;
+    position: relative;
+    height: 100%;
+    @include media($small) {
+      padding: 0 1em;
+    }
+  }
+  p {
+    color: $base-font-color;
+    @extend %h3;
+    line-height: 1.5;
+    padding: 0 3rem;
+    @include media($small) {
+      font-size: $fs6;
+      line-height: 1.5;
+      padding: 0;
+    }
+  }
+  a:hover {
+    @include transform(rotate(0deg));
+  }
+}
+
+// Work Block
+.block-2 {
+  z-index: 100;
+  @extend %container;
+  padding-bottom: $base-line-height*2;
+  @include media($small) {
+    padding-bottom: 0;
+    padding: 0;
+    margin: 0;
+  }
+  article {
+    position: relative;
+    height: 100%;
+  }
+  article {
+    ul {
+      list-style: none;
+      list-style-type: none;
+    }
+    .work-title {
+      font-style: italic;
+      color: $red;
+      text-align: center;
+      padding-bottom: $base-line-height;
+      @include media($small) {
+        display: block;
+        margin-top: 0;
+        padding-bottom: 1em;
+        font-size: $fs5;
+        text-align: center;
+        letter-spacing: 2px;
+        color: $red;
+      }
+    }
+    .work-grid {
+      margin-bottom: $base-line-height;
+      background: $light-gray;
+      position: relative;
+      text-align: center;
+      z-index: 1;
+      opacity: 0;
+      // @include transition(all .2s $base-transition-timing);
+      @include span-columns(3);
+      @include omega();
+      min-height: 22vw;
+      &:nth-child(1) {
+        @include span-columns(7);
+      }
+      &:nth-child(2) {
+        @include span-columns(5);
+        @include omega();
+      }
+      &:nth-child(3) {
+        @include span-columns(5);
+      }
+      &:nth-child(4) {
+        @include span-columns(7);
+        @include omega();
+      }
+      &:nth-child(5) {
+        @include span-columns(12);
+      }
+      &:nth-child(6) {
+        @include span-columns(5);
+      }
+      &:nth-child(7) {
+        @include span-columns(7);
+        @include omega();
+        clear: none;
+      }
+      &:nth-child(8) {
+        @include span-columns(7);
+      }
+      &:nth-child(9) {
+        @include span-columns(5);
+        @include omega();
+        clear: none;
+      }
+      // Small
+      @include media($small) {
+        margin-bottom: 0;
+        width: 100% !important;
+        float: none !important;
+        display: block !important;
+        height: 6em !important;
+      }
+      // Medium
+      @include media($medium) {
+        height: 25vw;
+        h1 {
+          font-size: $fs6 !important;
+        }
+      }
+      // Default
+      @include media($default) {
+        height: calc(680px/3);
+        h1 {
+          font-size: $fs6 !important;
+        }
+      }
+      .colorize {
+        opacity: 0;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        right: 0;
+        z-index: 2;
+        @include media($small) {
+          opacity: .25;
+        }
+      }
+      .project {
+        background-position: center center;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        right: 0;
+        z-index: 1;
+      }
+      &:hover {
+        // @include transition(all .2s $ease-in-out-quad);
+      }
+      a {
+        width: 100%;
+        height: 100%;
+        z-index: 10;
+        display: block;
+        position: absolute;
+        color: transparentize($white, 1);
+        @include transition(background .2s $ease-in-out-quad);
+        &.shown {
+          color: $white;
+          @include linear-gradient(135deg, $red 20%, $orange 100%);
+          box-shadow: none;
+          // @include transition(all .2s $ease-in-out-quad);
+        }
+        box-shadow: inset $base-border-color 0 0 0 1px;
+        // text-shadow: 0 1px 1px rgba(0,0,0,.16);
+        // @include linear-gradient(to top, rgba(0,0,0,.04), rgba(0,0,0,.02));
+        // @include transition(back .2s $ease-in-out-quad);
+        // Media
+        @include media($small) {
+          background: none;
+          color: $white;
+          border: none;
+          text-shadow: 0 1px 1px rgba(0,0,0,.16);
+          box-shadow: none;
+        }
+        &:hover {
+          color: $white;
+          text-shadow: none;
+          @include linear-gradient(135deg, $red 20%, $orange 100%);
+          // @include linear-gradient(to top, rgba(0,0,0,.02), rgba(0,0,0,0));
+          @include transition(all .2s $ease-in-out-quad);
+          @include media($small) {
+            text-shadow: 0 1px 1px rgba(0,0,0,.2);
+          }
+        }
+      }
+      h1 {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        position: relative;
+        max-width: 90%;
+        font-size: $fs5;
+        font-weight: 500;
+        @extend %liga;
+        @extend %vertical-align;
+      }
+    }
+  }
+}

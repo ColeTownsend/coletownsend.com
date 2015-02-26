@@ -1,0 +1,12 @@
+<header id="top" role="main-header">
+  <nav class="nav-collapse">
+    <hgroup>
+      <a href="{{ site.url }}">{{site.title}}</a>
+    </hgroup>
+    <ul>
+      {% for nav_link in site.data.nav_links %}
+        <li class="inline-block"><a href="{% if nav_link.external %}{{ nav_link.url }}{% else %}{{ site.url }}{{ nav_link.url }}{% endif %}" {% if nav_link.external %} data-no-instant target="_blank"{% endif %}>{{ nav_link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

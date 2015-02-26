@@ -1,0 +1,35 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  display: block;
+  font-family: $base-font-family;
+  text-align: center;
+  width:100%;
+  height: $footer-height;
+  background: $real-black;
+  color: $white;
+  a {
+    color: $white;
+    border-bottom: 1px solid transparentize($white, .4);
+    &:visited {
+      color: $white;
+    }
+  }
+  .buffalo-icon {
+    width: 32px;
+    opacity: 1;
+    position: relative;
+    top: 6px;
+    margin-right: .25rem;
+    opacity: .75;
+  }
+  small {
+    color: $white;
+    @extend %vertical-align;
+    opacity: .15;
+    letter-spacing: 1px;
+    font-weight: 600;
+  }
+}

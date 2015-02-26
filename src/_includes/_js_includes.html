@@ -1,0 +1,63 @@
+<script data-no-instant src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script data-no-instant src="{{ site.url }}{{ site.script }}jquery.fluidbox.js"></script>
+<script type="text/javascript" src="{{ site.url }}{{ site.script }}retina.js"></script>
+<script type="text/javascript" src="{{ site.url }}{{ site.script }}no-src.js"></script>
+<script data-no-instant src="{{ site.url }}{{ site.script }}velocity.min.js"></script>
+<script data-no-instant src="{{ site.url }}{{ site.script }}velocity.ui.min.js"></script>
+<script data-no-instant src="{{ site.url }}{{ site.script }}smooth-scroll.min.js"></script>
+
+<script>
+ $(document).ready(function() {
+  $('a').smoothScroll({offset: -20});
+  $('#work').smoothScroll({offset: -60});
+  $('#top').smoothScroll({offset: 120});
+ });
+</script>
+
+<script data-no-instant>
+$(function () {
+  $(".zoomIt").fluidbox({
+    closeTrigger: [
+      { selector: '#fluidbox-overlay', event: 'click'},
+      { selector: 'window', event: 'scroll'}
+    ]
+  });
+});
+</script>
+
+<script>
+$.Velocity.RegisterUI("transition.bounceIn", {
+  defaultDuration: 1200,
+  calls: [
+    [ { scale: 0 }, .5, { easing: [ 250, 12 ] } ],
+    [ {opacity: 1}, .5],
+    [ { scale: 1 }, .7, { easing: [ 250, 12 ] } ]
+  ]
+});
+
+$(".work-grid").velocity("transition.bounceIn", { delay: 100, stagger: 100, drag: true });
+</script>
+
+<script>
+$.Velocity.RegisterUI("transition.bounceIn", {
+  defaultDuration: 1200,
+  calls: [
+    [ { scale: 0 }, .5, { easing: [ 250, 12 ] } ],
+    [ {opacity: 1}, .5],
+    [ { scale: 1 }, .7, { easing: [ 250, 12 ] } ]
+  ]
+});
+$(".buffalo").velocity("transition.bounceIn");
+</script>
+
+<script>
+  $(function () {
+    $('a[role="fluidbox"]').fluidbox();
+  })
+</script>
+
+<script src="{{ site.url }}{{ site.script }}instantclick.js"></script>
+
+<script data-no-instant>
+  InstantClick.init(25);
+</script>

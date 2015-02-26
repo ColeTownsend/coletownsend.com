@@ -1,0 +1,217 @@
+.about {
+  position: relative;
+  .buffalo {
+    @include user-select();
+    @include retina-image("../images/assets/buffalo-blue", 2rem 2rem);
+    // @include background(url("../images/assets/buffalo-grey.svg"), center center no-repeat);
+    @include hidpi(1.5) {
+      background-size: 2rem 1.5rem;
+    }
+    @include media($small) {
+      display: none;
+    }
+    background-repeat: no-repeat;
+    opacity: .25;
+    position: fixed;
+    bottom: 2em;
+    left: 2em;
+    width: 2rem;
+    height: 2rem;
+    opacity: 0;
+    font-family: $sans-serif !important;
+    &:hover {
+      opacity: 1;
+      @include retina-image("../images/assets/buffalo-red", 2rem 2rem);
+      // @include background(url("../images/assets/buffalo-red.svg"), center center no-repeat);
+      background-repeat: no-repeat;
+      @include transition(background .3s $base-transition-timing);
+      &:before {
+        text-align: center;
+        font-family: $sans-serif !important;
+        opacity: 1;
+        -webkit-transition-delay: 0s, 0s, 0s, 0.1s;
+        transition-delay: 0s, 0s, 0s, 0.1s;
+        -webkit-transform: scale(1) translateX(75%) translateY(0%);
+        transform: scale(1) translateX(75%) translateY(0%);
+      }
+    }
+    &:before {
+      opacity: 0;
+      color: $white;
+      @include user-select();
+      -webkit-border-radius: $base-border-radius;
+      -moz-border-radius: $base-border-radius;
+      border-radius: $base-border-radius;
+      position: absolute;
+      top: -5%;
+      left: 5%;
+      content: attr(href);
+      background: $red;
+      padding: 0 .5rem;
+      font-weight: 600;
+      font-size: 50%;
+      text-transform: uppercase;
+      @include transition(all .3s $ease-in-out-quad);
+      -webkit-transform: scale(0.5);
+      transform: scale(0.5);
+      pointer-events: auto;
+    }
+  }
+  .wrap {
+    padding-top: $base-line-height*3;
+    padding-bottom: $base-line-height*3;
+  }
+  .profile-links a {
+    color: $base-link-color;
+    @include transition(color .2s $ease-in-out-sine);
+    &:hover {
+      color: $hover-link-color;
+      @include transition(color .2s $ease-in-out-sine);
+    }
+  }
+  .main-about li a  {
+    color: $blue-black;
+    @include underline($base-body-color, $blue-black);
+    &:hover {
+      color: darken($blue-black, 10);
+    }
+  }
+  aside {
+    &:first-of-type {
+      @include shift(.5);
+      @include span-columns(3.5);
+      min-height: 300px;
+      @include media($small) {
+        display: none;
+      }
+    }
+    @include span-columns(8);
+    @include omega();
+    @include media($small) {
+      @include span-columns(4 of 4);
+    }
+  }
+  h2 {
+    position: relative;
+    z-index: 2;
+  }
+  .profile-wrap {
+    @include span-columns(3 of 3.5);
+    position: relative;
+    top: 10px;
+    margin-bottom: $base-line-height - em(10, 20);
+    img {
+      width: 11em;
+      height: auto;
+      opacity: .7;
+      position: relative;
+      z-index: 1;
+      float: right;
+      @include border-top-radius($border-radius);
+    }
+    .border {
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      bottom: 6%;
+      right: 6%;
+      z-index: 2;
+      border: 2px solid transparentize($blue, .4);
+      @include transition(transform .2s $ease-in-out-quad);
+      &:hover {
+        @include transform-origin(top right);
+        @include transform(translate(-.75em, -.75em));
+        @include transition(transform .2s $ease-in-out-quad);
+      }
+    }
+  }
+
+  .profile-links {
+    @include span-columns(2.5 of 3);
+    font-family: $base-font-family;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: right;
+    small {
+      display: inline-block;
+    }
+  }
+}
+
+.red-marker {
+  width: .25em;
+  height: .25em;
+  display: inline-block;
+  background: $red;
+  margin-right: .1em;
+  position: relative;
+  top: -.1em;
+}
+
+.red-marker + .work-status {
+  color: $red;
+}
+
+.green-marker {
+  @extend .red-marker;
+  background: $green;
+}
+
+.green-marker + .work-status {
+  color: $green;
+}
+
+
+
+.buffalo-full {
+    @include user-select();
+    @include background(url("../images/assets/buffalo-red-huge.png"), center center no-repeat);
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    top: 20vh;
+    background-size: 100% auto;
+    width: 4rem;
+    height: 4rem;
+    font-family: $sans-serif !important;
+    @extend .jelly-big;
+    &:hover {
+      opacity: 1;
+      @include background(url("../images/assets/buffalo-red-huge.png"), center center no-repeat);
+      background-repeat: no-repeat;
+      @include transition(all .3s $base-transition-timing);
+      background-size: 100% auto;
+      &:before {
+        text-align: center;
+        font-family: $sans-serif !important;
+        opacity: 1;
+        -webkit-transition-delay: 0s, 0s, 0s, 0.1s;
+        transition-delay: 0s, 0s, 0s, 0.1s;
+        -webkit-transform: scale(1) translateX(0%) translateY(-100%);
+        transform: scale(1) translateX(0%) translateY(-100%);
+      }
+    }
+    &:before {
+      opacity: 0;
+      color: $white;
+      @include user-select();
+      -webkit-border-radius: $base-border-radius;
+      -moz-border-radius: $base-border-radius;
+      border-radius: $base-border-radius;
+      position: absolute;
+      top: -3rem;
+      left: 2rem;
+      content: 'New Site!';
+      background: $red;
+      padding: .5em 1em;
+      font-weight: 600;
+      font-size: 80%;
+      text-transform: uppercase;
+      width: 4rem;
+      @include transition(all .3s $ease-in-out-quad);
+      -webkit-transform: scale(0.75);
+      transform: scale(0.75);
+      pointer-events: auto;
+    }
+  }
