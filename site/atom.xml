@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Twnsnd Co</title>
+ <link href="coletownsend.github.io/coletownsend.com/atom.xml" rel="self"/>
+ <link href="coletownsend.github.io/coletownsend.com/"/>
+ <updated>2015-02-27T12:55:56-05:00</updated>
+ <id>coletownsend.github.io/coletownsend.com</id>
+ <author>
+   <name>Cole Townsend</name>
+   <email>cole@coletownsend.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Fifty Shades of Greige</title>
+   <link href="coletownsend.github.io/coletownsend.com/links/fifty-shades"/>
+   <updated>2015-02-16T11:20:22-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/links/fifty-shades</id>
+   <content type="html">&lt;p&gt;Sass Functions Rock.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Panda Network</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/panda-network"/>
+   <updated>2015-02-16T00:00:00-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/panda-network</id>
+   <content type="html">&lt;p&gt;Panda Network is the bootstrapped co-founding duo of Ahmet Sulek and William Channer. They simply get things done. They work in collaboration with many different developers and designers to ship apps you may be familiar with. I was lucky enough to work through them on &lt;a href=&quot;/work/thenews&quot;&gt;TheNews&lt;/a&gt;, designing both the iOS app, iOS app landing page, and redesigning the web app.&lt;/p&gt;
+
+&lt;h2&gt;Getting Stuff Done&lt;/h2&gt;
+
+&lt;p&gt;After mulling over 3 different layouts, Ahmet, Williams and I decided on a simple and straightforward list. It speaks to their style of work. They&amp;rsquo;re quick to reply, keep things moving, and stay organized. They also have a ton of projects off the ground. Their body of work really speaks for them, all they need is a place to invoke the various brands under the Panda Network umbrella.&lt;/p&gt;
+
+&lt;p&gt;This is a more basic but eye catching approach. It&amp;rsquo;s straightforward and speaks directly to developers and designers who have likely heard of what Panda Networks has created. Panda can continually add new works as well without destroying the design and it will only further reinforce their identity.&lt;/p&gt;
+
+&lt;figure class=&quot;full-width&quot;&gt;
+  &lt;img src=&quot;coletownsend.github.io/coletownsend.com/assets/images/inline//panda-mocks/imac/panda-network.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;h2&gt;Copywriting&lt;/h2&gt;
+
+&lt;p&gt;After stumbling across the portfolios of a few copywriters, I noted how the ones I liked best and the ones that seemed the most effective were short and punchy. They were descriptive, but not flowery.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Panda Network is a collaborative think tank created by Ahmet Sulek and William Channer. In the past they&amp;rsquo;ve worked with many talented developers and designers including Cole Townsend, Yagiz Nizipli, and Tosin Afolabi.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2&gt;Executing the Animation&lt;/h2&gt;
+
+&lt;p&gt;I was impressed with Ahmet&amp;rsquo;s execution on the part of the click and scale animation that I gave him a set of rudimentary keyframes for. He also added the springiness to the underlines, atmospheric bubbles, and the animated letters. The added animations were certainly welcome to the design. You can seem them at the live site — &lt;a href=&quot;http://panda.network&quot;&gt;panda.network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div&gt;
+&lt;video controls=&quot;false&quot; autoplay=&quot;autoplay&quot;&gt;
+  &lt;source src=&quot;coletownsend.github.io/coletownsend.com/images/inline/panda-screen.mp4&quot; type=&quot;video/mp4&quot;&gt;
+  &lt;div&gt;
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.companda-networks.jpg&quot; title=&quot;Panda Networks landing page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.companda-networks.jpg&quot; alt=&quot;Panda Networks landing page&quot; title=&quot;Panda Networks landing page&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/video&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h2&gt;Mobile&lt;/h2&gt;
+
+&lt;p&gt;The website also comes in a mobile flavor. It&amp;rsquo;s styled according to work per medium — when accessed on a mobile device, their latest apps available in the App Store appear.&lt;/p&gt;
+
+&lt;figure class=&quot;full-width&quot;&gt;
+  &lt;img src=&quot;coletownsend.github.io/coletownsend.com/assets/images/inline//panda-mocks/panda-mock-iphone.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Currently the website is optimized for a generic width starting at a minimum of 320px, and looks best on slightly larger more powerful devices due to the slightly resource intensive animation. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nomad CLI</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/nomadpm"/>
+   <updated>2015-01-31T00:00:00-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/nomadpm</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://nomad.cool&quot;&gt;Nomad&lt;/a&gt; package manager for Arduino. In three commands, you can get your device up and running within minutes using the most popular libraries on the internet. You can also easily package and share your own setup.&lt;/p&gt;
+
+&lt;h2&gt;Logo&lt;/h2&gt;
+
+&lt;p&gt;The logo is an asymmetric tent with bright red hues with a deep purple stroke. It&amp;rsquo;s meant to evoke the hunter-gatherer lifestyle of its namesake: fire, warmth, safety, mobility, and flexibility.&lt;/p&gt;
+
+&lt;p&gt;Initially, I played with the idea of camels, horses, and wood fires. I thought about working on a way to simplify the nomadic lifestyle: yurts, tents, constellations, rock paintings. What resonated the most with the name I felt was the tent. In just over an hour I had a working piece.&lt;/p&gt;
+
+&lt;p&gt;I sketched out several pages and found the most appealing to be the assymetric skewed towards the right. I didn&amp;rsquo;t do any fancy golden ratio circles or grid setup for this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img style=&quot;display: block; margin: 0 auto; width: 100%; border: 1px solid #f9f9f9;&quot; src=&quot;coletownsend.github.io/coletownsend.com/images/inline/nomadpm-logos.svg&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Web&lt;/h2&gt;
+
+&lt;p&gt;The website needed to communicate both how to work Nomad while showing how easy the service is to use. The goal in mind was lightweight modularity — just how great code should be. It also needs approachability. While many users will be familiar with command line, they may not be familiar with package managers. I tried to differentiate this site from most code based sites, looking to simplify information and aesthetic flourishes. The result is a clear hierarchy, minimal copywriting, and ample whitespace as to not overwhelm visitors.&lt;/p&gt;
+
+&lt;p&gt;You can see the full website at &lt;a href=&quot;http://nomad.cool&quot;&gt;nomad.cool&lt;/a&gt; or below.
+&lt;br&gt;
+&lt;figure class=&quot;web&quot;&gt;
+  &lt;img class=&quot;land-img&quot; src=&quot;coletownsend.github.io/coletownsend.comnomad-desktop.png&quot;&gt;
+&lt;/figure&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fresh Install Yosemite to Development: The Easy Way</title>
+   <link href="coletownsend.github.io/coletownsend.com/journal/fresh-install-yosemite"/>
+   <updated>2014-12-21T13:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/journal/fresh-install-yosemite</id>
+   <content type="html">&lt;h4&gt;Disclaimer&lt;/h4&gt;
+
+&lt;p&gt;This requires being comfortable in the command line. You&amp;rsquo;ve been warned. This is also opinionated to a degree. It sets you up with the following:
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OSX Yosemite&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;zsh as default in command line&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;numerous other settings from &lt;a href=&quot;http://thoughtbot.com&quot;&gt;thoughtbot&lt;/a&gt; &lt;a href=&quot;https://github.com/thoughtbot/laptop&quot;&gt;laptop&lt;/a&gt; and &lt;a href=&quot;https://github.com/thoughtbot/dotfiles&quot;&gt;dotfiles&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;all the apps that I use that are listed in the &lt;code&gt;cask-install.sh&lt;/code&gt;. You can add different ones available via &lt;a href=&quot;http://caskroom.io&quot;&gt;caskroom.io&lt;/a&gt;.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t install any Appstore apps yet, except for the OSX Yosemite Installer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Here&amp;rsquo;s the game plan:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Backup your laptop, perhaps twice. Sync everything that you can. Also upload your Sublime Text preferences to Dropbox or make it a gist so you can copy it all back.&lt;/li&gt;
+&lt;li&gt;Download OSX Yosemite from the App Store.&lt;/li&gt;
+&lt;li&gt;Format jump drive &amp;ldquo;Untitled&amp;rdquo; of 8gb or more.&lt;/li&gt;
+&lt;li&gt;Run a terminal command to format the install for use off of the &amp;ldquo;Untitled&amp;rdquo; jum drive.&lt;/li&gt;
+&lt;li&gt;Set your startup disk as the jump drive&lt;/li&gt;
+&lt;li&gt;Restart&lt;/li&gt;
+&lt;li&gt;Format your hard drive so it&amp;rsquo;s clean. There&amp;rsquo;s a little bug with hidden files and node_modules.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Making the Bootable USB&lt;/h3&gt;
+
+&lt;p&gt;Download OSX Yosemite from the App Store. It installs to your Applications folder.&lt;/p&gt;
+
+&lt;h4&gt;The USB&lt;/h4&gt;
+
+&lt;p&gt;Find an 8GB USB drive. You can use a larger one but this only requires about 6GB of space. Open disk utility and erase it. The default settings are just what we need.&lt;/p&gt;
+
+&lt;h4&gt;The Terminal Command&lt;/h4&gt;
+
+&lt;p&gt;Once you have it formatted run copy and paste the code below into your terminal window. This will prompt you for your password. Give your password and wait for a while. This process takes between 30-45 minutes usually.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app --nointeraction
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Once the task is done, you&amp;rsquo;ll have a bootable USB. In Spotlight, type in &amp;ldquo;Startup Disk&amp;rdquo;. This is a system preference and you should select your USB which is now titled &amp;ldquo;Install OSX Yosemite&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3&gt;Dev Envi Comes First&lt;/h3&gt;
+
+&lt;h4&gt;Laptop Script&lt;/h4&gt;
+
+&lt;p&gt;First create a file &lt;code&gt;nano ~/.laptop.local&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Then copy and paste the following (adjusted for your preferences:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;# Install native apps
+# Usage: `./cask-install.sh`
+
+brew install caskroom/cask/brew-cask
+brew tap caskroom/versions
+
+brew cask install github
+brew cask install dropbox
+brew cask install slack
+brew cask install google-chrome
+brew cask install imagealpha
+brew cask install imageoptim
+brew cask install the-unarchiver
+brew cask install keka
+brew cask install transmission
+brew cask install vlc
+brew cask install alfred
+brew cask install macdown
+brew cask install quickcast
+brew cask install monotype-skyfonts
+brew cask install google-drive
+brew cask install caffeine
+brew cask install java
+brew cask install flash
+brew cask install mailbox
+brew cask install eve
+brew cask install whiskey
+brew cask install coconutbattery
+brew cask install plug
+
+# dev specific tools
+brew cask install mamp
+brew cask install codekit
+brew cask install transmit
+brew cask install integrity
+# brew cask install sublime-text (this is version 2)
+
+# random design tools
+brew cask install glueprint
+brew cask install pixel-winch
+brew cask install dash
+brew cask install gifrocket
+brew cask install cactus
+brew cask install glueprint
+brew cask install flux
+brew cask install inboard
+brew cask install sketch-toolbox
+
+# Add Cask to Alfred search scope
+brew cask alfred link
+
+brew install npm
+
+npm install yo -g
+npm install generator-jekyllized
+npm install grunt-cli -g
+npm install gulp -g
+npm install ember -g
+
+gem install sass
+gem install jekyll
+rbenv rehash
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This sets you up with an install script that is run at the end of thoughtbot&amp;rsquo;s &lt;a href=&quot;https://github.com/thoughtbot/laptop&quot;&gt;laptop&lt;/a&gt; script. Then simply follow their instructions. It&amp;rsquo;s a curl command and a couple others that you should copy and paste into terminal. The &lt;code&gt;less mac&lt;/code&gt; is really just a prompt and doesn&amp;rsquo;t do anything you need to worry about. After quitting that prompt, run the third line. It logs everything to laptop.log as well.&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;curl --remote-name https://raw.githubusercontent.com/thoughtbot/laptop/master/mac
+less mac
+bash mac 2&amp;gt;&amp;amp;1 | tee ~/laptop.log
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;After this you should have most of your apps install and be ready to rock and roll. Sometimes you may run into an issue when re-running this if you haven&amp;rsquo;t declared an Alfred preferences file.&lt;/p&gt;
+
+&lt;h4&gt;Dotfiles Script&lt;/h4&gt;
+
+&lt;p&gt;Per thoughtbot&amp;rsquo;s instructions, run &lt;code&gt;chsh -s $(which zsh)&lt;/code&gt; to set zsh as your login shell. Then run &lt;code&gt;git clone git://github.com/thoughtbot/dotfiles.git
+&lt;/code&gt; from terminal which will clone the files into your repo. Finally install rcm by running:&lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;brew tap thoughtbot/formulae
+brew install rcm
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then bust out this little command in the terminal: &lt;code&gt;env RCRC=$HOME/dotfiles/rcrc rcup&lt;/code&gt;. Then to update all you need to do is &lt;code&gt;rcup&lt;/code&gt; it.&lt;/p&gt;
+
+&lt;h4&gt;Minor Errors and Issues with Dotfiles&lt;/h4&gt;
+
+&lt;p&gt;I needed to reinstall xCode command line tools and agree to their user agreements because I didn&amp;rsquo;t completely follow the instructions of laptop. Follow the script blindly. &lt;em&gt;Once the script is finished be sure to check for the dotfiles-local directory.&lt;/em&gt; When I ran the script it didn&amp;rsquo;t create this folder and I needed to kind of infer what I needed to do. This messed up my gitconfig stuff etc. This rcup deal can be run multiple times as well! Pretty neat. What it does is create aliases for all of these files which is cool.&lt;/p&gt;
+
+&lt;h3&gt;Finishing Touches&lt;/h3&gt;
+
+&lt;p&gt;I ran this script below that changes OSX preferences, but it requires a restart. &lt;/p&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;#!/usr/bin/env bash
+
+# ~/.osx — https://mths.be/osx
+
+# Ask for the administrator password upfront
+sudo -v
+
+# Keep-alive: update existing `sudo` time stamp until `.osx` has finished
+while true; do sudo -n true; sleep 60; kill -0 &amp;quot;$$&amp;quot; || exit; done 2&amp;gt;/dev/null &amp;amp;
+
+###############################################################################
+# General UI/UX                                                               #
+###############################################################################
+
+# Set computer name (as done via System Preferences → Sharing)
+#sudo scutil --set ComputerName &amp;quot;0x6D746873&amp;quot;
+#sudo scutil --set HostName &amp;quot;0x6D746873&amp;quot;
+#sudo scutil --set LocalHostName &amp;quot;0x6D746873&amp;quot;
+#sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string &amp;quot;0x6D746873&amp;quot;
+
+# Set standby delay to 24 hours (default is 1 hour)
+sudo pmset -a standbydelay 86400
+
+# Disable the sound effects on boot
+sudo nvram SystemAudioVolume=&amp;quot; &amp;quot;
+
+# Set highlight color to green
+defaults write NSGlobalDomain AppleHighlightColor -string &amp;quot;0.764700 0.976500 0.568600&amp;quot;
+
+# Expand save panel by default
+defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true
+defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode2 -bool true
+
+# Expand print panel by default
+defaults write NSGlobalDomain PMPrintingExpandedStateForPrint -bool true
+defaults write NSGlobalDomain PMPrintingExpandedStateForPrint2 -bool true
+
+# Save to disk (not to iCloud) by default
+defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
+
+# Automatically quit printer app once the print jobs complete
+defaults write com.apple.print.PrintingPrefs &amp;quot;Quit When Finished&amp;quot; -bool true
+
+# Disable the “Are you sure you want to open this application?” dialog
+defaults write com.apple.LaunchServices LSQuarantine -bool false
+
+# Remove duplicates in the “Open With” menu (also see `lscleanup` alias)
+/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
+
+# Display ASCII control characters using caret notation in standard text views
+# Try e.g. `cd /tmp; unidecode &amp;quot;\x{0000}&amp;quot; &amp;gt; cc.txt; open -e cc.txt`
+defaults write NSGlobalDomain NSTextShowsControlCharacters -bool true
+
+# Disable Resume system-wide
+defaults write com.apple.systempreferences NSQuitAlwaysKeepsWindows -bool false
+
+# Disable automatic termination of inactive apps
+defaults write NSGlobalDomain NSDisableAutomaticTermination -bool true
+
+# Disable the crash reporter
+#defaults write com.apple.CrashReporter DialogType -string &amp;quot;none&amp;quot;
+
+# Set Help Viewer windows to non-floating mode
+defaults write com.apple.helpviewer DevMode -bool true
+
+# Fix for the ancient UTF-8 bug in QuickLook (https://mths.be/bbo)
+# Commented out, as this is known to cause problems in various Adobe apps :(
+# See https://github.com/mathiasbynens/dotfiles/issues/237
+#echo &amp;quot;0x08000100:0&amp;quot; &amp;gt; ~/.CFUserTextEncoding
+
+# Reveal IP address, hostname, OS version, etc. when clicking the clock
+# in the login window
+sudo defaults write /Library/Preferences/com.apple.loginwindow AdminHostInfo HostName
+
+# Restart automatically if the computer freezes
+sudo systemsetup -setrestartfreeze on
+
+# Check for software updates daily, not just once per week
+defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
+
+# Disable smart quotes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
+
+# Disable smart dashes as they’re annoying when typing code
+defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
+
+# Enable the dark mode toggle of control-option-command-T
+sudo defaults write /Library/Preferences/.GlobalPreferences.plist _HIEnableThemeSwitchHotKey -bool true
+
+
+###############################################################################
+# Trackpad, mouse, keyboard, Bluetooth accessories, and input                 #
+###############################################################################
+
+# Trackpad: enable tap to click for this user and for the login screen
+defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true
+defaults -currentHost write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
+defaults write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
+
+# Increase sound quality for Bluetooth headphones/headsets
+defaults write com.apple.BluetoothAudioAgent &amp;quot;Apple Bitpool Min (editable)&amp;quot; -int 40
+
+# Enable full keyboard access for all controls
+# (e.g. enable Tab in modal dialogs)
+defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
+
+# Use scroll gesture with the Ctrl (^) modifier key to zoom
+defaults write com.apple.universalaccess closeViewScrollWheelToggle -bool true
+defaults write com.apple.universalaccess HIDScrollZoomModifierMask -int 262144
+# Follow the keyboard focus while zoomed in
+defaults write com.apple.universalaccess closeViewZoomFollowsFocus -bool true
+
+# Disable press-and-hold for keys in favor of key repeat
+defaults write NSGlobalDomain ApplePressAndHoldEnabled -bool false
+
+
+###############################################################################
+# Screen                                                                      #
+###############################################################################
+
+# Require password immediately after sleep or screen saver begins
+defaults write com.apple.screensaver askForPassword -int 1
+defaults write com.apple.screensaver askForPasswordDelay -int 0
+
+# Save screenshots to the desktop
+defaults write com.apple.screencapture location -string &amp;quot;${HOME}/Desktop&amp;quot;
+
+# Save screenshots in PNG format (other options: BMP, GIF, JPG, PDF, TIFF)
+defaults write com.apple.screencapture type -string &amp;quot;png&amp;quot;
+
+# Disable shadow in screenshots
+defaults write com.apple.screencapture disable-shadow -bool true
+
+# Enable subpixel font rendering on non-Apple LCDs
+defaults write NSGlobalDomain AppleFontSmoothing -int 2
+
+# Enable HiDPI display modes (requires restart)
+sudo defaults write /Library/Preferences/com.apple.windowserver DisplayResolutionEnabled -bool true
+
+###############################################################################
+# Finder                                                                      #
+###############################################################################
+
+# Finder: allow quitting via ⌘ + Q; doing so will also hide desktop icons
+defaults write com.apple.finder QuitMenuItem -bool true
+
+# Finder: disable window animations and Get Info animations
+defaults write com.apple.finder DisableAllAnimations -bool true
+
+# Set Desktop as the default location for new Finder windows
+# For other paths, use `PfLo` and `file:///full/path/here/`
+defaults write com.apple.finder NewWindowTarget -string &amp;quot;PfDe&amp;quot;
+defaults write com.apple.finder NewWindowTargetPath -string &amp;quot;file://${HOME}/Desktop/&amp;quot;
+
+# Show icons for hard drives, servers, and removable media on the desktop
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
+defaults write com.apple.finder ShowHardDrivesOnDesktop -bool true
+defaults write com.apple.finder ShowMountedServersOnDesktop -bool true
+defaults write com.apple.finder ShowRemovableMediaOnDesktop -bool true
+
+# Finder: show hidden files by default
+#defaults write com.apple.finder AppleShowAllFiles -bool true
+
+# Finder: show all filename extensions
+defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+
+# Finder: show status bar
+defaults write com.apple.finder ShowStatusBar -bool true
+
+# Finder: show path bar
+defaults write com.apple.finder ShowPathbar -bool true
+
+# Finder: allow text selection in Quick Look
+defaults write com.apple.finder QLEnableTextSelection -bool true
+
+# Display full POSIX path as Finder window title
+defaults write com.apple.finder _FXShowPosixPathInTitle -bool true
+
+# When performing a search, search the current folder by default
+defaults write com.apple.finder FXDefaultSearchScope -string &amp;quot;SCcf&amp;quot;
+
+# Disable the warning when changing a file extension
+defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
+
+# Enable spring loading for directories
+defaults write NSGlobalDomain com.apple.springing.enabled -bool true
+
+# Remove the spring loading delay for directories
+defaults write NSGlobalDomain com.apple.springing.delay -float 0
+
+# Avoid creating .DS_Store files on network volumes
+defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
+
+# Disable disk image verification
+defaults write com.apple.frameworks.diskimages skip-verify -bool true
+defaults write com.apple.frameworks.diskimages skip-verify-locked -bool true
+defaults write com.apple.frameworks.diskimages skip-verify-remote -bool true
+
+# Automatically open a new Finder window when a volume is mounted
+defaults write com.apple.frameworks.diskimages auto-open-ro-root -bool true
+defaults write com.apple.frameworks.diskimages auto-open-rw-root -bool true
+defaults write com.apple.finder OpenWindowForNewRemovableDisk -bool true
+
+# Use list view in all Finder windows by default
+# Four-letter codes for the other view modes: `icnv`, `clmv`, `Flwv`
+defaults write com.apple.finder FXPreferredViewStyle -string &amp;quot;Nlsv&amp;quot;
+
+# Disable the warning before emptying the Trash
+defaults write com.apple.finder WarnOnEmptyTrash -bool false
+
+# Empty Trash securely by default
+defaults write com.apple.finder EmptyTrashSecurely -bool true
+
+# Enable AirDrop over Ethernet and on unsupported Macs running Lion
+defaults write com.apple.NetworkBrowser BrowseAllInterfaces -bool true
+
+# Enable the MacBook Air SuperDrive on any Mac
+sudo nvram boot-args=&amp;quot;mbasd=1&amp;quot;
+
+# Show the ~/Library folder
+chflags nohidden ~/Library
+
+# Remove Dropbox’s green checkmark icons in Finder
+file=/Applications/Dropbox.app/Contents/Resources/emblem-dropbox-uptodate.icns
+[ -e &amp;quot;${file}&amp;quot; ] &amp;amp;&amp;amp; mv -f &amp;quot;${file}&amp;quot; &amp;quot;${file}.bak&amp;quot;
+
+# Expand the following File Info panes:
+# “General”, “Open with”, and “Sharing &amp;amp; Permissions”
+defaults write com.apple.finder FXInfoPanesExpanded -dict \
+    General -bool true \
+    OpenWith -bool true \
+    Privileges -bool true
+
+###############################################################################
+# Dock, Dashboard, and hot corners                                            #
+###############################################################################
+
+# Enable spring loading for all Dock items
+defaults write com.apple.dock enable-spring-load-actions-on-all-items -bool true
+
+# Show indicator lights for open applications in the Dock
+defaults write com.apple.dock show-process-indicators -bool true
+
+# Wipe all (default) app icons from the Dock
+# This is only really useful when setting up a new Mac, or if you don’t use
+# the Dock to launch apps.
+#defaults write com.apple.dock persistent-apps -array
+
+# Don’t animate opening applications from the Dock
+defaults write com.apple.dock launchanim -bool false
+
+# Speed up Mission Control animations
+defaults write com.apple.dock expose-animation-duration -float 0.1
+
+# Don’t group windows by application in Mission Control
+# (i.e. use the old Exposé behavior instead)
+defaults write com.apple.dock expose-group-by-app -bool false
+
+# Disable Dashboard
+defaults write com.apple.dashboard mcx-disabled -bool true
+
+# Don’t show Dashboard as a Space
+defaults write com.apple.dock dashboard-in-overlay -bool true
+
+# Don’t automatically rearrange Spaces based on most recent use
+defaults write com.apple.dock mru-spaces -bool false
+
+# Make Dock icons of hidden applications translucent
+defaults write com.apple.dock showhidden -bool true
+
+
+###############################################################################
+# Safari &amp;amp; WebKit                                                             #
+###############################################################################
+
+# Privacy: don’t send search queries to Apple
+defaults write com.apple.Safari UniversalSearchEnabled -bool false
+defaults write com.apple.Safari SuppressSearchSuggestions -bool true
+
+# Press Tab to highlight each item on a web page
+defaults write com.apple.Safari WebKitTabToLinksPreferenceKey -bool true
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2TabsToLinks -bool true
+
+# Show the full URL in the address bar (note: this still hides the scheme)
+defaults write com.apple.Safari ShowFullURLInSmartSearchField -bool true
+
+# Set Safari’s home page to `about:blank` for faster loading
+defaults write com.apple.Safari HomePage -string &amp;quot;about:blank&amp;quot;
+
+# Prevent Safari from opening ‘safe’ files automatically after downloading
+defaults write com.apple.Safari AutoOpenSafeDownloads -bool false
+
+# Allow hitting the Backspace key to go to the previous page in history
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool true
+
+# Hide Safari’s bookmarks bar by default
+defaults write com.apple.Safari ShowFavoritesBar -bool false
+
+# Hide Safari’s sidebar in Top Sites
+defaults write com.apple.Safari ShowSidebarInTopSites -bool false
+
+# Disable Safari’s thumbnail cache for History and Top Sites
+defaults write com.apple.Safari DebugSnapshotsUpdatePolicy -int 2
+
+# Enable Safari’s debug menu
+defaults write com.apple.Safari IncludeInternalDebugMenu -bool true
+
+# Make Safari’s search banners default to Contains instead of Starts With
+defaults write com.apple.Safari FindOnPageMatchesWordStartsOnly -bool false
+
+# Remove useless icons from Safari’s bookmarks bar
+defaults write com.apple.Safari ProxiesInBookmarksBar &amp;quot;()&amp;quot;
+
+# Enable the Develop menu and the Web Inspector in Safari
+defaults write com.apple.Safari IncludeDevelopMenu -bool true
+defaults write com.apple.Safari WebKitDeveloperExtrasEnabledPreferenceKey -bool true
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled -bool true
+
+# Add a context menu item for showing the Web Inspector in web views
+defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
+
+###############################################################################
+# Activity Monitor                                                            #
+###############################################################################
+
+# Show the main window when launching Activity Monitor
+defaults write com.apple.ActivityMonitor OpenMainWindow -bool true
+
+# Visualize CPU usage in the Activity Monitor Dock icon
+defaults write com.apple.ActivityMonitor IconType -int 5
+
+# Show all processes in Activity Monitor
+defaults write com.apple.ActivityMonitor ShowCategory -int 0
+
+# Sort Activity Monitor results by CPU usage
+defaults write com.apple.ActivityMonitor SortColumn -string &amp;quot;CPUUsage&amp;quot;
+defaults write com.apple.ActivityMonitor SortDirection -int 0
+
+###############################################################################
+# Address Book, Dashboard, iCal, TextEdit, and Disk Utility                   #
+###############################################################################
+
+# Enable the debug menu in Address Book
+defaults write com.apple.addressbook ABShowDebugMenu -bool true
+
+# Enable Dashboard dev mode (allows keeping widgets on the desktop)
+defaults write com.apple.dashboard devmode -bool true
+
+# Enable the debug menu in iCal (pre-10.8)
+defaults write com.apple.iCal IncludeDebugMenu -bool true
+
+# Use plain text mode for new TextEdit documents
+defaults write com.apple.TextEdit RichText -int 0
+# Open and save files as UTF-8 in TextEdit
+defaults write com.apple.TextEdit PlainTextEncoding -int 4
+defaults write com.apple.TextEdit PlainTextEncodingForWrite -int 4
+
+# Enable the debug menu in Disk Utility
+defaults write com.apple.DiskUtility DUDebugMenuEnabled -bool true
+defaults write com.apple.DiskUtility advanced-image-options -bool true
+
+###############################################################################
+# Mac App Store                                                               #
+###############################################################################
+
+# Enable the WebKit Developer Tools in the Mac App Store
+defaults write com.apple.appstore WebKitDeveloperExtras -bool true
+
+# Enable Debug Menu in the Mac App Store
+defaults write com.apple.appstore ShowDebugMenu -bool true
+
+###############################################################################
+# Messages                                                                    #
+###############################################################################
+
+# Disable smart quotes as it’s annoying for messages that contain code
+defaults write com.apple.messageshelper.MessageController SOInputLineSettings -dict-add &amp;quot;automaticQuoteSubstitutionEnabled&amp;quot; -bool false
+
+###############################################################################
+# Google Chrome &amp;amp; Google Chrome Canary                                        #
+###############################################################################
+
+# Allow installing user scripts via GitHub Gist or Userscripts.org
+defaults write com.google.Chrome ExtensionInstallSources -array &amp;quot;https://gist.githubusercontent.com/&amp;quot; &amp;quot;http://userscripts.org/*&amp;quot;
+
+# Disable the all too sensitive backswipe
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false
+defaults write com.google.Chrome.canary AppleEnableSwipeNavigateWithScrolls -bool false
+
+# Use the system-native print preview dialog
+defaults write com.google.Chrome DisablePrintPreview -bool true
+defaults write com.google.Chrome.canary DisablePrintPreview -bool true
+
+
+###############################################################################
+# Sublime Text                                                                #
+###############################################################################
+
+# Install Sublime Text settings
+cp -r init/Preferences.sublime-settings ~/Library/Application\ Support/Sublime\ Text*/Packages/User/Preferences.sublime-settings 2&amp;gt; /dev/null
+
+###############################################################################
+# Transmission.app                                                            #
+###############################################################################
+
+# Use `~/Documents/Torrents` to store incomplete downloads
+defaults write org.m0k.transmission UseIncompleteDownloadFolder -bool true
+defaults write org.m0k.transmission IncompleteDownloadFolder -string &amp;quot;${HOME}/Documents/Incomplete&amp;quot;
+
+# Don’t prompt for confirmation before downloading
+defaults write org.m0k.transmission DownloadAsk -bool false
+
+# Trash original torrent files
+defaults write org.m0k.transmission DeleteOriginalTorrent -bool true
+
+# Hide the donate message
+defaults write org.m0k.transmission WarningDonate -bool false
+# Hide the legal disclaimer
+defaults write org.m0k.transmission WarningLegal -bool false
+
+###############################################################################
+# Twitter.app                                                                 #
+###############################################################################
+
+# Disable smart quotes as it’s annoying for code tweets
+defaults write com.twitter.twitter-mac AutomaticQuoteSubstitutionEnabled -bool false
+
+# Show the app window when clicking the menu bar icon
+defaults write com.twitter.twitter-mac MenuItemBehavior -int 1
+
+# Enable the hidden ‘Develop’ menu
+defaults write com.twitter.twitter-mac ShowDevelopMenu -bool true
+
+# Open links in the background
+defaults write com.twitter.twitter-mac openLinksInBackground -bool true
+
+# Allow closing the ‘new tweet’ window by pressing `Esc`
+defaults write com.twitter.twitter-mac ESCClosesComposeWindow -bool true
+
+# Show full names rather than Twitter handles
+defaults write com.twitter.twitter-mac ShowFullNames -bool true
+
+# Hide the app in the background if it’s not the front-most window
+defaults write com.twitter.twitter-mac HideInBackground -bool true
+
+###############################################################################
+# Kill affected applications                                                  #
+###############################################################################
+
+for app in &amp;quot;Activity Monitor&amp;quot; &amp;quot;Address Book&amp;quot; &amp;quot;Calendar&amp;quot; &amp;quot;Contacts&amp;quot; &amp;quot;cfprefsd&amp;quot; \
+    &amp;quot;Dock&amp;quot; &amp;quot;Finder&amp;quot; &amp;quot;Mail&amp;quot; &amp;quot;Messages&amp;quot; &amp;quot;Safari&amp;quot; &amp;quot;SizeUp&amp;quot; &amp;quot;SystemUIServer&amp;quot; \
+    &amp;quot;Terminal&amp;quot; &amp;quot;Transmission&amp;quot; &amp;quot;Twitter&amp;quot; &amp;quot;iCal&amp;quot;; do
+    killall &amp;quot;${app}&amp;quot; &amp;gt; /dev/null 2&amp;gt;&amp;amp;1
+done
+echo &amp;quot;Done. Note that some of these changes require a logout/restart to take effect.&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Pretty Common</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/pretty-common"/>
+   <updated>2014-12-01T00:00:00-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/pretty-common</id>
+   <content type="html">&lt;p&gt;Pretty Common is a collaboration between Noah Buscher and me that produces accessible digital projects. We look to make simple resources for the web that &lt;strong&gt;just work&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This website was built with plain old static html via &lt;a href=&quot;http://mrmrs.io/&quot;&gt;@mrmrs&amp;rsquo;&lt;/a&gt; &lt;a href=&quot;http://tachyons.io/&quot;&gt;tachyons&lt;/a&gt; template which is a development environment and css &amp;ldquo;framework.&amp;rdquo; I put this in quotes because it is really just a comprehensive collection of single use, object oriented global classes.&lt;/p&gt;
+
+&lt;p&gt;Live: &lt;a href=&quot;http://prettycommon.com&quot;&gt;prettycommon.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;div&gt;
+&lt;img style=&quot;width: 100%; height: auto; max-height: 9999px; border: 1px solid #000&quot; src=&quot;coletownsend.github.io/coletownsend.com/images/inline/pretty-common-1.jpg&quot;&gt;
+&lt;br&gt;
+&lt;img style=&quot;width: 100%; height: auto; max-height: 9999px; border: 1px solid #000&quot; src=&quot;coletownsend.github.io/coletownsend.com/images/inline/pretty-common-2.jpg&quot;&gt;
+&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Two Dribbble Invites</title>
+   <link href="coletownsend.github.io/coletownsend.com/links/two-dribbble-invites"/>
+   <updated>2014-06-21T20:42:53-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/links/two-dribbble-invites</id>
+   <content type="html">&lt;p&gt;Two invites up for grabs!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>TheNews</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/thenews"/>
+   <updated>2014-06-12T16:53:04-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/thenews</id>
+   <content type="html">&lt;p&gt;TheNews is a website and app that combines Hacker and Designer News. It&amp;rsquo;s simple to quickly browse both, checking on the latest links, resources, and updates in the tech and web community.&lt;/p&gt;
+
+&lt;h2&gt;Now for iOS&lt;/h2&gt;
+
+&lt;p&gt;Inspired by &lt;a href=&quot;thenews.im&quot;&gt;thenews.im&lt;/a&gt; by &lt;a href=&quot;twitter.com/ahmetsulek&quot;&gt;Ahmet Sulek&lt;/a&gt;, &lt;a href=&quot;twitter.com/tosinaf&quot;&gt;Tosin Afolabi&lt;/a&gt;, and I decided to bring it over to iOS. It takes advantage of native gestures, as well as conditioned gestures to make for a clean, natural feeling experience. I was lucky enough to have a target user base that is experienced with gestures. Swiping the navigation bar at the top switches between Designer and Hacker News. Swiping a post from right to left takes the user to the comment thread. Swiping from left to right &amp;ldquo;up votes&amp;rdquo; the post.&lt;/p&gt;
+
+&lt;p&gt;You can see the app landing page here: &lt;a href=&quot;http://thenewsapp.co&quot;&gt;TheNews App&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  &lt;figcaption&gt;Commenting&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comthenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comthenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  &lt;figcaption&gt;The Menu&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comthenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comthenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  &lt;figcaption&gt;MOTD&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comthenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comthenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  &lt;figcaption&gt;Hacker News&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comthenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comthenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comthenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comthenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;TheNews App Site&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Purple Valley Coffee Club</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/purple-valley-coffee-club"/>
+   <updated>2014-05-29T15:10:14-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/purple-valley-coffee-club</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://pvcc.twnsnd.co&quot;&gt;Purple Valley Coffee&lt;/a&gt; is a school club I started to expose students, both familiar and unfamiliar to coffee and brewing, to new methods of production, different styles of beans, and some basic chemistry related to production. Students will learn how to make their own coffe, and will no longer rely on cafes.&lt;/p&gt;
+
+&lt;p&gt;I created this microsite as a way of organizing member sign up so I can update the constitution to reflect the current members as well as apply to Williams College Council for the appropriate ammount of funding.&lt;/p&gt;
+
+&lt;p&gt;It also serves as a base for information to increase transparency and drive membership and a place to document the experiences of the group. &lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;This site is only accessible on Williams College wifi as it has student names. Better safe than sorry.&lt;/u&gt;&lt;/p&gt;
+
+&lt;h6&gt;Details&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;typeset in GT Walsheim and Inconsolata&lt;/li&gt;
+&lt;li&gt;Served via Jekyll&lt;/li&gt;
+&lt;li&gt;styled with SCSS&lt;/li&gt;
+&lt;li&gt;Hosted by BlueHost&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.com&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/thumbs/&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  &lt;figcaption&gt;Sign Up&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.compvcc-sign-up.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.compvcc-sign-up.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Meeet</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/meeet"/>
+   <updated>2014-05-27T00:00:00-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/meeet</id>
+   <content type="html">&lt;p&gt;Side projects are gaining popularity in the web community. Volunteered to bulk up your résumé? Open source projects are volunteering in the web community. And they make a difference both seen and unseen. They&amp;rsquo;re launching careers. They&amp;rsquo;re expanding beyond mere side projects for some. Chances are that you have heard of Animate.css (Dan Eden). Perhaps you haven’t heard of Jake Kelly, but I’m sure you’re familiar with one of his projects: Behave.js, Snap.js, or Mention.js. You may have read Typoguide by Benedikt Lehnert, or used AnchorCMS developed by Visual Idiot.    &lt;/p&gt;
+
+&lt;p&gt;Sometimes these projects were small enough for one, but often there is a second pair of eyes and hands, a second mind, helping implement. Finding the right person to fill this role is often difficult. You can’t always find a perfect match for skills. your mentions on Twitter fell on silent ears. Designer News lacked a response. There’s &lt;a href=&quot;http://programmermeetdesigner.com/&quot;&gt;Programmer Meet Designer&lt;/a&gt;, but everyone there is looking for a long term partner. It’s centered around money and location. It’s too much commitment. &lt;/p&gt;
+
+&lt;p&gt;For a side project, you just need someone to help you launch. You need to get a working product on the table with someone as skilled as you are, someone that complements your talents and mindset. Give your project a name, describe its purpose, and put down a few tags marking skills you need to finish it. You’ll have access to an awesome pool of other designers and developers, filtered by best match to your project. Instead of soliciting help on Twitter or cold emailing friends of friends, you can contact a fellow member of Meeet. &lt;/p&gt;
+
+&lt;p&gt;We’re hoping that this will help more people launch their side projects and develop a community of developers and designers who love working collaboratively to make the web a better place.&lt;/p&gt;
+
+&lt;p&gt;You can check out the site and sign up for updates: &lt;a href=&quot;http://meeet.co&quot;&gt;Meeet Co&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We’d love to hear from you at &lt;a href=&quot;mailto:us@meeet.co&quot;&gt;us@meeet.co&lt;/a&gt;, or on Twitter &lt;a href=&quot;http://twitter.com/meeetco&quot;&gt;@meeetco&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tuchuang</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/tuchuang"/>
+   <updated>2014-05-26T17:01:50-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/tuchuang</id>
+   <content type="html">&lt;h2&gt;Logo&lt;/h2&gt;
+
+&lt;p&gt;I developed the logo as well as business cards for the company. In the logo, I aimed to communicate trustworthiness, stability, and approachability. After many different sketches, I chose an off centered, three dimensional &amp;ldquo;T&amp;rdquo;. A flat &amp;ldquo;T&amp;rdquo; seemed a bit boring, interchangeable, unapproachable. It didn&amp;rsquo;t communicate the close relationship that Tuchuang aims to develop with clients. Adding a dimension and separating the sides gave it a bit of visual interest, while still communicating Tuchuang&amp;rsquo;s professionalism, effectiveness, and strength. The end result is easily reproduced, visually consistent in all media, and scales perfectly. &lt;/p&gt;
+
+&lt;h2&gt;Business Cards&lt;/h2&gt;
+
+&lt;p&gt;With a template already in mind, I created a slightly more unique business card that would look great in both Chinese and English.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comtuch-biz-front.png&quot;&gt;
+&lt;img src=&quot;coletownsend.github.io/coletownsend.comtuch-biz-back.png&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Website&lt;/h2&gt;
+
+&lt;p&gt;I provided the layout, illustrations, as well as CSS for various elements. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comtuch-illust.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;web&quot;&gt;
+&lt;img class=&quot;land-img&quot; src=&quot;coletownsend.github.io/coletownsend.comtuch-small-land.jpg&quot;&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Portfolio of Tosin Afolabi</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/tosin-af"/>
+   <updated>2014-04-11T14:59:54-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/tosin-af</id>
+   <content type="html">&lt;p&gt;This portfolio site is for a friend with whom I work. He wanted something that was unique, a bit edgier than the traditional site for a developer. I created several different color palettes as well as a motion prototype in &lt;em&gt;Adobe Edge Effects&lt;/em&gt; to flesh out timing and give him an idea of how his site would feel. &lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comtosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comtosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  &lt;figcaption&gt;Case Study&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comtosin-work.png&quot; title=&quot;Case Study&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comtosin-work.png&quot; alt=&quot;Case Study&quot; title=&quot;Case Study&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  &lt;figcaption&gt;Portfolio Listing&lt;/figcaption&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comtosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comtosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Goodrich Coffee</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/goodrich-coffee"/>
+   <updated>2014-03-25T19:41:57-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/goodrich-coffee</id>
+   <content type="html">&lt;p&gt;At Williams College, I worked with Goodrich Coffee Bar. I developed their identity through several poster campaigns. With custom illustrations and cheeky copywriting I helped develop their brand voice. I used the typeface Soleil, available on Typekit.&lt;/p&gt;
+
+&lt;h2&gt;Fall Campaign&lt;/h2&gt;
+
+&lt;p&gt;The fall advertising campaign focuses on seasonal goods and merchandise to entice first year students and parents. 
+&lt;div&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comgcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comgcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comgcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comgcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comgcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comgcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comgcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comgcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;h2&gt;Winter Campaign&lt;/h2&gt;
+
+&lt;p&gt;The winter campaign focused on communicating new deals to students. In January 2014, Goodrich Coffee Bar started offering weekly specials during their new late night hours. Every day that Goodrich is open late they offered &lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comgcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comgcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;grid-2&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comgcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comgcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Balzac Theme</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/balzac-theme"/>
+   <updated>2014-03-19T13:27:15-04:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/balzac-theme</id>
+   <content type="html">&lt;h2&gt;Design&lt;/h2&gt;
+
+&lt;p&gt;This theme honestly didn&amp;rsquo;t have such a long design process. I wanted to make create a theme that helped people tell stories. I really wanted to emphasize the writing, which translated to an emphasis on the beautiful Calendas Plus. &lt;/p&gt;
+
+&lt;h3&gt;Calendas Plus&lt;/h3&gt;
+
+&lt;p&gt;Calendas Plus is a wonderful serif typeface designed for longform reading. It has a large x-size and looks beautiful at larger sizes. It tends to read well. &lt;/p&gt;
+
+&lt;h2&gt;For Anchor&lt;/h2&gt;
+
+&lt;p&gt;Creating this theme in Anchor was relatively easy. I used similar php templates to those for my own website, and merely had to style the front end. I used Semantic.gs, a simple grid &lt;u&gt;include for Sass projects, and made it percentage based. The result was a fluid grid with min and max widths. I based the entire format on my favorite blogs and content heavy websites, and used the amazing &lt;a href=&quot;http://www.calendasplus.com/&quot;&gt;Calendas Plus&lt;/a&gt; font. 
+&amp;lt;a href=&amp;ldquo;&lt;a href=&quot;http://gtat.me/balzac&quot;&gt;http://gtat.me/balzac&lt;/a&gt;&amp;rdquo; target=&amp;ldquo;&lt;/u&gt;blank&amp;rdquo;&amp;gt;Demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;For Jekyll&lt;/h2&gt;
+
+&lt;p&gt;The Jekyll version was a bit more tricky. I was unfamiliar with Liquid, which is basically SASS for HTML. It makes large websites both scalable and incredible fast. I utilized some MIT licensed code from &lt;a href=&quot;http://mademistakes.com/&quot;&gt;Michael Rose&lt;/a&gt;, and  quickly got the hang of it. The end result is a blog theme with exactly the same appearance as the Anchor theme, but without all the backend bloat.
+&lt;a href=&quot;http://jekyll.gtat.me/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;A note on Jekyll.&lt;/h3&gt;
+
+&lt;p&gt;Jekyll doesn&amp;rsquo;t use any backend. There is no admin panel or SQL database. It stores all the files in folders. That means the content is static, and caches really well. Instead of loading each page differently for every visitor, it just loads the static file. That takes an enormous load off the servers if there is a lot of traffic.   &lt;/p&gt;
+
+&lt;div&gt;
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.combalzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.combalzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Balzac Hero&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.combalzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.combalzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Balzac Longform&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Typistry</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/typistry"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/typistry</id>
+   <content type="html">&lt;p&gt;Typistry is a single column, reading-centric theme for Tumblr. I wanted to create an environment around the blog post, to coddle long form for a great reading experience. The end result was a theme that looked similar to what one might see on a kindle, on the NYT redesign, or on A List Apart.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;strip-style&quot; href=&quot;http://gum.co/yMIA&quot; class=&quot;gumroad-button&quot;&gt;Buy on Gumroad&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://gumroad.com/js/gumroad.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2&gt;Reader Friendly&lt;/h2&gt;
+
+&lt;p&gt;The goal of this design was to optimize legibility. I focused on the reading experience. I started by choosing a font, and establishing the font size, line height and paragraph width. When I sought out to choose a font, I looked for humanist serifs that I enjoyed reading. I visited the informationArchitects blog, A List Apart, took a look at my kindle, and typed a bit on ByWord. I found that I enjoyed the heavier weighted serifs on my Kindle and A List Apart. I dug through free font catalogs and searched in the Google Web Fonts repo. I stumbled across Lora. Lora has moderate contrast and a tall x-height — perfect for long form reading.&lt;/p&gt;
+
+&lt;p&gt;I then established a typographic rhythm. I used the Pearsonified typographic golden ratio calculator formula with the compute capabilities of SCSS. I established a body width of 620px and a large body font size. The end result was a good balance of line length, font size, and white space. &lt;/p&gt;
+
+&lt;h2&gt;Using Sass&lt;/h2&gt;
+
+&lt;p&gt;I utilized SCSS to style the theme. It was incredible how quickly and easily I could make vast style changes to the blog. Using @mixins was both faster for coding and better for visual consistency. As I made this theme responsive, as opposed to fluid, I changed elements as needed, which lead to less code. I ended up with cleaner CSS, and ultimately fewer changes to the formatting of the blog. Visually, it is consistent and it scales down gracefully to smartphone.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://thetypistry.tumblr.com/&quot;&gt;You can get a feel for Typistry here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Best Resources for Sketch</title>
+   <link href="coletownsend.github.io/coletownsend.com/journal/sketch-app"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/journal/sketch-app</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.bohemiancoding.com/sketch/&quot; target=&quot;_blank&quot;&gt;Sketch App&lt;/a&gt; by Bohemian Coding is &lt;u&gt;the app&lt;/u&gt; for designing websites and interfaces. It&amp;rsquo;s built for UI work. It exclusively uses vectors. The interface is simple and intuitive. It can run off a thumb drive and the program is smaller than the average PSD.&lt;/p&gt;
+
+&lt;p&gt;One area where Sketch lacks is resources. There are so many Photoshop plugins, grids, brushes, and templates. As the industry standard I would expect there to be more for Photoshop, just as Windows runs more games than Mac. That&amp;rsquo;s just how it is.&lt;/p&gt;
+
+&lt;p&gt;Even so, there are a surprising lack of downloads and addons. As there are devs that make games specifically for Mac, I would expect some designers to make resources specifically for Sketch. I didn&amp;rsquo;t find as many as I would like, so I took a few hours of my time to make The Royal Macs. It features a minimally styled iMac, iPad, and iPhone that are infinitely scalable. You can download it &lt;a href=&quot;http://cl.ly/Nrmc&quot; target=&quot;blank&quot;&gt;here&lt;/a&gt; (opens in new tab).&lt;/p&gt;
+
+&lt;p&gt;I encourage you to give Sketch a try. The app is 10mb; neither slow download speed nor hard drive size is a good excuse.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update: Since then, tons of awesome resources for Sketch have come out.&lt;/em&gt; &lt;/p&gt;
+
+&lt;h3&gt;Resources&lt;/h3&gt;
+
+&lt;h6&gt;Stuff I&amp;rsquo;ve Done&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://dribbble.com/shots/1053190-HTC-First?list=show&amp;amp;tag=sketch&quot;&gt;HTC First&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dribbble.com/shots/969976-Sketched-Minimus?list=show&amp;amp;tag=sketch&quot;&gt;Minimus for Sketch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6&gt;Shortcuts + Workflow&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://sketchshortcuts.com/&quot;&gt;Keyboard Shortcuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/bomberstudios/sketch-commands&quot;&gt;Sketch Commands&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6&gt;Assets + Scripts&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.bohemiancoding.com/sketch/community/&quot;&gt;Community Resources on Sketch.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sketchmine.co/&quot;&gt;SketchMine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/pieteromvlee/Sketch-Scripts/tree/master/Examples&quot;&gt;Simple Scripts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.teehanlax.com/tools/iphone-sketch-app/&quot;&gt;iOS 7 Template via Teehan+Lax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sketchgems.com/&quot;&gt;Sketch Gems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://brilliantsketch.com/&quot;&gt;Brilliant Sketch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sketchappsources.com/&quot;&gt;Sketch App Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pinterest.com/sketchsources/resources/&quot;&gt;Pinned Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Quick Guide to Anchor CMS</title>
+   <link href="coletownsend.github.io/coletownsend.com/journal/quick-guide-to-anchor-cms"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/journal/quick-guide-to-anchor-cms</id>
+   <content type="html">&lt;p&gt;Below is a condensed version of the install instructions available at &lt;a href=&quot;http://anchorcms.com/docs/getting-started/installing&quot;&gt;Anchor CMS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Before installing, make sure your platform has the required components to run Anchor.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://anchorcms.com/&quot;&gt;Download the latest version of Anchor&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;In your favourite client, connect to your webhost and upload the files into the public folder. Note: on different hosts, this folder might be called public_html, web, or httpdocs.&lt;/li&gt;
+&lt;li&gt;Most server should be configured to allow the webserver to read and write to your files and folders, but some do not, in this case you will have to change the permissions on the contents and anchor/config folder to 0777 for the installer to run.&lt;/li&gt;
+&lt;li&gt;Next you will need to create a database for Anchor to install to, this can be called anything you like. On different host this process might vary, normally you will have access to some sort of GUI client such as PHPMyAdmin or Sequel Pro. You’ll need to ask your webhost if you’re not sure with this.&lt;/li&gt;
+&lt;li&gt;Navigate your browser to your Anchor installation URL, if you have placed Anchor in a sub directory make sure you append the folder name to the URL: &lt;a href=&quot;http://mydomainname.com/anchor&quot;&gt;http://mydomainname.com/anchor&lt;/a&gt; — &lt;span class=&quot;hilite&quot;&gt;be sure to replace &amp;ldquo;mydomainname&amp;rdquo; with the root domain name to which you have uploaded.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After you&amp;rsquo;ve done all this, you will see a navy blue screen prompting you to install. Run the installer and follow the instructions. &lt;/p&gt;
+
+&lt;p&gt;Using the SQL account (username and password) you created, fill in the various fields listed. From there it is very straight forward.&lt;/p&gt;
+
+&lt;p&gt;Finally you will be prompted to create an account. The default is admin. You can use this, or use a any other username. Once you&amp;rsquo;re done, log in and you&amp;rsquo;re ready for your first post!&lt;/p&gt;
+
+&lt;h6&gt;Relevant Links&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/ColeTownsend/anchor-post-loop&quot;&gt;Post Loop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gtat.me/balzac&quot;&gt;Balzac, a theme for Anchor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Peck</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/peck"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/peck</id>
+   <content type="html">&lt;p&gt;Organizing and scheduling events on campus can be incredibly difficult without one centralized feed. At Williams College, there are &lt;u&gt;three&lt;/u&gt; listing services one must be sure to notify in order to reach the majority of students.&lt;/p&gt;
+
+&lt;h2&gt;Solution&lt;/h2&gt;
+
+&lt;p&gt;The goal of this project was to create an app which is intuitive for schedule organization, while allowing students to curate what types of events appear in various feeds that ultimately filter into one macro-feed for each day. Students would also be able create events, and then choose whom to invite. Ideally, it would also help relieve the often crazed and spontaneous decision to attend an event.&lt;/p&gt;
+
+&lt;h3&gt;Multiple Feeds&lt;/h3&gt;
+
+&lt;p&gt;Students can swipe through several different feeds. The feeds are: &lt;strong&gt;My Horizon&lt;/strong&gt;, the macro-feed of events applying directly to the student on the given day, &lt;strong&gt;Campus Events&lt;/strong&gt;, which lists college organized events, &lt;strong&gt;Athletics&lt;/strong&gt;, which lists sporting events, and &lt;strong&gt;After Hours&lt;/strong&gt;, which lists campus events after dinner (parties and such). There is also an &lt;strong&gt;Activity&lt;/strong&gt; feed, which lists notifications and event alterations, &lt;strong&gt;Dining&lt;/strong&gt;, which lists meal options based on the time, and &lt;strong&gt;Circles&lt;/strong&gt;, which is very similar to Twitter&amp;rsquo;s lists; it lets users organize and manage lists of people for invites. There is also &lt;strong&gt;Settings&lt;/strong&gt; page where users can control what types of events appear in their respective feeds, as well as a help page which will include a copy of the initial swipe-through demo. &lt;/p&gt;
+
+&lt;h2&gt;Context&lt;/h2&gt;
+
+&lt;p&gt;I was asked to design the interface and user experience for the app. While doing so, it&amp;rsquo;s morphed from something larger into what I have described above. Originally it was 6 lists, including what I had above, as well as a page for invites, a page for each sport, a menu page for each dining hall, a help page which listed emergency numbers on campus, and a settings page. T_hat is a whole lot of screens to swipe through_. I discussed with the project managers the importance of minimizing how much the user has to do. &lt;em&gt;The goal isn&amp;rsquo;t to overwhelm the user, it is to disguise the complexity of the schedule and the app, by creating a simple and organized interface&lt;/em&gt;. Since then we have paired it down to the four list pages, Activity, Circles, Dining, Settings, and Help. It&amp;rsquo;s still a lot, and we&amp;rsquo;re working on pairing it down more as we comb through the app. I&amp;rsquo;m working with them to help define the most important and common tasks, so that I can simplify and streamline those functions.&lt;/p&gt;
+
+&lt;h2&gt;Menu Choices&lt;/h2&gt;
+
+&lt;p&gt;To keep each of the different pages from overwhelming the user, I needed to come up with a menu that was easy to access, not too cluttered, and created some sort of page hierarchy. &lt;/p&gt;
+
+&lt;p&gt;Initially I considered a footer menu with icons for each list. As there were more than 4 pages, it wasn&amp;rsquo;t ideal. I also sketched up a header drop down. By clicking the header, one could choose between lists. The bottom would contain less important pages such as Dining, Circles, Help, and Setting.&lt;/p&gt;
+
+&lt;h2&gt;Why Offscreen?&lt;/h2&gt;
+
+&lt;p&gt;I first came upon the offscreen menu on CSS Tricks. Chris Coyier made &lt;a href=&quot;http://codepen.io/chriscoyier/pen/umEgv&quot; target=&quot;_blank&quot;&gt;a demo&lt;/a&gt; that used sibling selectors and a radio button to open and close a hidden menu. Since then, many apps have used side menus and is an accepted practice. It was ultimately easier to use with an omniscient and dedicated menu page. I know many people really enjoy the novelty of an offscreen menu, but it makes sense from a usability standpoint as well. It creates more space for the app as a whole and the menu doesn&amp;rsquo;t feel cramped. By removing the menu features, I was able to simplify what was otherwise a bit overwhelming. I could also eliminate the tab navigation and get a better environment for listings. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com2014/03/peck-menu.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mach 2000</title>
+   <link href="coletownsend.github.io/coletownsend.com/journal/mach-2000"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/journal/mach-2000</id>
+   <content type="html">&lt;p&gt;June 15, 1973 a large demonstration was held outside the LIP (pronounced “leap”) watch factory in Besançon, France.  The workers rallied under the phrase: “C’est possible: on fabrique, on vend, on se paie!” &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“It is possible: we make them, we sell them, we pay ourselves.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The factory was taken over by the workers and proceeded to be self managed. During the time, watches were shipped out under the cloaks of monks, who brought in the mail. In the first six weeks, they made revenue equivalent to half a normal year. &lt;/p&gt;
+
+&lt;p&gt;At the time, LIP was struggling. Sales were at an all time low. They needed an &amp;lsquo;A&amp;rsquo; player and a revolutionary product. It called for new methods of production; they dropped management by the wayside and focused on creating something radical. They not only sold a very unique watch, but they sold the idea of their movement. They appealed to the people, bucking the established order and starting new.&lt;/p&gt;
+
+&lt;p&gt;To catalyze their comeback, LIP hired several modernist designers, Tallon being one of them. He was a Renaissance Man, and had experience in many facets of design. It was perfect for what they wanted. He had the experience to make a design accessible and incorporate fresh ideas from outside the watchmaking design community. &lt;/p&gt;
+
+&lt;p&gt;With his help, the Mach 2000 was developed. A product of his liberal background in design, the watch is simple and functional, taking hints from modernist style. It is beautiful without being obtrusive. It is iconic for its deep inset face and brightly colored crown. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.coletownsend.com/content/LIP/lip-small.svg&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Design&lt;/h2&gt;
+
+&lt;p&gt;The face features a black background with an off white bezel as well as tick marks. The minute and second hands match these. The hour hand is red, as well as the hour tick marks. It spans roughly a quarter of the diameter of the face. In contrast, the minute and second hands are half the diameter of the watch face. The two are differentiated by their width.&lt;/p&gt;
+
+&lt;p&gt;A red knob is used for the crown. It is three dimensional and red, contrasting the flat black of the watch casing. It is set in a cut out section of the upper right hand corner of the watch, making it easy to access when worn on the left wrist. &lt;/p&gt;
+
+&lt;p&gt;The design is simple, and echoes the spirit of the times: it&amp;rsquo;s simple lines and smooth features reflect the worker&amp;rsquo;s new energy and passion for the process. It&amp;rsquo;s asymmetric, departing from traditional watch forms.&lt;/p&gt;
+
+&lt;p&gt;When a product is made solely by  a group of designers and producers, without management, it often ends in a success. Look at Layervault, Karmaloop, and Square. They were all started with a designer at their core. I realize what I’m saying isn’t new. &lt;/p&gt;
+
+&lt;p&gt;That’s the point.&lt;/p&gt;
+
+&lt;p&gt;The watches made by LIP in 1974 were designed and produced by the designers and watchmakers with no outside influence. The operated under shut doors, in a highly collaborative fashion. They were operating in a highly stressful environment, their jobs and their livelihoods were on the line. They were forced to  change their methods in order to compete. The new method of development is now something that we often see. The entire process — design, production, and sale — is controlled by the same people. They are the ones who are passionate about the product, and therefore they can infuse their brand, their marketing, their product with this very passion. The result is a product with a rich personality and a unique design.  &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Box Redesign</title>
+   <link href="coletownsend.github.io/coletownsend.com/journal/box-redesign"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/journal/box-redesign</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/3A1K280y3H2Z3j1I0N3Q/Screen%20Shot%202013-03-30%20at%201.04.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;My first step was some minor UX tweaking. I didn&amp;rsquo;t want to radically change the site; it&amp;rsquo;s relatively intuitive to use as I am familiar with CloudApp, Dropbox, and numerous other cloud based services. One thing I noticed was that there were many different functions on the viewing page. When I was revising the viewing page, I wanted to clean it up. My goal was to make the primary function of each page very clear. &lt;/p&gt;
+
+&lt;h2&gt;Viewer&lt;/h2&gt;
+
+&lt;p&gt;I started with the viewer itself. There was too much going on, as you can see in the crowded image above. I stripped it down to just navigation arrows and a full screen mode. As a user of many cloud apps, I know that I&amp;rsquo;ve never used many features from the viewer itself. The navbar provided me with what I needed in an unobtrusive way.&lt;/p&gt;
+
+&lt;h3&gt;Document Viewer&lt;/h3&gt;
+
+&lt;p&gt;I wanted to mimic the functions of Google Doc Viewer and Preview. The current functionality is fine, but it is not accessible. It requires flash and is a bit slow to respond. I found myself frustrated as I scrolled through a longer pdf. The scrolling isn&amp;rsquo;t smooth — it catches frequently. Additionally, the cursor hand moves at a slower speed in the doc viewer than it does out of it. This isn&amp;rsquo;t intuitive and can confuse users. Although I can&amp;rsquo;t reflect these changes in my visual representation, it is something I would address with the dev team. &lt;/p&gt;
+
+&lt;p&gt;Specifically for the visuals, I aimed to minimize what was going on in the document viewer. I feel that it&amp;rsquo;s better to directly be able to influence specifically which page is viewed, rather than clicking through each one individually. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-box-doc.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-my-doc.png&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Video Viewer&lt;/h3&gt;
+
+&lt;p&gt;I wish I could show an example of the video viewer. Unfortunately it was not included in the free version, a download was necessary for free users. Paid users were allowed a previewer. With the video player, I aimed to keep it consistent with other video players common to cloud viewers. Users are familiar with the layout. &lt;/p&gt;
+
+&lt;p&gt;&lt;img stye=&quot;max-width: 100%; height: auto;&quot; src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-video.png&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Nav&lt;/h2&gt;
+
+&lt;p&gt;The nav I found to be a bit inconsistent and congested. I had a hard time discerning which icon did what, and was a bit overwhelmed with the amount of icons. I shifted the upgrade feature farthest right, so it remains unobtrusive to the user. I also separated the tasks and messages drop down into two separate features. They aren&amp;rsquo;t peas and carrots or PB&amp;amp;J. Tasks and messages should be separated. Instead of wondering whether it is a message form a coworker or a task from the project manager, the user will know immediately. Simplification is sometimes confused with subtracting. In this case it means simplification meant adding an extra icon to eliminate a step for the user.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-box-nav.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-my-nav.png&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Sub Nav&lt;/h3&gt;
+
+&lt;p&gt;I cleared the sub nav up by using a bit more padding and dropping the font- size. There is already a contrasting color for the sub nav and the visual hierarchy is established without using that big of a font. Slightly smaller font will work just as well and will create a bit more breathing room for the title of the document. I also eliminated the text next to the icons. I feel that icons should already communicate the function of the button. Granted this is highly dependent on the users, and some sort of A/B testing would be helpful to make the decision.&lt;/p&gt;
+
+&lt;h2&gt;Comments&lt;/h2&gt;
+
+&lt;p&gt;The comment area was cluttered with links for various types of comments. The comment area shouldn&amp;rsquo;t be intimidating or hard to read! It should be helpful and fun. At Box, the commenting area is also used to assign tasks, perhaps on a document or a TPS report. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-box-comment.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.com/images/inline/box-my-comment.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>An Analysis of Branch</title>
+   <link href="coletownsend.github.io/coletownsend.com/journal/an-analysis-of-branch"/>
+   <updated>2014-02-27T12:06:34-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/journal/an-analysis-of-branch</id>
+   <content type="html">&lt;p&gt;Branch is a new website that organizes discussions. It allows users to easily register and gather others in conversation, or branch, about a topic of their choice.&lt;/p&gt;
+
+&lt;p&gt;I love Branch. It&amp;rsquo;s awesome for discussion, and it&amp;rsquo;s easy to get new people in on the conversation. I hate to start out with what I see wrong, but one thing I dislike about &lt;a href=&quot;http://branch.com&quot; target=&quot;blank&quot;&gt;branch&lt;/a&gt; is the narrow dicussion area. Some might find this layout more intimate, but I believe that in aiming for less distraction, the designers made it more distracting; the text is too conglomerated. A wider discussion area with larger font would make the conversation easier to read and less like Twitter, where I find many tweets and replies go unnoticed in a massive list of text.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/181l3S1z3f2Y1l1u0O2I/Screen%20Shot%202013-04-02%20at%2011.33.01%20PM.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Another aspect to examine is the sidebar. The branch sidebar displays the branches of which you are currently a member. While this is good, a better way to utilize this sidebar would be to show an activity feed, perhaps similar to that of LayerVault. This would keep all the focus on the discussion.&lt;/p&gt;
+
+&lt;p&gt;A solution to notifications would be an icon with a push-style (à la iOS) mark that signals to the user someone else added to their branch. When clicked, the icon would open a small drop-down window that would show the activity, similar to the way the Dribbble notification system works. &lt;/p&gt;
+
+&lt;p&gt;Overall, the site functions very well. I really enjoy going on branch, opening up discussions, as well as participating in them. The familiar structure is similar to Twitter and reflects the websites deep integration with Twitter API. Users are added to discussion through either a direct message or public reply. Unfortunately this can get a bit spammy, so they also have an option to link to the discussion, which people can request to join. I have a &lt;a href=&quot;http://branch.com/b/how-flat&quot; target=&quot;_blank&quot;&gt;great conversation about &amp;ldquo;flat&amp;rdquo; or minimal design&lt;/a&gt; going.&lt;/p&gt;
+
+&lt;p&gt;Also, I started a great group called &lt;a href=&quot;http://branch.com/g/the-state-of-web-design&quot; target=&quot;_blank&quot;&gt;the State of Web Design&lt;/a&gt; on branch. It could be a great hub for discussion on various design theories, trends, and quandaries.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Illustrations</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/illustrations"/>
+   <updated>2014-02-26T18:39:05-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/illustrations</id>
+   <content type="html">&lt;p&gt;Illustration is something I enjoy doing, so I try to incorporate it where appropriate. I rely on simple shapes with some minor adjustments to create a piece, filling in smaller details as I see fit. It&amp;rsquo;s topped off with a left skewed drop shadow.&lt;/p&gt;
+
+&lt;p&gt;Below are a selection of my favorite illustrations that I have recently done.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comill-brew.png&quot; alt=&quot;Chemex&quot;&gt;
+&lt;img src=&quot;coletownsend.github.io/coletownsend.comill-macfam.jpg&quot; alt=&quot;iMac, iPad, and iPhone&quot;&gt;
+&lt;img src=&quot;coletownsend.github.io/coletownsend.comill-test.png&quot; alt=&quot;Test illustration with Pen&quot;&gt;
+&lt;img src=&quot;coletownsend.github.io/coletownsend.comill-pencil.png&quot; alt=&quot;Mechanical Pencil with Pink Eraser&quot;&gt;
+&lt;img src=&quot;coletownsend.github.io/coletownsend.comill-braun.png&quot; alt=&quot;Braun Radio illustration&quot;&gt;
+&lt;img src=&quot;coletownsend.github.io/coletownsend.comill-keyboard.png&quot; alt=&quot;Keyboard illustration&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Williams Outing Club</title>
+   <link href="coletownsend.github.io/coletownsend.com/work/williams-outing-club"/>
+   <updated>2014-02-25T13:01:12-05:00</updated>
+   <id>coletownsend.github.io/coletownsend.com/work/williams-outing-club</id>
+   <content type="html">&lt;p&gt;The Williams Outing Club is responsible for connecting students with beautiful mountains, forests, and trail systems we have in the Purple Valley. They organize hikes, ski trips, lend equipment, and keep otherwise library bound students active. WOC highlights during the academic year include WOOLF (backpacking trips for incoming Frosh), Friday morning hikes, and Mountain Day. These all revolve around the surrounding Berkshire Mountains. In the current logo, WOC is juxtaposed against trees, but it doesn&amp;rsquo;t quite seem unified nor emphasize the mountainous locale.&lt;/p&gt;
+
+&lt;p&gt;I was inspired to start working on this logo while procrastinating. I had an architecture project due in a few days, and wanted to be productive, but couldn&amp;rsquo;t focus on the actual building. I set out to create a logotype that incorporated the environment and attitude of WOC.&lt;/p&gt;
+
+&lt;p&gt;I recently purchased &lt;a href=&quot;http://www.ultratypes.com/product/sifonn-pro&quot;&gt;Sifonn&lt;/a&gt;, a beautiful display face with a ton of glyphs. The &amp;ldquo;W&amp;rdquo; of Sifonn is staggered, just like the mountains that overlap on the Purple Valley horizon.  I found a great balance between balanced geometric shapes that unified the outing club with the mountains. &lt;/p&gt;
+
+&lt;p&gt;I bridged the remaining space with two lines, one continuing from the mountains, the other slightly cut off. These unify the logo, but don&amp;rsquo;t serve any symbolic purpose. The real idea was to balance it, without detracting from the play of the W and the mountains.&lt;/p&gt;
+
+&lt;p&gt;I applied the logo in several different branding schemes to give an idea of how it might be used.&lt;/p&gt;
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comWOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comWOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Business Cards&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;coletownsend.github.io/coletownsend.comWOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;coletownsend.github.io/coletownsend.comWOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Branding Posters&lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+
+</feed>
