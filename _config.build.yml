@@ -2,7 +2,7 @@
 # Overrides these options in _config.yml
 
 # Overrides the default URL, needed for your atom feed and sitemap
-url: v3.twnsnd.co
+url: http://v3.twnsnd.co
 
 # Hides your drafts and future posts
 future: false
