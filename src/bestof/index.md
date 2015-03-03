@@ -1,23 +1,27 @@
 ---
-layout: default
+layout: post
 title: Best of Buffalo
+image:
+    feature: public-espresso-short.jpg
+    feature_2x: public-espresso-short@2x.jpg
 ---
 
 Buffalo is the second largest city in New York State. It has its own subway. It hit its peak during the early 20th century, but is now back on the rise. If you're ever in the neighborhood, here's what you can't miss:
 
 ###### Locations
 * The Waterfront
-* The Japanese Garden
-* Allentown
 * Elmwood Village
+* The Hotel Lafayette
+* Downtown
+* The Japanese Gardens
+* Albright Knox
 
-<div>
-{% include _fluidbox.html grid="full" class="" alt="TheNews App Landing Page" url="buffalo-skyline.jpg" loweres="" %} 
-</div>
 
 ###### Cafés
 - Spot, Elmwood
 - Café Aroma
+- Public Coffee at Hotel Lafeyette
+
 
 ###### Restaurants
 - Amy's Place

@@ -3,14 +3,14 @@
 
 # TEAM
 
-    Cole Townsend -- <role> -- @@twnsndco
+    Cole Townsend -- Designer & Developer -- @twnsndco
 
 # THANKS
 
-    <name>
+    Sondre Nielson
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, JavaScript
-    Jekyll, Lanyon/Poole, HTML5 Boilerplate
+    Jekyll, Gulp,
     Yeoman, Jekyllized

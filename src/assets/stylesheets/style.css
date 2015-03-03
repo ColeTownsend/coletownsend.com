@@ -2787,7 +2787,7 @@ section[class*="block-"] {
       @media only screen and (-webkit-min-device-pixel-ratio: 1.3), only screen and (-webkit-min-device-pixel-ratio: 1.3020833333333333), only screen and (min-resolution: 125dpi), only screen and (min-resolution: 1.3dppx) {
         .about .buffalo:hover {
           background-image: url("../images/assets/buffalo-red_2x.png");
-          background-size: 2rem 2rem; } }
+          background-size: 2rem 1.5rem; } }
       .about .buffalo:hover:before {
         text-align: center;
         font-family: "Nitti Grotesk", "Neuzeit Grotesk", "Futura PT", "Futura", "Helvetica Neue", sans-serif !important;

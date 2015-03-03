@@ -19,9 +19,9 @@ Live: [prettycommon.com](http://prettycommon.com)
 
 <br>
 <div>
-<img style="width: 100%; height: auto; max-height: 9999px; border: 1px solid #000" src="{{ site.url }}/images/inline/pretty-common-1.jpg">
+<img style="width: 100%; height: auto; max-height: 9999px; border: 1px solid #000" src="{{ site.url }}{{ site.image.inline}}pretty-common-1.jpg">
 <br>
-<img style="width: 100%; height: auto; max-height: 9999px; border: 1px solid #000" src="{{ site.url }}/images/inline/pretty-common-2.jpg">
+<img style="width: 100%; height: auto; max-height: 9999px; border: 1px solid #000" src="{{ site.url }}{{ site.image.inline}}pretty-common-2.jpg">
 </div>
 
 

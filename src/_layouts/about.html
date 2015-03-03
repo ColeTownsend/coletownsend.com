@@ -7,10 +7,10 @@
       <a href="/bestof/" class="buffalo"></a>
       <aside>
         <div class="profile-wrap">
-          <img src="/images/assets/monochrome-profile.jpg" alt=""><span class="border"></span>
+          <img src="{{ site.url }}{{ site.image.assets }}monochrome-profile.jpg" alt=""><span class="border"></span>
         </div>
         <ul class="profile-links">
-          <li><a href="http://twitter.com/{{site.twitter}}"><small>@{{site.twitter}}</small></a></li>
+          <li><a href="http://twitter.com/{{site.author.twitter}}"><small>@{{site.author.twitter}}</small></a></li>
           <li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6F%6C%65%40%74%77%6E%73%6E%64%2E%63%6F"><small>Email</small></a></li>
           <li>{% if site.data.work_status contains 'unavailable' %} <span class="red-marker"></span> {%else %} <span class="green-marker"></span> {% endif %}<small class="work-status">{{site.data.work_status}}</small></li>
           <hr>

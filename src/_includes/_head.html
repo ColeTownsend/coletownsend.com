@@ -1,4 +1,4 @@
-<head>
+<head data-no-instant>
 	<meta charset="utf-8">
 
   <title>{{site.name}}</title>
@@ -8,8 +8,24 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0" />
 
-	<link data-no-instant rel="stylesheet" href="{{ site.url }}/assets/stylesheets/style.css">
-  <link data-no-instant href="//cloud.webtype.com/css/7006acc2-c25b-45bc-83fe-ee20be162e4c.css" rel="stylesheet" type="text/css" />
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
 
-  <!-- Favicons and Touch Device Icons -->
+	<!-- CSS -->
+  <!-- build:css /assets/stylesheets/style.min.css -->
+  <link data-instant rel="stylesheet" href="/assets/stylesheets/style.css">
+  <!-- endbuild -->
+  <link data-instant href="//cloud.webtype.com/css/7006acc2-c25b-45bc-83fe-ee20be162e4c.css" rel="stylesheet" type="text/css" />
+
+  <!-- Icons -->
+  <link data-instant rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}{{ site.image.assets }}/favicon-256x256.png">
+  <link data-instant rel="shortcut icon" href="{{ site.url }}{{ site.image.assets }}/favicon.ico">
+
+  <!-- RSS -->
+  <link data-instant rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>

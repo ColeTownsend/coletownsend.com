@@ -145,7 +145,7 @@ gulp.task("html", ["styles"], function () {
     // Start cache busting the files
     .pipe($.revAll({ ignore: [".eot", ".svg", ".ttf", ".woff"] }))
     .pipe(assets.restore())
-    // Conctenate your files based on what you specified in _layout/header.html
+    // Concatenate your files based on what you specified in _layout/header.html
     .pipe($.useref())
     // Replace the asset names with their cache busted names
     .pipe($.revReplace())
@@ -153,11 +153,11 @@ gulp.task("html", ["styles"], function () {
     .pipe($.if("*.html", $.htmlmin({
       removeComments: true,
       removeCommentsFromCDATA: true,
-      removeCDATASectionsFromCDATA: true,
+      removeCDATASectionsFromCDATA: false,
       collapseWhitespace: true,
-      collapseBooleanAttributes: true,
+      collapseBooleanAttributes: false,
       removeAttributeQuotes: false,
-      removeRedundantAttributes: true
+      removeRedundantAttributes: false
     })))
     // Send the output to the correct folder
     .pipe(gulp.dest("site"))

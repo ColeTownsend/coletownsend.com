@@ -1,7 +1,12 @@
-<footer>
+<footer data-no-instant>
   {% include _js_includes.html %}
   <small>
-    <a href="#top">To Top</a> <br>
-    <img class="buffalo-icon" src="{{ site.url }}{{ site.image.assets }}buffalo-blue.svg"> Made in Buffalo <br> © 2014 Cole Townsend
+    {% if page.category %}
+    <a data-instant href="{{ site.url }}/{{ page.category }}">More</a> <br>
+    {% elsif page.layout == 'about' %}
+    {% else %}
+    <a data-instant href="{{ site.url }}/about">About Me</a> <br>
+    {% endif %}
+    <img class="buffalo-icon" src="{{ site.url }}{{ site.image.assets }}buffalo-blue.svg"> Made in Buffalo <br> © {{ site.time | date: '%Y' }} Cole Townsend
   </small>
 </footer>

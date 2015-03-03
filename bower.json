@@ -7,6 +7,7 @@
     "normalize-scss": "~3.0.2"
   },
   "devDependencies": {
-    "modularized-normalize-scss": "~3.0.2"
+    "modularized-normalize-scss": "~3.0.2",
+    "instantclick": "~3.1.0"
   }
 }

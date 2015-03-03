@@ -10,6 +10,7 @@ tags: [web design, copywriting]
 extra_css:
 image:
   feature: panda.png
+  feature_2x: panda@2x.png
 ---
 
 Panda Network is the bootstrapped co-founding duo of Ahmet Sulek and William Channer. They simply get things done. They work in collaboration with many different developers and designers to ship apps you may be familiar with. I was lucky enough to work through them on [TheNews]({{ site.baseurl }}/work/thenews), designing both the iOS app, iOS app landing page, and redesigning the web app.

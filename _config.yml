@@ -3,7 +3,7 @@
 title: Twnsnd Co
 description: "my portfolio, but running with gulp. so way faster."
 tagline: this is mines.
-url: 'http://localhost:3000'
+url: ''
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: src
