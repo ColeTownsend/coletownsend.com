@@ -126,11 +126,11 @@ gulp.task("fonts", function () {
     .pipe($.size({ title: "fonts" }));
 });
 
-// Copy xml and txt files to the "site" directory
+// Copy xml and txt, and instantclick to the "site" directory
 gulp.task("copy", function () {
-  return gulp.src(["serve/*.txt", "serve/*.xml"])
+  return gulp.src(["serve/*.txt", "serve/assets/javascript/instantclick.min.js", "serve/*.xml"])
     .pipe(gulp.dest("site"))
-    .pipe($.size({ title: "xml & txt" }))
+    .pipe($.size({ title: "xml & txt & instantclick" }))
 });
 
 // Optimizes all the CSS, HTML and concats the JS etc
@@ -141,6 +141,7 @@ gulp.task("html", ["styles"], function () {
     .pipe(assets)
     // Concatenate JavaScript files and preserve important comments
     .pipe($.if("*.js", $.uglify({preserveComments: "some"})))
+    .pipe($.if("*.js", $.gzip({ threshold: '1kb' })))
     // Minify CSS
     .pipe($.if("*.css", $.minifyCss()))
     // Start cache busting the files
