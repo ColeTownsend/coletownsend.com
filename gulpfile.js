@@ -144,12 +144,16 @@ gulp.task("html", ["styles"], function () {
     // Minify CSS
     .pipe($.if("*.css", $.minifyCss()))
     // Start cache busting the files
-    .pipe($.revAll({ ignore: [".eot", ".svg", ".ttf", ".woff"] }))
+    .pipe($.revAll({
+      ignore: [".eot", ".svg", ".ttf", ".woff"]
+    }))
     .pipe(assets.restore())
     // Concatenate your files based on what you specified in _layout/header.html
     .pipe($.useref())
     // Replace the asset names with their cache busted names
-    .pipe($.revReplace())
+    .pipe($.revReplace({
+      prefix: 'http://v3.twnsnd.co/'
+    }))
     // Minify HTML
     .pipe($.if("*.html", $.htmlmin({
       removeComments: true,
