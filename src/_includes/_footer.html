@@ -1,5 +1,4 @@
-<footer data-no-instant>
-  {% include _js_includes.html %}
+<footer>
   <small>
     {% if page.category %}
     <a data-instant href="{{ site.url }}/{{ page.category }}">More</a> <br>
@@ -10,3 +9,7 @@
     <img class="buffalo-icon" src="{{ site.url }}{{ site.image.assets }}buffalo-blue.svg"> Made in Buffalo <br> © {{ site.time | date: '%Y' }} Cole Townsend
   </small>
 </footer>
+
+{% include _js_includes.html %}
+
+

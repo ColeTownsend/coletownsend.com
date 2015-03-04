@@ -35,14 +35,6 @@ After stumbling across the portfolios of a few copywriters, I noted how the ones
 
 I was impressed with Ahmet's execution on the part of the click and scale animation that I gave him a set of rudimentary keyframes for. He also added the springiness to the underlines, atmospheric bubbles, and the animated letters. The added animations were certainly welcome to the design. You can seem them at the live site — [panda.network](http://panda.network).
 
-<br>
-
-<div>
-<video controls="false" autoplay="autoplay">
-  <source src="{{ site.url }}/images/inline/panda-screen.mp4" type="video/mp4">
-  <div>{% include _fluidbox.html grid="full" class="" alt="Panda Networks landing page" url="panda-networks.jpg" loweres="" %}</div>
-</video>
-</div>
 
 ## Mobile
 
@@ -51,3 +43,5 @@ The website also comes in a mobile flavor. It's styled according to work per med
 {% include _fullwidth.html url="/panda-mocks/panda-mock-iphone.jpg"  %}
 
 Currently the website is optimized for a generic width starting at a minimum of 320px, and looks best on slightly larger more powerful devices due to the slightly resource intensive animation. 
+
+Thanks for reading!

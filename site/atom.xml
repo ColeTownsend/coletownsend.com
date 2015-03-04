@@ -4,7 +4,7 @@
  <title>Twnsnd Co</title>
  <link href="http://v3.twnsnd.co/atom.xml" rel="self"/>
  <link href="http://v3.twnsnd.co/"/>
- <updated>2015-03-04T10:17:59-05:00</updated>
+ <updated>2015-03-04T10:35:19-05:00</updated>
  <id>http://v3.twnsnd.co</id>
  <author>
    <name>Cole Townsend</name>
@@ -50,23 +50,6 @@
 
 &lt;p&gt;I was impressed with Ahmet&amp;rsquo;s execution on the part of the click and scale animation that I gave him a set of rudimentary keyframes for. He also added the springiness to the underlines, atmospheric bubbles, and the animated letters. The added animations were certainly welcome to the design. You can seem them at the live site — &lt;a href=&quot;http://panda.network&quot;&gt;panda.network&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div&gt;
-&lt;video controls=&quot;false&quot; autoplay=&quot;autoplay&quot;&gt;
-  &lt;source src=&quot;http://v3.twnsnd.co/images/inline/panda-screen.mp4&quot; type=&quot;video/mp4&quot;&gt;
-  &lt;div&gt;
-&lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/panda-networks.jpg&quot; title=&quot;Panda Networks landing page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/panda-networks.jpg&quot; alt=&quot;Panda Networks landing page&quot; title=&quot;Panda Networks landing page&quot;&gt;&lt;/a&gt;
-  
-&lt;/figure&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/video&gt;
-&lt;/div&gt;&lt;/p&gt;
-
 &lt;h2&gt;Mobile&lt;/h2&gt;
 
 &lt;p&gt;The website also comes in a mobile flavor. It&amp;rsquo;s styled according to work per medium — when accessed on a mobile device, their latest apps available in the App Store appear.&lt;/p&gt;
@@ -76,6 +59,8 @@
 &lt;/figure&gt;
 
 &lt;p&gt;Currently the website is optimized for a generic width starting at a minimum of 320px, and looks best on slightly larger more powerful devices due to the slightly resource intensive animation. &lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
 </content>
  </entry>
  

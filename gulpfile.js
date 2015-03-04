@@ -153,7 +153,7 @@ gulp.task("html", ["styles"], function () {
     .pipe($.useref())
     // Replace the asset names with their cache busted names
     .pipe($.revReplace({
-      prefix: 'http://v3.twnsnd.co/'
+      prefix: 'http://v3.twnsnd.co'
     }))
     // Minify HTML
     .pipe($.if("*.html", $.htmlmin({
