@@ -8,13 +8,18 @@ footer {
   text-align: center;
   width:100%;
   height: $footer-height;
-  background: $real-black;
+  background: $flat-black;
   color: $white;
   a {
     color: $white;
     border-bottom: 1px solid transparentize($white, .4);
+    text-shadow: none !important;
+    background:none !important;
     &:visited {
       color: $white;
+    }
+    &:hover {
+      color: white !important;
     }
   }
   .buffalo-icon {

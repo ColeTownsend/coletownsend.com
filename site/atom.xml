@@ -4,7 +4,7 @@
  <title>Twnsnd Co</title>
  <link href="http://v3.twnsnd.co/atom.xml" rel="self"/>
  <link href="http://v3.twnsnd.co/"/>
- <updated>2015-03-04T10:35:19-05:00</updated>
+ <updated>2015-03-08T14:57:30-04:00</updated>
  <id>http://v3.twnsnd.co</id>
  <author>
    <name>Cole Townsend</name>
@@ -791,7 +791,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline//thumbs/&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thumbs/&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -806,6 +806,10 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 
 &lt;/div&gt;
+
+&lt;h6&gt;Credits&lt;/h6&gt;
+
+&lt;p&gt;Thank you to &lt;a href=&quot;http://adrianzorzano.com/&quot;&gt;Adrian Zorzano&lt;/a&gt; for his awesome work on the logo!&lt;/p&gt;
 </content>
  </entry>
  
@@ -829,43 +833,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  </entry>
  
  <entry>
-   <title>Tuchuang</title>
-   <link href="http://v3.twnsnd.co/work/tuchuang"/>
-   <updated>2014-05-26T17:01:50-04:00</updated>
-   <id>http://v3.twnsnd.co/work/tuchuang</id>
-   <content type="html">&lt;h2&gt;Logo&lt;/h2&gt;
-
-&lt;p&gt;I developed the logo as well as business cards for the company. In the logo, I aimed to communicate trustworthiness, stability, and approachability. After many different sketches, I chose an off centered, three dimensional &amp;ldquo;T&amp;rdquo;. A flat &amp;ldquo;T&amp;rdquo; seemed a bit boring, interchangeable, unapproachable. It didn&amp;rsquo;t communicate the close relationship that Tuchuang aims to develop with clients. Adding a dimension and separating the sides gave it a bit of visual interest, while still communicating Tuchuang&amp;rsquo;s professionalism, effectiveness, and strength. The end result is easily reproduced, visually consistent in all media, and scales perfectly. &lt;/p&gt;
-
-&lt;h2&gt;Business Cards&lt;/h2&gt;
-
-&lt;p&gt;With a template already in mind, I created a slightly more unique business card that would look great in both Chinese and English.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://v3.twnsnd.cotuch-biz-front.png&quot;&gt;
-&lt;img src=&quot;http://v3.twnsnd.cotuch-biz-back.png&quot;&gt;&lt;/p&gt;
-
-&lt;h2&gt;Website&lt;/h2&gt;
-
-&lt;p&gt;I provided the layout, illustrations, as well as CSS for various elements. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://v3.twnsnd.cotuch-illust.png&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;web&quot;&gt;
-&lt;img class=&quot;land-img&quot; src=&quot;http://v3.twnsnd.cotuch-small-land.jpg&quot;&gt;
-&lt;/figure&gt;
-</content>
- </entry>
- 
- <entry>
    <title>Portfolio of Tosin Afolabi</title>
    <link href="http://v3.twnsnd.co/work/tosin-af"/>
    <updated>2014-04-11T14:59:54-04:00</updated>
    <id>http://v3.twnsnd.co/work/tosin-af</id>
    <content type="html">&lt;p&gt;This portfolio site is for a friend with whom I work. He wanted something that was unique, a bit edgier than the traditional site for a developer. I created several different color palettes as well as a motion prototype in &lt;em&gt;Adobe Edge Effects&lt;/em&gt; to flesh out timing and give him an idea of how his site would feel. &lt;/p&gt;
 
-&lt;div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
@@ -876,7 +850,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;/div&gt;
 
-&lt;div&gt;
+&lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   &lt;figcaption&gt;Case Study&lt;/figcaption&gt;
@@ -1266,6 +1240,36 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;img src=&quot;http://v3.twnsnd.coill-pencil.png&quot; alt=&quot;Mechanical Pencil with Pink Eraser&quot;&gt;
 &lt;img src=&quot;http://v3.twnsnd.coill-braun.png&quot; alt=&quot;Braun Radio illustration&quot;&gt;
 &lt;img src=&quot;http://v3.twnsnd.coill-keyboard.png&quot; alt=&quot;Keyboard illustration&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tuchuang</title>
+   <link href="http://v3.twnsnd.co/work/tuchuang"/>
+   <updated>2014-02-26T00:00:00-05:00</updated>
+   <id>http://v3.twnsnd.co/work/tuchuang</id>
+   <content type="html">&lt;h2&gt;Logo&lt;/h2&gt;
+
+&lt;p&gt;I developed the logo as well as business cards for the company. In the logo, I aimed to communicate trustworthiness, stability, and approachability. After many different sketches, I chose an off centered, three dimensional &amp;ldquo;T&amp;rdquo;. A flat &amp;ldquo;T&amp;rdquo; seemed a bit boring, interchangeable, unapproachable. It didn&amp;rsquo;t communicate the close relationship that Tuchuang aims to develop with clients. Adding a dimension and separating the sides gave it a bit of visual interest, while still communicating Tuchuang&amp;rsquo;s professionalism, effectiveness, and strength. The end result is easily reproduced, visually consistent in all media, and scales perfectly. &lt;/p&gt;
+
+&lt;h2&gt;Business Cards&lt;/h2&gt;
+
+&lt;p&gt;With a template already in mind, I created a slightly more unique business card that would look great in both Chinese and English.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://v3.twnsnd.cotuch-biz-front.png&quot;&gt;
+&lt;img src=&quot;http://v3.twnsnd.cotuch-biz-back.png&quot;&gt;&lt;/p&gt;
+
+&lt;h2&gt;Website&lt;/h2&gt;
+
+&lt;p&gt;I provided the layout, illustrations, as well as CSS for various elements. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://v3.twnsnd.cotuch-illust.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;web&quot;&gt;
+&lt;img class=&quot;land-img&quot; src=&quot;http://v3.twnsnd.cotuch-small-land.jpg&quot;&gt;
+&lt;/figure&gt;
 </content>
  </entry>
  

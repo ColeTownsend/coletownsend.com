@@ -1,10 +1,11 @@
 // Typography
 ///////////////////////////////////////////////////////////////////////////////
 
-$sans-serif: "Nitti Grotesk","Neuzeit Grotesk","Futura PT", "Futura", "Helvetica Neue", sans-serif;
+$type-test: "";
+$sans-serif: $type-test,"Nitti Grotesk","Neuzeit Grotesk","Futura PT", "Futura", "Helvetica Neue", sans-serif;
 $serif: "Adobe Garamond Pro","Georgia", serif;
 $ss-alt: "Karla", "Futura," "Avenir Next";
-$mono: "Inconsolata", "Menlo";
+$mono: "Nitti PX", "Menlo";
 
 $head: $sans-serif;
 $body: $sans-serif;
@@ -16,6 +17,7 @@ $header-font-family: $sans-serif;
 
 // Sizes
 ///////////////////////////////////////////////////////////////////////////////
+$em-base: 16px;
 $base-font-size: 1em;
 $base-line-height: $base-font-size * 1.5;
 $line-height: $base-line-height;
@@ -45,12 +47,16 @@ $fs6: 1em; // 20px
 $fs7: .7em; // 15px
 $fs8: .6em; // 12px
 
+$font-sizes: $fs1, $fs2, $fs3, $fs4, $fs5, $fs6, $fs7, $fs8;
+
 // Colors
 ///////////////////////////////////////////////////////////////////////////////
 
 // Cool
 
-$purple: #6F4993;
+$purple: #9350D7;
+$light-purple: #B68CE0;
+
 $aqua:  #7FDBFF;
 $blue:  #0074D9;
 $soft-blue: desaturate($blue, 70%);
@@ -75,14 +81,15 @@ $red: #EC6F66;
 
 // Ebony and Ivory
 $black:  $blue-gray;
+$ebony: #323438;
 $white: #ffffff;
 
 // Others
-$real-black: #232830;
-$dark-real-black: darken($real-black, 5);
+$flat-black: #232830;
+$dark-flat-black: darken($flat-black, 5);
 $dark-gray: lighten($black, 32%);
 $medium-gray: lighten($black, 48%);
-$red-gray: #ebebea;
+$red-gray: lighten(#ebebea, 6%);
 $light-gray: lighten($black, 60%);
 $light-red: #FBE3E4;
 $light-yellow: #FFF6BF;
@@ -95,8 +102,8 @@ $off-white: darken(#ffffff, 1%);
 // Body Color
 $base-body-color: $white;
 //  Font Colors
-$base-font-color: darken($black,10);
-$base-accent-color: $red;
+$base-font-color: $ebony;
+$base-accent-color: $purple;
 //  Text Link Colors
 $base-link-color: $base-accent-color;
 $hover-link-color: darken($base-accent-color, 5);

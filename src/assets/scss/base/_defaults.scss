@@ -1,0 +1,44 @@
+// Basic Site Architecture
+html {
+  font-size: 100%;
+  min-height: 100%;
+  position: relative;
+  font-weight: normal;
+  @include box-sizing(border-box);
+  // font sizing for quick MQ adjustments
+
+  @include media($small) {
+    font-size: $em-base;
+  }
+  @include media($medium) {
+    font-size: $em-base*1.25;
+  }
+  @include media($default) {
+    font-size: $em-base*1.375;
+  }
+  @include media($huge) {
+    font-size: $em-base*1.5;
+  }
+}
+
+body {
+  width: 100%;
+  padding: 0 0 $footer-height;
+  background: $white;
+  font-family: $body;
+  @if $body == $ss-alt {
+    letter-spacing: -0.02em;
+  }
+  text-size-adjust: 100%;
+}
+
+// Basic Elemental Styling
+
+a {
+  text-decoration: none;
+}
+
+a[data="disabled"] {
+  pointer-events: none;
+  cursor: default;
+}

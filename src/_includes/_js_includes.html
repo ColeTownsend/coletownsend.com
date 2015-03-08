@@ -1,11 +1,33 @@
 <!-- JS -->
+  <!-- build:js /assets/javascript/all.min.js -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script data-no-instant src="{{ site.script }}jquery.fluidbox.js"></script>
+  <script data-no-instant type="text/javascript" src="{{ site.script }}no-src.js"></script>
+  <script data-no-instant src="{{ site.script }}velocity.min.js"></script>
+  <script src="{{ site.script }}velocity.ui.min.js"></script>
+  <!-- endbuild -->
 
 <script>
- $(document).ready(function() {
-  $('a').smoothScroll({offset: -20});
-  $('#work').smoothScroll({offset: -60});
-  $('#top').smoothScroll({offset: 120});
- });
+$(document).ready(function() {
+  // bind click event to all internal page anchors
+  $("a[href*=#]").bind("click", function(e) {
+    // prevent default action and bubbling
+    e.preventDefault();
+    e.stopPropagation();
+    // set target to anchor's "href" attribute
+    var target = $(this).attr("href");
+    // scroll to each target
+    $(target).velocity("scroll", {
+        duration: 500,
+        offset: -40,
+        easing: "ease-in-out"
+    });
+  });
+});
+</script>
+
+<script>
+$(".delayFade").velocity("transition.fadeIn",{ delay: 1200, duration: 400, easing: [ 250, 18 ] });
 </script>
 
 <script>

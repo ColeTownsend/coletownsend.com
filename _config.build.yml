@@ -3,6 +3,7 @@
 
 # Overrides the default URL, needed for your atom feed and sitemap
 url: http://v3.twnsnd.co
+dev_url: ''
 
 # Hides your drafts and future posts
 future: false

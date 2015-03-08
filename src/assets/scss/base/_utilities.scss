@@ -47,7 +47,7 @@
 }
 
 .no-margin {
-  margin: 0;
+  margin: 0 !important;
 }
 
 .flush-top {
@@ -58,56 +58,20 @@
   margin-bottom: 0;
 }
 
+.mt-bs {
+  margin-top: $base-line-height;
+}
+
 .no-padding {
   padding: 0;
 }
 
-
-// Basic Site Architecture
-* {
-  @include box-sizing(border-box);
+.wi-100 {
+  width: 100% !important;
 }
 
-html {
-  font-size: 100%;
-  min-height: 100%;
-  position: relative;
-  font-weight: normal;
-  // font sizing for quick MQ adjustments
-  @include media($small) {
-    font-size: 16px;
-  }
-  @include media($medium) {
-    font-size: 20px;
-  }
-  @include media($default) {
-    font-size: 22px;
-  }
-  @include media($huge) {
-    font-size: 24px;
-  }
-}
-
-body {
-  width: 100%;
-  padding: 0 0 $footer-height;
-  background: $white;
-  font-family: $body;
-  @if $body == $ss-alt {
-    letter-spacing: -0.02em;
-  }
-  text-size-adjust: 100%;
-}
-
-// Basic Elemental Styling
-
-a {
-  text-decoration: none;
-}
-
-a[data="disabled"] {
-  pointer-events: none;
-  cursor: default;
+.wi-50 {
+  width: 100% !important;
 }
 
 // Modular Bits to Extend
@@ -122,6 +86,10 @@ a[data="disabled"] {
 
 .hidden {
   display: none;
+}
+
+.transparent {
+  opacity: 0;
 }
 
 // Extensions for Structure
@@ -162,3 +130,6 @@ a[data="disabled"] {
     margin-top: 3em;
   }
 }
+
+// Animation Utilities
+

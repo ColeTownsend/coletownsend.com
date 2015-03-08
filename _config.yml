@@ -2,8 +2,9 @@
 # Can be used in your theme by calling 'site.title' and so on
 title: Twnsnd Co
 description: "my portfolio, but running with gulp. so way faster."
-tagline: this is mines.
+tagline: I'm just happy to be here. Co-founder of Meeet Co. Designer of The News App. Curator of New Old Stock. Soon to be apprentice at Thoughtbot.
 url: ''
+dev_url: 'http://localhost:3000'
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: src
@@ -17,9 +18,6 @@ author:
   bio: "I'm just happy to be here. Co-founder of Meeet Co. Designer of The News App. Curator of New Old Stock. Soon to be apprentice at Thoughtbot."
   twitter: "twnsndco"
 
-# general setting for Jekyll
-googleAnalytics: UA-XXXXX-X
-
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
 future: true
@@ -32,7 +30,7 @@ limit_posts: 10
 exclude: ['README.md', 'gulpfile.js', '*.codekit', 'Gemfile.lock', 'Gemfile', '.gitignore', 'templates', '*.sublime-workspace', '*.sublime-project', '_config.yml', '*.scssc', 'bower_components']
 
 # Permalink structure and pagination options
-paginate: 100
+paginate: 1000
 
 # Markdown library
 markdown: redcarpet
@@ -42,6 +40,11 @@ redcarpet:
               'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
 highlighter: true
 
+permalink: /:categories/:title
+
+###############
+# Asset links #
+###############
 # images
 image:
   inline: /assets/images/inline/
@@ -51,7 +54,11 @@ image:
 # scripts
 script: /assets/javascript/
 
-# nav links
+
+
+###############
+# Nav links   #
+###############
 links:
 - title: Home
   url: /
@@ -61,5 +68,3 @@ links:
   url: /journal/
 - title: About
   url: /about/
-
-permalink: /:categories/:title

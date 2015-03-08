@@ -46,7 +46,7 @@
       top: -5%;
       left: 5%;
       content: attr(href);
-      background: $red;
+      background: $purple;
       padding: 0 .5rem;
       font-weight: 600;
       font-size: 50%;
@@ -67,13 +67,6 @@
     &:hover {
       color: $hover-link-color;
       @include transition(color .2s $ease-in-out-sine);
-    }
-  }
-  .main-about li a  {
-    color: $blue-black;
-    @include underline($base-body-color, $blue-black);
-    &:hover {
-      color: darken($blue-black, 10);
     }
   }
   aside {
@@ -116,7 +109,7 @@
       bottom: 6%;
       right: 6%;
       z-index: 2;
-      border: 2px solid transparentize($blue, .4);
+      border: 2px solid transparentize($purple, .4);
       @include transition(transform .2s $ease-in-out-quad);
       &:hover {
         @include transform-origin(top right);

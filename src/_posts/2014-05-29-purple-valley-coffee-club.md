@@ -7,10 +7,13 @@ home: true
 accent_color: "#CCBFB4"
 title-color: "#fffff"
 role: "Design, Development"
-tags: [Branding, Logo Design, Front End, Just For Fun]
+tags: [Front End, Just For Fun]
 extra_css:
 image:
-  feature: pvcc-home.png
+  feature: pvcc-feature.png
+  feature_2x: pvcc-feature@2x.png
+  thumb: pvcc-thumb.png
+  blur: pvcc-blur.png
 ---
 
 [Purple Valley Coffee](http://pvcc.twnsnd.co) is a school club I started to expose students, both familiar and unfamiliar to coffee and brewing, to new methods of production, different styles of beans, and some basic chemistry related to production. Students will learn how to make their own coffe, and will no longer rely on cafes.
@@ -23,3 +26,7 @@ It also serves as a base for information to increase transparency and drive memb
 {% include _fluidbox.html grid="2" class="" alt="Home Page" url="pvcc-home.png" lowres="pvcc-home-lowres.png" cap="Landing Page" %}
 {% include _fluidbox.html grid="2" class="" alt="Home Page" url="pvcc-sign-up.png" cap="Sign Up" %}
 </div>
+
+###### Credits
+
+Thank you to [Adrian Zorzano](http://adrianzorzano.com/) for his awesome work on the logo!

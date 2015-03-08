@@ -1,0 +1,26 @@
+<section class="clearfix mt-bs">
+  {% for category in site.categories %}
+    {% assign catg_name = category.first %}
+    {% if catg_name == page.categories.first | downcase %}
+        {% assign catg_posts = category.last %}
+    {% endif %}
+  {% endfor %}
+  {% for post in catg_posts %}
+    {% if post.title == page.title %}
+      {% unless forloop.last %}
+        {% assign next = catg_posts[forloop.index] %}
+        <a class="pull-left link--under--accent drift--left" href="{{ site.url }}{{ next.url }}">
+        <h6 class="text-left no-margin wi-100">Previous Work</h6>
+        <h3 class="text-left no-margin wi-100">{{ next.title }}</h3>
+        </a>
+      {% endunless %}
+      {% unless forloop.first %}
+        <a class="pull-right link--under--accent drift--right" href="{{ site.url }}{{ prev.url }}">
+        <h6 class="text-left no-margin wi-100">Next Work</h6>
+        <h3 class="text-left no-margin wi-100">{{ prev.title }}</h3>
+        </a>
+      {% endunless %}
+    {% endif %}
+    {% assign prev = post %}
+  {% endfor %}
+</section>

@@ -39,6 +39,7 @@ The main SCSS file for everything, yep
 
 /* Base
  * -----------------------------------------------------------------------------*/
+@import "base/defaults";
 @import "base/utilities";
 @import "base/type";
 // @import "base/typography";
@@ -56,13 +57,12 @@ The main SCSS file for everything, yep
 /* Components
  * -----------------------------------------------------------------------------*/
 @import "component/animations";
-@import "component/devices";
 @import "component/fluidbox";
-@import "component/footer";
 @import "component/instantclick";
-@import "component/listing";
 @import "component/navigation";
+@import "component/listing";
 @import "component/posts";
+@import "component/footer";
 
 
 

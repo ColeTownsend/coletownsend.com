@@ -1,7 +1,5 @@
 // Typography
 ///////////////////////////////////////////////////////////////////////////////
-
-
 body {
   color: $base-font-color;
   font-family: $head;
@@ -15,12 +13,13 @@ h1,%h1, h2,%h2, h3,%h3, h4,%h4, h5,%h5, h6,%h6 {
   line-height: 1.25em;
   margin: 0;
   text-rendering: optimizeLegibility; // Fix the character spacing for headings
+  font-weight: normal;
 }
 
 h5, %h5, h6, %h6 {
   font-family: $sans-serif;
   @if $head == '$ss-alt-head' {
-    font-weight: 600;
+    font-weight: 400;
   }
 }
 
@@ -331,38 +330,89 @@ div.highlight {
 /* Article Headings
    ========================================================================== */
 
-.post {
-    &:first-child {
-        margin-top: 0;
-      }
-    h1 {
-      font-weight: 400;
-      @extend %post-width;
-      margin-left: 0;
-      margin-right: 0;
+[role="portfolio"], [role="post"] {
+  &:first-child {
+      margin-top: 0;
     }
-    h2,%h2,h3,%h3,h4,%h4,h5,%h5, {
-      font-weight: normal;
-      margin-top: 1.5rem;
-      @extend %post-width;
+  h1 {
+    font-weight: 400;
+    @extend %post-width;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  h2,%h2,h3,%h3,h4,%h4,h5,%h5, {
+    font-weight: normal;
+    margin-top: 1.5rem;
+    @extend %post-width;
+  }
+  h6, %h6 {
+    @extend %post-width;
+    @extend %caps-lock;
+    font-style: normal;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    letter-spacing: 0.1em;
+  }
+}
+
+// Type utility Classes
+
+@each $fs in $font-sizes {
+    $i: index($font-sizes, $fs);
+    .fs#{$i} {
+        font-size: $fs;
     }
-    h6, %h6 {
-      @extend %post-width;
-      @extend %caps-lock;
-      font-style: normal;
-      font-weight: bold;
-      margin-top: 1.5rem;
-      letter-spacing: 0.1em;
-    }
+}
+
+.lsp1 {
+  letter-spacing: 0.02em;
+}
+
+.lsp2 {
+  letter-spacing: 0.04em;
 }
 
 // links
 
-.low-key-link {
-  color: $red;
+.link--black {
+  color: $base-font-color;
   @include transition(color .2s $ease-in-out-sine);
+  &:visited {
+    color: $base-font-color;
+  }
   &:hover {
-    color: $black;
+    color: $base-link-color;
     @include transition(color .2s $ease-in-out-sine);
   }
+}
+
+.link--accent {
+  color: $base-link-color;
+  @include transition(color .2s $ease-in-out-sine);
+  &:visited {
+    color: darken($base-link-color, 10);
+  }
+  &:hover {
+    color: $base-font-color;
+    @include transition(color .2s $ease-in-out-sine);
+  }
+}
+
+.link--under {
+  color: $blue-black;
+  @include underline($base-body-color, $blue-black, underline);
+  &:visited {
+    border-bottom: none;
+    color: darken($blue-black, 10);
+  }
+}
+
+.link--under--light {
+  color: $light-blue-gray;
+  @include underline(rgba(0,0,0,0), $light-blue-gray, underline);
+}
+
+.link--under--accent {
+  color: $base-link-color;
+  @include underline($base-body-color, $base-link-color);
 }
