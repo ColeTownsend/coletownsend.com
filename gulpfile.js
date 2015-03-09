@@ -141,7 +141,6 @@ gulp.task("html", ["styles"], function () {
     .pipe(assets)
     // Concatenate JavaScript files and preserve important comments
     .pipe($.if("*.js", $.uglify({preserveComments: "some"})))
-    .pipe($.if("*.js", $.gzip({ threshold: '1kb' })))
     // Minify CSS
     .pipe($.if("*.css", $.minifyCss()))
     // Start cache busting the files
