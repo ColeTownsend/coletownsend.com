@@ -23,8 +23,8 @@ I created this microsite as a way of organizing member sign up so I can update t
 It also serves as a base for information to increase transparency and drive membership and a place to document the experiences of the group. 
 
 <div class="clearfix">
-{% include _fluidbox.html grid="2" class="" alt="Home Page" url="pvcc-home.png" lowres="pvcc-home-lowres.png" cap="Landing Page" %}
-{% include _fluidbox.html grid="2" class="" alt="Home Page" url="pvcc-sign-up.png" cap="Sign Up" %}
+{% include _fluidbox.html grid="2" class="" alt="Home Page" url="pvcc-home.png" lowres="" cap="Landing Page" %}
+{% include _fluidbox.html grid="2" class="" alt="Sign Up" url="pvcc-sign-up.png" lowres='' cap="Sign Up" %}
 </div>
 
 ###### Credits

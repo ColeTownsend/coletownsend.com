@@ -197,6 +197,9 @@ pre {
   background: $black;
   color: $white;
   overflow: scroll;
+  &::-webkit-scrollbar {
+    display: block;
+  }
   margin: 1rem auto;
   max-width: 100%;
   border-radius: $border-radius;
@@ -205,6 +208,9 @@ pre {
 		background:none;
 		max-width: 100%;
 		display: block;
+    &::-webkit-scrollbar {
+      display: block;
+    }
 	}
 }
 
@@ -219,6 +225,9 @@ code {
 		background-color: $white !important;
     color: $black !important;
 	}
+  &::-webkit-scrollbar {
+    display: block;
+  }
 }
 
 code::selection {

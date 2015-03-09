@@ -73,34 +73,27 @@ gulp.task("styles", function () {
     .pipe(reload({stream: true}));
 });
 
-// gulp.task('responsive-images', function () {
-//   return gulp.src("src/assets/images/inline/**")
-//     .pipe(responsive([{
-//       name: 'feature-*.jpg',
-//       width: 1440,
-//       progressive: true
-//     },{
-//       name: 'feature-*.jpg',
-//       width: 1440 * 2,
-//       rename: 'feature-retina-*.jpg',
-//       progressive: true
-//     },{
-//       name: 'full-*.jpg',
-//       width: 1440,
-//       progressive: true
-//     },{
-//       name: 'inline-*.jpg',
-//       width: 800 * 2
-//       rename: 'full-retina-*.jpg',
-//       progressive: true
-//     },{
-//       name: 'inline-*.jpg',
-//       width: 800,
-//       progressive: true
-//     }
-//     ]))
-//     .pipe(gulp.dest("site/assets/images"));
-// });
+gulp.task('thumbs', function () {
+  return gulp.src("src/assets/images/inline/*")
+    .pipe(responsive([{
+      name: '*.jpg',
+      width: .75,
+      height: .75,
+      max: 800,
+      progressive: true,
+      withoutEnlargement: true,
+      quality: 95,
+    },{
+      name: '*.png',
+      width: .75,
+      height: .75,
+      max: 800,
+      progressive: true,
+      withoutEnlargement: true,
+    }
+    ]))
+    .pipe(gulp.dest("site/assets/images/thumbs"));
+});
 
 
 // Optimizes the images that exists

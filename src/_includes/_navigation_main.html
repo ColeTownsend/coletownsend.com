@@ -5,7 +5,7 @@
     </hgroup>
     <ul>
       {% for nav_link in site.data.nav_links %}
-        <li class="inline-block fs6 lsp2"><a class="{% if page.layout == "work-listing" or page.layout == "journal-listing" %}link--under--light{% else %}link--black{% endif %}" href="{% if nav_link.external %}{{ nav_link.url }}{% else %}{{ site.url }}{{ nav_link.url }}{% endif %}" {% if nav_link.external %} data-no-instant target="_blank"{% endif %}>{{ nav_link.title }}</a></li>
+        <li class="inline-block fs6 lsp2"><a class="{% if page.layout == "work-listing" or page.layout == "journal-listing" %}link--under--light{% else %}link--black{% endif %} animsition-link" href="{% if nav_link.external %}{{ nav_link.url }}{% else %}{{ site.url }}{{ nav_link.url }}{% endif %}" {% if nav_link.external %} data-no-instant target="_blank"{% endif %}>{{ nav_link.title }}</a></li>
       {% endfor %}
     </ul>
   </nav>
