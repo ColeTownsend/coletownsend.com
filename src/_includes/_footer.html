@@ -1,10 +1,10 @@
 <footer>
   <small>
     {% if page.category %}
-    <a data-instant href="{{ site.url }}/{{ page.category }}">More</a> <br>
+    <a data-instant data-event="Clicked More in Footer" href="{{ site.url }}/{{ page.category }}">More</a> <br>
     {% elsif page.layout == 'about' %}
     {% else %}
-    <a data-instant href="{{ site.url }}/about">About Me</a> <br>
+    <a data-instant data-event="Clicked About Me" href="{{ site.url }}/about">About Me</a> <br>
     {% endif %}
     <img class="buffalo-icon" src="{{ site.url }}{{ site.image.assets }}buffalo-blue.svg"> Made in Buffalo <br> © {{ site.time | date: '%Y' }} Cole Townsend
   </small>

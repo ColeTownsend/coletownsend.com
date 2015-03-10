@@ -9,7 +9,7 @@
         <p>
           Cole Townsend is a visual designer who wants to work with you. <br> He has a passion for clean and intuitive solutions.
           {% if site.data.work_status contains 'unavailable' %}
-          He is unfortunately unavailable, but encourages you to take a look at his <a class="link--under--accent" href="#work">work</a>.</a>
+          He is unfortunately unavailable, but encourages you to take a look at his <a data-event="Clicked 'Work' to scroll to work section" class="link--under--accent" href="#work">work</a>.</a>
           {% else %}
           He is currently available for work.<a class="link--under--accent" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%63%6F%6C%65%40%74%77%6E%73%6E%64%2E%63%6F">&#8620;</a>
           {% endif %}
@@ -33,13 +33,13 @@
                   <span class="project {% if post.image.blur %}with-blur{% endif %}" style="background-image: url({{ site.url }}{{ site.image.post }}{% if post.image.thumb %}{{ post.image.thumb }}{% else %}{{ post.image.feature }}{% endif %});"></span>
 
                   <!-- Link Overlay -->
-                  <a href="{{ site.url }}{{ post.url }}" class="animsition-link">
+                  <a href="{{ site.url }}{{ post.url }}" class="animsition-link" data-event="Clicked {{post.title}} on home page">
                     <h1 {% if post.title-color %} style="color: {{ post.title-color }};"{% endif %}>{{ post.title }}</h1>
                   </a>
               </li>
               {% else %}
                 <li class="work-grid" style="background:{% if post.accent_color %}{{ post.accent_color}}{% else %}#EFEFEF{% endif %};">
-                  <a class="shown" href="{{ site.url }}{{ post.url }}">
+                  <a class="shown" data-event="Clicked {{post.title}}, no feature img" href="{{ site.url }}{{ post.url }}">
                     <h1 {% if post.title-color %} style="color: {{ post.title-color }};"{% endif %}>{{ post.title }}</h1>
                   </a>
                 </li>

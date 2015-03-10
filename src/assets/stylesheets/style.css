@@ -448,6 +448,10 @@ a[data="disabled"] {
 .hidden {
   display: none; }
 
+@media screen and (max-width: 640px)  {
+  .hidden-mobile {
+    display: none; } }
+
 .transparent {
   opacity: 0; }
 
@@ -3272,19 +3276,22 @@ footer {
 .home header[role="main-header"] {
   background: #fafafa; }
 
-section[class*="block-"] {
+.home {
+  background: #fafafa; }
+
+section[class~="block"] {
   min-height: 19em;
   position: relative;
   overflow: hidden; }
   @media screen and (max-width: 640px)  {
-    section[class*="block-"] {
+    section[class~="block"] {
       min-height: 16em; } }
 
 .block-1 {
   padding: 1.5em 0;
   padding-bottom: 3em;
-  background: #fafafa;
-  margin-bottom: 3em; }
+  margin-bottom: 3em;
+  background: #fafafa; }
   @media screen and (max-width: 640px)  {
     .block-1 {
       margin-bottom: 0;

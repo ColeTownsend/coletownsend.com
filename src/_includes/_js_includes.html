@@ -9,6 +9,7 @@
 <script src="{{ site.script }}velocity.ui.min.js"></script>
 <!-- endbuild -->
 
+<!-- Scroll click -->
 <script>
 $(document).ready(function() {
   // bind click event to all internal page anchors
@@ -28,10 +29,12 @@ $(document).ready(function() {
 });
 </script>
 
+<!-- Fade in stuffs arrow -->
 <script>
 $(".delayFade").velocity("transition.fadeIn",{ delay: 1200, duration: 400, easing: [ 250, 18 ] });
 </script>
 
+<!-- Fluidbox activation -->
 <script>
 $(function () {
   $(".zoomIt").fluidbox({
@@ -43,6 +46,7 @@ $(function () {
 });
 </script>
 
+<!-- Bounce in on homepage and about me -->
 <script>
 $.Velocity.RegisterUI("transition.bounceIn", {
   defaultDuration: 1200,
@@ -52,19 +56,7 @@ $.Velocity.RegisterUI("transition.bounceIn", {
     [ { scale: 1 }, .7, { easing: [ 250, 12 ] } ]
   ]
 });
-
 $(".work-grid").velocity("transition.bounceIn", { delay: 100, stagger: 100, drag: true });
-</script>
-
-<script>
-$.Velocity.RegisterUI("transition.bounceIn", {
-  defaultDuration: 1200,
-  calls: [
-    [ { scale: 0 }, .5, { easing: [ 250, 12 ] } ],
-    [ {opacity: 1}, .5],
-    [ { scale: 1 }, .7, { easing: [ 250, 12 ] } ]
-  ]
-});
 $(".buffalo").velocity("transition.bounceIn");
 </script>
 
@@ -72,6 +64,21 @@ $(".buffalo").velocity("transition.bounceIn");
   $(function () {
     $('a[role="fluidbox"]').fluidbox();
   })
+</script>
+
+<!-- Gosquare events -->
+<script>
+  !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+  d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+  insertBefore(d,q)}(window,document,'script','_gs');
+
+  _gs('GSN-487843-D');
+</script>
+<script>
+  $('[data-event]').on('click', function() {
+  _gs('event', $(this).data('event'));
+});
 </script>
 
 <script src="{{ site.url }}/instantclick.min.js"></script>

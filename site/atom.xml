@@ -4,7 +4,7 @@
  <title>Twnsnd Co</title>
  <link href="http://v3.twnsnd.co/atom.xml" rel="self"/>
  <link href="http://v3.twnsnd.co/"/>
- <updated>2015-03-09T11:52:08-04:00</updated>
+ <updated>2015-03-10T13:49:03-04:00</updated>
  <id>http://v3.twnsnd.co</id>
  <author>
    <name>Cole Townsend</name>
@@ -87,9 +87,12 @@
 
 &lt;p&gt;You can see the full website at &lt;a href=&quot;http://nomad.cool&quot;&gt;nomad.cool&lt;/a&gt; or below.
 &lt;br&gt;
+&lt;br&gt;
+&lt;div class=&quot;clearfix&quot;&gt;
 &lt;figure class=&quot;web&quot;&gt;
   &lt;img class=&quot;land-img&quot; src=&quot;http://v3.twnsnd.co/assets/images/inline/nomad-desktop.png&quot;&gt;
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -736,7 +739,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;Commenting&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -744,7 +747,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;The Menu&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -753,7 +756,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;MOTD&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -761,7 +764,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;Hacker News&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -773,7 +776,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;TheNews App Site&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -796,7 +799,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/pvcc-home.png&quot; title=&quot;Home Page&quot;&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/pvcc-home.png&quot; title=&quot;Home Page&quot;&gt;
   &lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thumbs/pvcc-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;
   &lt;/a&gt;
   
@@ -805,7 +808,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Sign Up&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/pvcc-sign-up.png&quot; title=&quot;Sign Up&quot;&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/pvcc-sign-up.png&quot; title=&quot;Sign Up&quot;&gt;
   &lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thumbs/pvcc-sign-up.png&quot; alt=&quot;Sign Up&quot; title=&quot;Sign Up&quot;&gt;
   &lt;/a&gt;
   
@@ -851,7 +854,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -861,7 +864,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Case Study&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-work.png&quot; title=&quot;Case Study&quot;&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-work.png&quot; title=&quot;Case Study&quot;&gt;
   &lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/thumbs/tosin-work.png&quot; alt=&quot;Case Study&quot; title=&quot;Case Study&quot;&gt;
   &lt;/a&gt;
   
@@ -872,7 +875,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   &lt;figcaption&gt;Portfolio Listing&lt;/figcaption&gt;
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/tosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -895,13 +898,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -910,13 +913,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -931,7 +934,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -939,7 +942,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/gcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -980,7 +983,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Balzac Hero&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -988,7 +991,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/balzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Balzac Longform&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1304,13 +1307,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Business Cards&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://v3.twnsnd.co/assets/images/inline/WOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Branding Posters&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>

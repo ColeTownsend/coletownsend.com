@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include _head.html %}
-  <body data-no-instant class="about">
+  <body data-no-instant class="about animsition">
     {% include _navigation_main.html %}
     <section class="wrap">
       <a href="/bestof/" class="buffalo"></a>
@@ -15,7 +15,7 @@
           <li>{% if site.data.work_status contains 'unavailable' %} <span class="red-marker"></span> {%else %} <span class="green-marker"></span> {% endif %}<small class="work-status">{{site.data.work_status}}</small></li>
           <hr>
           {% for link in site.data.links %}
-          <li><a data-no-instant href="{{ link.url }}"><small>{{ link.title }}</small></a></li>
+          <li><a data-no-instant data-event="Clicked {{ link.title }} on About Page" href="{{ link.url }}"><small>{{ link.title }}</small></a></li>
           {% endfor %}
         </ul>
       </aside>

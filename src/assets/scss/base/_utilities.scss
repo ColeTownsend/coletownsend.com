@@ -88,6 +88,12 @@
   display: none;
 }
 
+.hidden-mobile {
+  @include media($small) {
+    display: none;
+  }
+}
+
 .transparent {
   opacity: 0;
 }
