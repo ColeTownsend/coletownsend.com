@@ -11,13 +11,13 @@
         {% assign next = catg_posts[forloop.index] %}
         <a class="animsition-link pull-left link--under--accent drift--left" href="{{ site.url }}{{ next.url }}">
         <h6 class="text-left no-margin wi-100">Previous Work</h6>
-        <h3 class="text-left no-margin wi-100">{{ next.title }}</h3>
+        <h4 class="text-left no-margin wi-100">{{ next.title }}</h4>
         </a>
       {% endunless %}
       {% unless forloop.first %}
         <a class="animsition-link pull-right link--under--accent drift--right" href="{{ site.url }}{{ prev.url }}">
         <h6 class="text-left no-margin wi-100">Next Work</h6>
-        <h3 class="text-left no-margin wi-100">{{ prev.title }}</h3>
+        <h4 class="text-left no-margin wi-100">{{ prev.title }}</h4>
         </a>
       {% endunless %}
     {% endif %}

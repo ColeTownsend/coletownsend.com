@@ -3,7 +3,7 @@ layout: portfolio
 title: Balzac Theme
 date: "2014-03-19 13:27:15"
 category: "work"
-home: true
+home: false
 accent_color: "#6d98cf"
 title-color: ""
 role: "Designer and Developer"

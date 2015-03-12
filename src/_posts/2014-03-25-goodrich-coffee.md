@@ -3,7 +3,7 @@ layout: portfolio
 title: Goodrich Coffee
 date: "2014-03-25 19:41:57"
 category: work
-home: true
+home: false
 accent_color: ""
 title-color: ""
 role: "Designer"
