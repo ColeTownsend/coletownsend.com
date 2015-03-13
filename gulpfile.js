@@ -119,11 +119,11 @@ gulp.task("fonts", function () {
     .pipe($.size({ title: "fonts" }));
 });
 
-// Copy xml and txt, and instantclick to the "site" directory
+// Copy xml and txt, and not[instantclick] to the "site" directory
 gulp.task("copy", function () {
-  return gulp.src(["serve/*.txt", "serve/assets/javascript/instantclick.min.js", "serve/*.xml"])
+  return gulp.src(["serve/*.txt", "serve/*.xml"])
     .pipe(gulp.dest("site"))
-    .pipe($.size({ title: "xml & txt & instantclick" }))
+    .pipe($.size({ title: "xml & txt" }))
 });
 
 // Optimizes all the CSS, HTML and concats the JS etc
