@@ -145,7 +145,7 @@ gulp.task("html", ["styles"], function () {
     .pipe($.useref())
     // Replace the asset names with their cache busted names
     .pipe($.revReplace({
-      prefix: 'http://twnsnd.co'
+      prefix: 'http://coletownsend.com'
     }))
     // Minify HTML
     .pipe($.if("*.html", $.htmlmin({

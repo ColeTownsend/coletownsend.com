@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Twnsnd Co</title>
- <link href="http://twnsnd.co/atom.xml" rel="self"/>
- <link href="http://twnsnd.co/"/>
- <updated>2015-03-14T16:14:33-04:00</updated>
- <id>http://twnsnd.co</id>
+ <link href="http://coletownsend.com/atom.xml" rel="self"/>
+ <link href="http://coletownsend.com/"/>
+ <updated>2015-03-14T17:03:15-04:00</updated>
+ <id>http://coletownsend.com</id>
  <author>
    <name>Cole Townsend</name>
    <email>cole@coletownsend.com</email>
@@ -14,18 +14,18 @@
  
  <entry>
    <title>Fifty Shades of Greige</title>
-   <link href="http://twnsnd.co/links/fifty-shades"/>
+   <link href="http://coletownsend.com/links/fifty-shades"/>
    <updated>2015-02-16T11:20:22-05:00</updated>
-   <id>http://twnsnd.co/links/fifty-shades</id>
+   <id>http://coletownsend.com/links/fifty-shades</id>
    <content type="html">&lt;p&gt;Sass Functions Rock.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Panda Network</title>
-   <link href="http://twnsnd.co/work/panda-network"/>
+   <link href="http://coletownsend.com/work/panda-network"/>
    <updated>2015-02-16T00:00:00-05:00</updated>
-   <id>http://twnsnd.co/work/panda-network</id>
+   <id>http://coletownsend.com/work/panda-network</id>
    <content type="html">&lt;p&gt;Panda Network is the bootstrapped co-founding duo of Ahmet Sulek and William Channer. They simply get things done. They work in collaboration with many different developers and designers to ship apps you may be familiar with. I was lucky enough to work through them on &lt;a href=&quot;/work/thenews&quot;&gt;TheNews&lt;/a&gt;, designing both the iOS app, iOS app landing page, and redesigning the web app.&lt;/p&gt;
 
 &lt;h2&gt;Getting Stuff Done&lt;/h2&gt;
@@ -35,7 +35,7 @@
 &lt;p&gt;This is a more basic but eye catching approach. It&amp;rsquo;s straightforward and speaks directly to developers and designers who have likely heard of what Panda Networks has created. Panda can continually add new works as well without destroying the design and it will only further reinforce their identity.&lt;/p&gt;
 
 &lt;figure class=&quot;full-width&quot;&gt;
-  &lt;img src=&quot;http://twnsnd.co/assets/images/inline//panda-mocks/imac/panda-network.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+  &lt;img src=&quot;http://coletownsend.com/assets/images/inline//panda-mocks/imac/panda-network.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;h2&gt;Copywriting&lt;/h2&gt;
@@ -55,7 +55,7 @@
 &lt;p&gt;The website also comes in a mobile flavor. It&amp;rsquo;s styled according to work per medium — when accessed on a mobile device, their latest apps available in the App Store appear.&lt;/p&gt;
 
 &lt;figure class=&quot;full-width&quot;&gt;
-  &lt;img src=&quot;http://twnsnd.co/assets/images/inline//panda-mocks/panda-mock-iphone.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
+  &lt;img src=&quot;http://coletownsend.com/assets/images/inline//panda-mocks/panda-mock-iphone.jpg&quot; alt=&quot;&quot; title=&quot;&quot;&gt;&lt;/a&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Currently the website is optimized for a generic width starting at a minimum of 320px, and looks best on slightly larger more powerful devices due to the slightly resource intensive animation. &lt;/p&gt;
@@ -66,9 +66,9 @@
  
  <entry>
    <title>Nomad CLI</title>
-   <link href="http://twnsnd.co/work/nomadpm"/>
+   <link href="http://coletownsend.com/work/nomadpm"/>
    <updated>2015-01-31T00:00:00-05:00</updated>
-   <id>http://twnsnd.co/work/nomadpm</id>
+   <id>http://coletownsend.com/work/nomadpm</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://nomad.cool&quot;&gt;Nomad&lt;/a&gt; package manager for Arduino. In three commands, you can get your device up and running within minutes using the most popular libraries on the internet. You can also easily package and share your own setup.&lt;/p&gt;
 
 &lt;h2&gt;Logo&lt;/h2&gt;
@@ -79,7 +79,7 @@
 
 &lt;p&gt;I sketched out several pages and found the most appealing to be the assymetric skewed towards the right. I didn&amp;rsquo;t do any fancy golden ratio circles or grid setup for this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img style=&quot;display: block; margin: 0 auto; width: 100%; border: 1px solid #f9f9f9;&quot; src=&quot;http://twnsnd.co/assets/images/inline/nomadpm-logos.svg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;display: block; margin: 0 auto; width: 100%; border: 1px solid #f9f9f9;&quot; src=&quot;http://coletownsend.com/assets/images/inline/nomadpm-logos.svg&quot;&gt;&lt;/p&gt;
 
 &lt;h2&gt;Web&lt;/h2&gt;
 
@@ -90,7 +90,7 @@
 &lt;br&gt;
 &lt;div class=&quot;clearfix&quot;&gt;
 &lt;figure class=&quot;web&quot;&gt;
-  &lt;img class=&quot;land-img&quot; src=&quot;http://twnsnd.co/assets/images/inline/nomad-desktop.png&quot;&gt;
+  &lt;img class=&quot;land-img&quot; src=&quot;http://coletownsend.com/assets/images/inline/nomad-desktop.png&quot;&gt;
 &lt;/figure&gt;
 &lt;/div&gt;&lt;/p&gt;
 </content>
@@ -98,9 +98,9 @@
  
  <entry>
    <title>Fresh Install Yosemite to Development: The Easy Way</title>
-   <link href="http://twnsnd.co/journal/fresh-install-yosemite"/>
+   <link href="http://coletownsend.com/journal/fresh-install-yosemite"/>
    <updated>2014-12-21T13:06:34-05:00</updated>
-   <id>http://twnsnd.co/journal/fresh-install-yosemite</id>
+   <id>http://coletownsend.com/journal/fresh-install-yosemite</id>
    <content type="html">&lt;h4&gt;Disclaimer&lt;/h4&gt;
 
 &lt;p&gt;This requires being comfortable in the command line. You&amp;rsquo;ve been warned. This is also opinionated to a degree. It sets you up with the following:
@@ -694,9 +694,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Pretty Common</title>
-   <link href="http://twnsnd.co/work/pretty-common"/>
+   <link href="http://coletownsend.com/work/pretty-common"/>
    <updated>2014-12-01T00:00:00-05:00</updated>
-   <id>http://twnsnd.co/work/pretty-common</id>
+   <id>http://coletownsend.com/work/pretty-common</id>
    <content type="html">&lt;p&gt;Pretty Common is a collaboration between Noah Buscher and me that produces accessible digital projects. We look to make simple resources for the web that &lt;strong&gt;just work&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;This website was built with plain old static html via &lt;a href=&quot;http://mrmrs.io/&quot;&gt;@mrmrs&amp;rsquo;&lt;/a&gt; &lt;a href=&quot;http://tachyons.io/&quot;&gt;tachyons&lt;/a&gt; template which is a development environment and css &amp;ldquo;framework.&amp;rdquo; I put this in quotes because it is really just a comprehensive collection of single use, object oriented global classes.&lt;/p&gt;
@@ -705,27 +705,27 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;&lt;br&gt;
 &lt;div&gt;
-&lt;img style=&quot;width: 100%; height: auto; max-height: 9999px; border: 1px solid #000&quot; src=&quot;http://twnsnd.co/assets/images/inline/pretty-common-1.jpg&quot;&gt;
+&lt;img style=&quot;width: 100%; height: auto; max-height: 9999px; border: 1px solid #000&quot; src=&quot;http://coletownsend.com/assets/images/inline/pretty-common-1.jpg&quot;&gt;
 &lt;br&gt;
-&lt;img style=&quot;width: 100%; height: auto; max-height: 9999px; border: 1px solid #000&quot; src=&quot;http://twnsnd.co/assets/images/inline/pretty-common-2.jpg&quot;&gt;
+&lt;img style=&quot;width: 100%; height: auto; max-height: 9999px; border: 1px solid #000&quot; src=&quot;http://coletownsend.com/assets/images/inline/pretty-common-2.jpg&quot;&gt;
 &lt;/div&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Two Dribbble Invites</title>
-   <link href="http://twnsnd.co/links/two-dribbble-invites"/>
+   <link href="http://coletownsend.com/links/two-dribbble-invites"/>
    <updated>2014-06-21T20:42:53-04:00</updated>
-   <id>http://twnsnd.co/links/two-dribbble-invites</id>
+   <id>http://coletownsend.com/links/two-dribbble-invites</id>
    <content type="html">&lt;p&gt;Two invites up for grabs!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>TheNews</title>
-   <link href="http://twnsnd.co/work/thenews"/>
+   <link href="http://coletownsend.com/work/thenews"/>
    <updated>2014-06-12T16:53:04-04:00</updated>
-   <id>http://twnsnd.co/work/thenews</id>
+   <id>http://coletownsend.com/work/thenews</id>
    <content type="html">&lt;p&gt;TheNews is a website and app that combines Hacker and Designer News. It&amp;rsquo;s simple to quickly browse both, checking on the latest links, resources, and updates in the tech and web community.&lt;/p&gt;
 
 &lt;h2&gt;Now for iOS&lt;/h2&gt;
@@ -739,7 +739,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;Commenting&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/thenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/thenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -747,7 +747,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;The Menu&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/thenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/thenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -756,7 +756,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;MOTD&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/thenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/thenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -764,7 +764,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-4&quot; &gt;
   &lt;figcaption&gt;Hacker News&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/thenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/thenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -776,7 +776,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/thenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/thenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;TheNews App Site&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -787,9 +787,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Purple Valley Coffee Club</title>
-   <link href="http://twnsnd.co/work/purple-valley-coffee-club"/>
+   <link href="http://coletownsend.com/work/purple-valley-coffee-club"/>
    <updated>2014-05-29T15:10:14-04:00</updated>
-   <id>http://twnsnd.co/work/purple-valley-coffee-club</id>
+   <id>http://coletownsend.com/work/purple-valley-coffee-club</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://pvcc.twnsnd.co&quot;&gt;Purple Valley Coffee&lt;/a&gt; is a school club I started to expose students, both familiar and unfamiliar to coffee and brewing, to new methods of production, different styles of beans, and some basic chemistry related to production. Students will learn how to make their own coffe, and will no longer rely on cafes.&lt;/p&gt;
 
 &lt;p&gt;I created this microsite as a way of organizing member sign up so I can update the constitution to reflect the current members as well as apply to Williams College Council for the appropriate ammount of funding.&lt;/p&gt;
@@ -799,8 +799,8 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/pvcc-home.png&quot; title=&quot;Home Page&quot;&gt;
-  &lt;img src=&quot;http://twnsnd.co/assets/images/inline/thumbs/pvcc-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/pvcc-home.png&quot; title=&quot;Home Page&quot;&gt;
+  &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/pvcc-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
@@ -808,8 +808,8 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Sign Up&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/pvcc-sign-up.png&quot; title=&quot;Sign Up&quot;&gt;
-  &lt;img src=&quot;http://twnsnd.co/assets/images/inline/thumbs/pvcc-sign-up.png&quot; alt=&quot;Sign Up&quot; title=&quot;Sign Up&quot;&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/pvcc-sign-up.png&quot; title=&quot;Sign Up&quot;&gt;
+  &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/pvcc-sign-up.png&quot; alt=&quot;Sign Up&quot; title=&quot;Sign Up&quot;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
@@ -825,9 +825,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Meeet</title>
-   <link href="http://twnsnd.co/work/meeet"/>
+   <link href="http://coletownsend.com/work/meeet"/>
    <updated>2014-05-27T00:00:00-04:00</updated>
-   <id>http://twnsnd.co/work/meeet</id>
+   <id>http://coletownsend.com/work/meeet</id>
    <content type="html">&lt;p&gt;Side projects are gaining popularity in the web community. Volunteered to bulk up your résumé? Open source projects are volunteering in the web community. And they make a difference both seen and unseen. They&amp;rsquo;re launching careers. They&amp;rsquo;re expanding beyond mere side projects for some. Chances are that you have heard of Animate.css (Dan Eden). Perhaps you haven’t heard of Jake Kelly, but I’m sure you’re familiar with one of his projects: Behave.js, Snap.js, or Mention.js. You may have read Typoguide by Benedikt Lehnert, or used AnchorCMS developed by Visual Idiot.    &lt;/p&gt;
 
 &lt;p&gt;Sometimes these projects were small enough for one, but often there is a second pair of eyes and hands, a second mind, helping implement. Finding the right person to fill this role is often difficult. You can’t always find a perfect match for skills. your mentions on Twitter fell on silent ears. Designer News lacked a response. There’s &lt;a href=&quot;http://programmermeetdesigner.com/&quot;&gt;Programmer Meet Designer&lt;/a&gt;, but everyone there is looking for a long term partner. It’s centered around money and location. It’s too much commitment. &lt;/p&gt;
@@ -844,9 +844,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Portfolio of Tosin Afolabi</title>
-   <link href="http://twnsnd.co/work/tosin-af"/>
+   <link href="http://coletownsend.com/work/tosin-af"/>
    <updated>2014-04-11T14:59:54-04:00</updated>
-   <id>http://twnsnd.co/work/tosin-af</id>
+   <id>http://coletownsend.com/work/tosin-af</id>
    <content type="html">&lt;p&gt;This portfolio site is for a friend with whom I work. He wanted something that was unique, a bit edgier than the traditional site for a developer. I created several different color palettes as well as a motion prototype in &lt;em&gt;Adobe Edge Effects&lt;/em&gt; to flesh out timing and give him an idea of how his site would feel. &lt;/p&gt;
 
 &lt;div class=&quot;clearfix&quot;&gt;
@@ -854,7 +854,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/tosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/tosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/tosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -864,8 +864,8 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;div class=&quot;clearfix&quot;&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Case Study&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/tosin-work.png&quot; title=&quot;Case Study&quot;&gt;
-  &lt;img src=&quot;http://twnsnd.co/assets/images/inline/thumbs/tosin-work.png&quot; alt=&quot;Case Study&quot; title=&quot;Case Study&quot;&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-work.png&quot; title=&quot;Case Study&quot;&gt;
+  &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/tosin-work.png&quot; alt=&quot;Case Study&quot; title=&quot;Case Study&quot;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
@@ -875,7 +875,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   &lt;figcaption&gt;Portfolio Listing&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/tosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/tosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/tosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -886,9 +886,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Goodrich Coffee</title>
-   <link href="http://twnsnd.co/work/goodrich-coffee"/>
+   <link href="http://coletownsend.com/work/goodrich-coffee"/>
    <updated>2014-03-25T19:41:57-04:00</updated>
-   <id>http://twnsnd.co/work/goodrich-coffee</id>
+   <id>http://coletownsend.com/work/goodrich-coffee</id>
    <content type="html">&lt;p&gt;At Williams College, I worked with Goodrich Coffee Bar. I developed their identity through several poster campaigns. With custom illustrations and cheeky copywriting I helped develop their brand voice. I used the typeface Soleil, available on Typekit.&lt;/p&gt;
 
 &lt;h2&gt;Fall Campaign&lt;/h2&gt;
@@ -898,13 +898,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/gcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/gcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/gcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/gcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -913,13 +913,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/gcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/gcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/gcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/gcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -934,7 +934,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/gcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/gcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -942,7 +942,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-2&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/gcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/gcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
   
 &lt;/figure&gt;
 
@@ -953,9 +953,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Balzac Theme</title>
-   <link href="http://twnsnd.co/work/balzac-theme"/>
+   <link href="http://coletownsend.com/work/balzac-theme"/>
    <updated>2014-03-19T13:27:15-04:00</updated>
-   <id>http://twnsnd.co/work/balzac-theme</id>
+   <id>http://coletownsend.com/work/balzac-theme</id>
    <content type="html">&lt;h2&gt;Design&lt;/h2&gt;
 
 &lt;p&gt;This theme honestly didn&amp;rsquo;t have such a long design process. I wanted to make create a theme that helped people tell stories. I really wanted to emphasize the writing, which translated to an emphasis on the beautiful Calendas Plus. &lt;/p&gt;
@@ -983,7 +983,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/balzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/balzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Balzac Hero&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -991,7 +991,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/balzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/balzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Balzac Longform&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1002,9 +1002,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Typistry</title>
-   <link href="http://twnsnd.co/work/typistry"/>
+   <link href="http://coletownsend.com/work/typistry"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/work/typistry</id>
+   <id>http://coletownsend.com/work/typistry</id>
    <content type="html">&lt;p&gt;Typistry is a single column, reading-centric theme for Tumblr. I wanted to create an environment around the blog post, to coddle long form for a great reading experience. The end result was a theme that looked similar to what one might see on a kindle, on the NYT redesign, or on A List Apart.&lt;/p&gt;
 
 &lt;p&gt;&lt;a class=&quot;strip-style&quot; href=&quot;http://gum.co/yMIA&quot; class=&quot;gumroad-button&quot;&gt;Buy on Gumroad&lt;/a&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://gumroad.com/js/gumroad.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
@@ -1025,9 +1025,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>The Best Resources for Sketch</title>
-   <link href="http://twnsnd.co/journal/sketch-app"/>
+   <link href="http://coletownsend.com/journal/sketch-app"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/journal/sketch-app</id>
+   <id>http://coletownsend.com/journal/sketch-app</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.bohemiancoding.com/sketch/&quot; target=&quot;_blank&quot;&gt;Sketch App&lt;/a&gt; by Bohemian Coding is &lt;u&gt;the app&lt;/u&gt; for designing websites and interfaces. It&amp;rsquo;s built for UI work. It exclusively uses vectors. The interface is simple and intuitive. It can run off a thumb drive and the program is smaller than the average PSD.&lt;/p&gt;
 
 &lt;p&gt;One area where Sketch lacks is resources. There are so many Photoshop plugins, grids, brushes, and templates. As the industry standard I would expect there to be more for Photoshop, just as Windows runs more games than Mac. That&amp;rsquo;s just how it is.&lt;/p&gt;
@@ -1071,9 +1071,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>A Quick Guide to Anchor CMS</title>
-   <link href="http://twnsnd.co/journal/quick-guide-to-anchor-cms"/>
+   <link href="http://coletownsend.com/journal/quick-guide-to-anchor-cms"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/journal/quick-guide-to-anchor-cms</id>
+   <id>http://coletownsend.com/journal/quick-guide-to-anchor-cms</id>
    <content type="html">&lt;p&gt;Below is a condensed version of the install instructions available at &lt;a href=&quot;http://anchorcms.com/docs/getting-started/installing&quot;&gt;Anchor CMS&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -1102,9 +1102,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Peck</title>
-   <link href="http://twnsnd.co/work/peck"/>
+   <link href="http://coletownsend.com/work/peck"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/work/peck</id>
+   <id>http://coletownsend.com/work/peck</id>
    <content type="html">&lt;p&gt;Organizing and scheduling events on campus can be incredibly difficult without one centralized feed. At Williams College, there are &lt;u&gt;three&lt;/u&gt; listing services one must be sure to notify in order to reach the majority of students.&lt;/p&gt;
 
 &lt;h2&gt;Solution&lt;/h2&gt;
@@ -1129,15 +1129,15 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;I first came upon the offscreen menu on CSS Tricks. Chris Coyier made &lt;a href=&quot;http://codepen.io/chriscoyier/pen/umEgv&quot; target=&quot;_blank&quot;&gt;a demo&lt;/a&gt; that used sibling selectors and a radio button to open and close a hidden menu. Since then, many apps have used side menus and is an accepted practice. It was ultimately easier to use with an omniscient and dedicated menu page. I know many people really enjoy the novelty of an offscreen menu, but it makes sense from a usability standpoint as well. It creates more space for the app as a whole and the menu doesn&amp;rsquo;t feel cramped. By removing the menu features, I was able to simplify what was otherwise a bit overwhelming. I could also eliminate the tab navigation and get a better environment for listings. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co2014/03/peck-menu.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com2014/03/peck-menu.png&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Mach 2000</title>
-   <link href="http://twnsnd.co/journal/mach-2000"/>
+   <link href="http://coletownsend.com/journal/mach-2000"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/journal/mach-2000</id>
+   <id>http://coletownsend.com/journal/mach-2000</id>
    <content type="html">&lt;p&gt;June 15, 1973 a large demonstration was held outside the LIP (pronounced “leap”) watch factory in Besançon, France.  The workers rallied under the phrase: “C’est possible: on fabrique, on vend, on se paie!” &lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1172,9 +1172,9 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Box Redesign</title>
-   <link href="http://twnsnd.co/journal/box-redesign"/>
+   <link href="http://coletownsend.com/journal/box-redesign"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/journal/box-redesign</id>
+   <id>http://coletownsend.com/journal/box-redesign</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/3A1K280y3H2Z3j1I0N3Q/Screen%20Shot%202013-03-30%20at%201.04.jpg&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;My first step was some minor UX tweaking. I didn&amp;rsquo;t want to radically change the site; it&amp;rsquo;s relatively intuitive to use as I am familiar with CloudApp, Dropbox, and numerous other cloud based services. One thing I noticed was that there were many different functions on the viewing page. When I was revising the viewing page, I wanted to clean it up. My goal was to make the primary function of each page very clear. &lt;/p&gt;
@@ -1189,23 +1189,23 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;Specifically for the visuals, I aimed to minimize what was going on in the document viewer. I feel that it&amp;rsquo;s better to directly be able to influence specifically which page is viewed, rather than clicking through each one individually. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co/images/inline/box-box-doc.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com/images/inline/box-box-doc.png&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co/images/inline/box-my-doc.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com/images/inline/box-my-doc.png&quot;&gt;&lt;/p&gt;
 
 &lt;h3&gt;Video Viewer&lt;/h3&gt;
 
 &lt;p&gt;I wish I could show an example of the video viewer. Unfortunately it was not included in the free version, a download was necessary for free users. Paid users were allowed a previewer. With the video player, I aimed to keep it consistent with other video players common to cloud viewers. Users are familiar with the layout. &lt;/p&gt;
 
-&lt;p&gt;&lt;img stye=&quot;max-width: 100%; height: auto;&quot; src=&quot;http://twnsnd.co/images/inline/box-video.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img stye=&quot;max-width: 100%; height: auto;&quot; src=&quot;http://coletownsend.com/images/inline/box-video.png&quot;&gt;&lt;/p&gt;
 
 &lt;h2&gt;Nav&lt;/h2&gt;
 
 &lt;p&gt;The nav I found to be a bit inconsistent and congested. I had a hard time discerning which icon did what, and was a bit overwhelmed with the amount of icons. I shifted the upgrade feature farthest right, so it remains unobtrusive to the user. I also separated the tasks and messages drop down into two separate features. They aren&amp;rsquo;t peas and carrots or PB&amp;amp;J. Tasks and messages should be separated. Instead of wondering whether it is a message form a coworker or a task from the project manager, the user will know immediately. Simplification is sometimes confused with subtracting. In this case it means simplification meant adding an extra icon to eliminate a step for the user.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co/images/inline/box-box-nav.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com/images/inline/box-box-nav.png&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co/images/inline/box-my-nav.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com/images/inline/box-my-nav.png&quot;&gt;&lt;/p&gt;
 
 &lt;h3&gt;Sub Nav&lt;/h3&gt;
 
@@ -1215,17 +1215,17 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;The comment area was cluttered with links for various types of comments. The comment area shouldn&amp;rsquo;t be intimidating or hard to read! It should be helpful and fun. At Box, the commenting area is also used to assign tasks, perhaps on a document or a TPS report. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co/images/inline/box-box-comment.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com/images/inline/box-box-comment.png&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.co/images/inline/box-my-comment.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.com/images/inline/box-my-comment.png&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>An Analysis of Branch</title>
-   <link href="http://twnsnd.co/journal/an-analysis-of-branch"/>
+   <link href="http://coletownsend.com/journal/an-analysis-of-branch"/>
    <updated>2014-02-27T12:06:34-05:00</updated>
-   <id>http://twnsnd.co/journal/an-analysis-of-branch</id>
+   <id>http://coletownsend.com/journal/an-analysis-of-branch</id>
    <content type="html">&lt;p&gt;Branch is a new website that organizes discussions. It allows users to easily register and gather others in conversation, or branch, about a topic of their choice.&lt;/p&gt;
 
 &lt;p&gt;I love Branch. It&amp;rsquo;s awesome for discussion, and it&amp;rsquo;s easy to get new people in on the conversation. I hate to start out with what I see wrong, but one thing I dislike about &lt;a href=&quot;http://branch.com&quot; target=&quot;blank&quot;&gt;branch&lt;/a&gt; is the narrow dicussion area. Some might find this layout more intimate, but I believe that in aiming for less distraction, the designers made it more distracting; the text is too conglomerated. A wider discussion area with larger font would make the conversation easier to read and less like Twitter, where I find many tweets and replies go unnoticed in a massive list of text.&lt;/p&gt;
@@ -1244,27 +1244,27 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
  
  <entry>
    <title>Illustrations</title>
-   <link href="http://twnsnd.co/work/illustrations"/>
+   <link href="http://coletownsend.com/work/illustrations"/>
    <updated>2014-02-26T18:39:05-05:00</updated>
-   <id>http://twnsnd.co/work/illustrations</id>
+   <id>http://coletownsend.com/work/illustrations</id>
    <content type="html">&lt;p&gt;Illustration is something I enjoy doing, so I try to incorporate it where appropriate. I rely on simple shapes with some minor adjustments to create a piece, filling in smaller details as I see fit. It&amp;rsquo;s topped off with a left skewed drop shadow.&lt;/p&gt;
 
 &lt;p&gt;Below are a selection of my favorite illustrations that I have recently done.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.coill-brew.png&quot; alt=&quot;Chemex&quot;&gt;
-&lt;img src=&quot;http://twnsnd.coill-macfam.jpg&quot; alt=&quot;iMac, iPad, and iPhone&quot;&gt;
-&lt;img src=&quot;http://twnsnd.coill-test.png&quot; alt=&quot;Test illustration with Pen&quot;&gt;
-&lt;img src=&quot;http://twnsnd.coill-pencil.png&quot; alt=&quot;Mechanical Pencil with Pink Eraser&quot;&gt;
-&lt;img src=&quot;http://twnsnd.coill-braun.png&quot; alt=&quot;Braun Radio illustration&quot;&gt;
-&lt;img src=&quot;http://twnsnd.coill-keyboard.png&quot; alt=&quot;Keyboard illustration&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.comill-brew.png&quot; alt=&quot;Chemex&quot;&gt;
+&lt;img src=&quot;http://coletownsend.comill-macfam.jpg&quot; alt=&quot;iMac, iPad, and iPhone&quot;&gt;
+&lt;img src=&quot;http://coletownsend.comill-test.png&quot; alt=&quot;Test illustration with Pen&quot;&gt;
+&lt;img src=&quot;http://coletownsend.comill-pencil.png&quot; alt=&quot;Mechanical Pencil with Pink Eraser&quot;&gt;
+&lt;img src=&quot;http://coletownsend.comill-braun.png&quot; alt=&quot;Braun Radio illustration&quot;&gt;
+&lt;img src=&quot;http://coletownsend.comill-keyboard.png&quot; alt=&quot;Keyboard illustration&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Tuchuang</title>
-   <link href="http://twnsnd.co/work/tuchuang"/>
+   <link href="http://coletownsend.com/work/tuchuang"/>
    <updated>2014-02-26T00:00:00-05:00</updated>
-   <id>http://twnsnd.co/work/tuchuang</id>
+   <id>http://coletownsend.com/work/tuchuang</id>
    <content type="html">&lt;h2&gt;Logo&lt;/h2&gt;
 
 &lt;p&gt;I developed the logo as well as business cards for the company. In the logo, I aimed to communicate trustworthiness, stability, and approachability. After many different sketches, I chose an off centered, three dimensional &amp;ldquo;T&amp;rdquo;. A flat &amp;ldquo;T&amp;rdquo; seemed a bit boring, interchangeable, unapproachable. It didn&amp;rsquo;t communicate the close relationship that Tuchuang aims to develop with clients. Adding a dimension and separating the sides gave it a bit of visual interest, while still communicating Tuchuang&amp;rsquo;s professionalism, effectiveness, and strength. The end result is easily reproduced, visually consistent in all media, and scales perfectly. &lt;/p&gt;
@@ -1273,28 +1273,28 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;With a template already in mind, I created a slightly more unique business card that would look great in both Chinese and English.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.cotuch-biz-front.png&quot;&gt;
-&lt;img src=&quot;http://twnsnd.cotuch-biz-back.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.comtuch-biz-front.png&quot;&gt;
+&lt;img src=&quot;http://coletownsend.comtuch-biz-back.png&quot;&gt;&lt;/p&gt;
 
 &lt;h2&gt;Website&lt;/h2&gt;
 
 &lt;p&gt;I provided the layout, illustrations, as well as CSS for various elements. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://twnsnd.cotuch-illust.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://coletownsend.comtuch-illust.png&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;web&quot;&gt;
-&lt;img class=&quot;land-img&quot; src=&quot;http://twnsnd.cotuch-small-land.jpg&quot;&gt;
+&lt;img class=&quot;land-img&quot; src=&quot;http://coletownsend.comtuch-small-land.jpg&quot;&gt;
 &lt;/figure&gt;
 </content>
  </entry>
  
  <entry>
    <title>Williams Outing Club</title>
-   <link href="http://twnsnd.co/work/williams-outing-club"/>
+   <link href="http://coletownsend.com/work/williams-outing-club"/>
    <updated>2014-02-25T13:01:12-05:00</updated>
-   <id>http://twnsnd.co/work/williams-outing-club</id>
+   <id>http://coletownsend.com/work/williams-outing-club</id>
    <content type="html">&lt;p&gt;The Williams Outing Club is responsible for connecting students with beautiful mountains, forests, and trail systems we have in the Purple Valley. They organize hikes, ski trips, lend equipment, and keep otherwise library bound students active. WOC highlights during the academic year include WOOLF (backpacking trips for incoming Frosh), Friday morning hikes, and Mountain Day. These all revolve around the surrounding Berkshire Mountains. In the current logo, WOC is juxtaposed against trees, but it doesn&amp;rsquo;t quite seem unified nor emphasize the mountainous locale.&lt;/p&gt;
 
 &lt;p&gt;I was inspired to start working on this logo while procrastinating. I had an architecture project due in a few days, and wanted to be productive, but couldn&amp;rsquo;t focus on the actual building. I set out to create a logotype that incorporated the environment and attitude of WOC.&lt;/p&gt;
@@ -1307,13 +1307,13 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/WOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/WOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/WOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/WOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Business Cards&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-full&quot; &gt;
   
-  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://twnsnd.co/assets/images/inline/WOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://twnsnd.co/assets/images/inline/WOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/WOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/WOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
   &lt;figcaption&gt;Branding Posters&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>
