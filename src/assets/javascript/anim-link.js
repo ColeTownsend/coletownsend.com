@@ -5,7 +5,7 @@ $(document).ready(function() {
 
     inClass               :   'fade-in',
     outClass              :   'zoom-out-sm',
-    inDuration            :    800,
+    inDuration            :    600,
     outDuration           :    600,
     linkElement           :   '.animsition-link',
     // e.g. linkElement   :   'a:not([target="_blank"]):not([href^=#])'

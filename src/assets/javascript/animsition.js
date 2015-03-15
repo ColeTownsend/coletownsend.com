@@ -13,8 +13,8 @@
       options = $.extend({
         inClass: "fade-in",
         outClass: "fade-out",
-        inDuration: 1500,
-        outDuration: 800,
+        inDuration: 600,
+        outDuration: 600,
         linkElement: ".animsition-link",
         loading: true,
         loadingParentElement: "body",
