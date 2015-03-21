@@ -4,13 +4,95 @@
  <title>Twnsnd Co</title>
  <link href="http://coletownsend.com/atom.xml" rel="self"/>
  <link href="http://coletownsend.com/"/>
- <updated>2015-03-14T17:03:15-04:00</updated>
+ <updated>2015-03-21T15:52:10-04:00</updated>
  <id>http://coletownsend.com</id>
  <author>
    <name>Cole Townsend</name>
    <email>cole@coletownsend.com</email>
  </author>
 
+ 
+ <entry>
+   <title>new post</title>
+   <link href="http://coletownsend.com/new-post"/>
+   <updated>2015-03-21T00:00:00-04:00</updated>
+   <id>http://coletownsend.com/new-post</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Swipes</title>
+   <link href="http://coletownsend.com/work/goodrich-swipes"/>
+   <updated>2015-03-21T00:00:00-04:00</updated>
+   <id>http://coletownsend.com/work/goodrich-swipes</id>
+   <content type="html">&lt;p&gt;Goodrich Coffee Bar is a student run cafe on campus. It&amp;rsquo;s often plagued by lines backed up to the door during peak hours. 
+Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students can place their order through when inside the Goodrich geofence, and then get in line to swipe. The order is handled on an admin panel that employees can pull up on laptops or tablets.&lt;/p&gt;
+
+&lt;h2&gt;Case Study&lt;/h2&gt;
+
+&lt;p&gt;James needs to get to his 18th Century Psychology class at 10, but still needs breakfast. Normally, Goodrich is packed with at least a twenty minute wait at this time. He walks to Goodrich and checks anyway. To his surprise, the line is half as long. The employee at the register is just swiping away while 5 students prepare espresso drinks and bagels. He finds out that Goodrich now has an app that enables students to place orders on their phones.&lt;/p&gt;
+
+&lt;p&gt;He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on their. He taps on &amp;ldquo;Favorites&amp;rdquo; in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latté. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Wheat bagel with cream cheese and Latte for James?&amp;rdquo;&lt;/p&gt;
+
+&lt;h2&gt;Speeding Up Orders&lt;/h2&gt;
+
+&lt;p&gt;With Swipes, James can easily see how much his order costs to stay under his allotted $4.50. The cost of each item is added to his total. If he goes over his alloted total, the navbar turns yellow. He can also go to the &amp;ldquo;Recent&amp;rdquo; tab and see all of his latest orders. James is a creature of habit, and tends to order the Goodrich every Monday, Wednesday and Friday before class. &lt;/p&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  
+  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist-none@2x.jpg&quot; title=&quot;GC Swipes Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist-none@2x.jpg&quot; alt=&quot;GC Swipes Menu&quot; title=&quot;GC Swipes Menu&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  
+  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist@2x.jpg&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist@2x.jpg&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  
+  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/recents@2x.jpg&quot; title=&quot;GC Swipes Recent Orders&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/recents@2x.jpg&quot; alt=&quot;GC Swipes Recent Orders&quot; title=&quot;GC Swipes Recent Orders&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;figure class=&quot;grid-4&quot; &gt;
+  
+  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/confirm-order@2x.jpg&quot; title=&quot;GC Swipes Order Confirmation&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/confirm-order@2x.jpg&quot; alt=&quot;GC Swipes Order Confirmation&quot; title=&quot;GC Swipes Order Confirmation&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+
+&lt;h2&gt;Ordering Chaos&lt;/h2&gt;
+
+&lt;p&gt;The admin panel is supersized for easy taps and legibility while working quickly. Often orders and items will be forgotten or made mulitple times. With live updates, an employee can choose an item to make, certain that no one has made it already. If she taps something accidentally, she can quickly undo it. &lt;/p&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;
+
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc-swipes-admin.jpg&quot; title=&quot;Goodrich Swipes Web Admin Panel&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc-swipes-admin.jpg&quot; alt=&quot;Goodrich Swipes Web Admin Panel&quot; title=&quot;Goodrich Swipes Web Admin Panel&quot;&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Swipes Web Admin Panel&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Fifty Shades of Greige</title>

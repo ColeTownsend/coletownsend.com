@@ -72,3 +72,8 @@ serve
 aws-credentials.json
 rsync-credentials.json
 ftp-credentials.json
+
+# Sitespeed
+sitespeed-result
+sitespeed-result/
+sitespeed-result/*

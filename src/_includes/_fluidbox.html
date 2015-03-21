@@ -1,7 +1,7 @@
 {% if include.lowres %}
 <figure {% if include.grid %}class="grid-{{ include.grid }}" {% endif %}>{% if include.grid != 'full' %}{% if include.cap %}<figcaption>{{ include.cap }}</figcaption>{% endif %}{% endif %}
-  <a data-event="Clicked fluidbox on {{ page.title }}" role="fluidbox" class="{{ include.class }}" href="{{ site.url }}{{ site.image.inline }}{{ include.url }}" title="{{ include.alt }}">
-  <img src="{{ site.url }}{{ site.image.inline }}thumbs/{{ include.url }}" alt="{{ include.alt }}" title="{{ include.alt }}">
+  <a data-event="Clicked fluidbox on {{ page.title }}" role="fluidbox" class="{{ include.class }}" href="{{ site.dev_url }}{{ site.url }}{{ site.image.inline }}{{ include.url }}" title="{{ include.alt }}">
+  <img src="{{ site.dev_url }}{{ site.url }}{{ site.image.inline }}thumbs/{{ include.url }}" alt="{{ include.alt }}" title="{{ include.alt }}">
   </a>
   {% if include.grid contains 'full' %}{% if include.cap %}<figcaption>{{ include.cap }}</figcaption>{% endif %}{% endif %}
 </figure>
@@ -9,7 +9,7 @@
 
 <figure {% if include.grid %}class="grid-{{ include.grid }}" {% endif %}>
   {% if include.grid != 'full' %}{% if include.cap %}<figcaption>{{ include.cap }}</figcaption>{% endif %}{% endif %}
-  <a data-event="Clicked fluidbox on {{ page.title }}" role="fluidbox" class="{{ include.class }}" href="{{ site.url }}{{ site.image.inline }}{{ include.url }}" title="{{ include.alt }}"><img src="{{ site.url }}{{ site.image.inline }}{{ include.url }}" alt="{{ include.alt }}" title="{{ include.alt }}"></a>
+  <a data-event="Clicked fluidbox on {{ page.title }}" role="fluidbox" class="{{ include.class }}" href="{{ site.dev_url }}{{ site.url }}{{ site.image.inline }}{{ include.url }}" title="{{ include.alt }}"><img src="{{ site.dev_url }}{{ site.url }}{{ site.image.inline }}{{ include.url }}" alt="{{ include.alt }}" title="{{ include.alt }}"></a>
   {% if include.grid contains 'full' %}{% if include.cap %}<figcaption>{{ include.cap }}</figcaption>{% endif %}{% endif %}
 </figure>
 {% endif %}
