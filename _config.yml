@@ -25,7 +25,7 @@ show_drafts: true
 # Disables the more accurate related posts for faster generating of the site
 lsi: false
 # Only make the last 10 posts so generating isn't slow
-limit_posts: 10
+limit_posts: 0
 
 exclude: ['README.md', 'gulpfile.js', '*.codekit', 'Gemfile.lock', 'Gemfile', '.gitignore', 'templates', '*.sublime-workspace', '*.sublime-project', '_config.yml', '*.scssc', 'bower_components']
 

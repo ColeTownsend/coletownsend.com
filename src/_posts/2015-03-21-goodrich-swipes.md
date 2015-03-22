@@ -26,6 +26,8 @@ He downloads Swipes for Goodrich, taps in his student unix and name. He confirms
 
 "Wheat bagel with cream cheese and Latte for James?"
 
+{% include _fullwidth.html alt="App screen in iPhone 5s" url="gc/full/gc-swipes-full.jpg" retina_url="gc/full/gc-swipes-full@2x.jpg"  %}
+
 ## Speeding Up Orders
 With Swipes, James can easily see how much his order costs to stay under his allotted $4.50. The cost of each item is added to his total. If he goes over his alloted total, the navbar turns yellow. He can also go to the "Recent" tab and see all of his latest orders. James is a creature of habit, and tends to order the Goodrich every Monday, Wednesday and Friday before class. 
 
@@ -36,8 +38,6 @@ With Swipes, James can easily see how much his order costs to stay under his all
 ## Ordering Chaos
 The admin panel is supersized for easy taps and legibility while working quickly. Often orders and items will be forgotten or made mulitple times. With live updates, an employee can choose an item to make, certain that no one has made it already. If she taps something accidentally, she can quickly undo it. 
 
-<div class="clearfix">
-{% include _fluidbox.html grid="full" class="" alt="Goodrich Swipes Web Admin Panel" url="gc-swipes-admin.jpg" loweres="" cap="Swipes Web Admin Panel" %}
-</div>
+{% include _fullwidth.html alt="Admin Interface" url="gc/full/gc-swipes-admin.jpg" retina_url="gc/full/gc-swipes-admin@2x.jpg"  %}
 
 

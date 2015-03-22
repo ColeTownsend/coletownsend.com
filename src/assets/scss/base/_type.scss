@@ -339,7 +339,7 @@ div.highlight {
 /* Article Headings
    ========================================================================== */
 
-[role="portfolio"], [role="post"] {
+[role="portfolio"] article, [role="post"] article {
   &:first-child {
       margin-top: 0;
     }

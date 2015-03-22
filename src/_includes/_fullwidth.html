@@ -1,3 +1,3 @@
 <figure class="full-width">{% if include.cap %}<figcaption>{{ include.cap }}</figcaption>{% endif %}
-  <img src="{{ site.url }}{{ site.image.inline }}{{ include.url }}" alt="{{ include.alt }}" title="{{ include.alt }}"></a>
+  <img data-src="{{ site.url }}{{ site.image.inline }}{{ include.url }}" alt="{{ include.alt }}" data-2x="{{ site.url }}{{ site.image.inline }}{{ include.retina_url }}"></a>
 </figure>

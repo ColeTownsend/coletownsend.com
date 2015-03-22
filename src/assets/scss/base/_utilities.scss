@@ -66,22 +66,44 @@
   padding: 0;
 }
 
+.pad-vbs {
+  padding: $base-line-height 0;
+}
+
+.wi-50 {
+  width: 50% !important;
+}
+
 .wi-100 {
   width: 100% !important;
 }
 
-.wi-50 {
-  width: 100% !important;
+.hi-4 {
+  height: 4rem;
 }
 
-// Modular Bits to Extend
+.hi-6 {
+  height: 6rem;
+}
 
-%liga {
-  -moz-font-feature-settings: "liga=1, dlig=1";
-  -ms-font-feature-settings: "liga", "dlig";
-  -webkit-font-feature-settings: "liga", "dlig";
-  -o-font-feature-settings: "liga", "dlig";
-  font-feature-settings: "liga", "dlig";
+// box model
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+// appearance
+
+.accent {
+  color: $base-accent-color;
 }
 
 .hidden {
@@ -96,6 +118,16 @@
 
 .transparent {
   opacity: 0;
+}
+
+// Modular Bits to Extend
+
+%liga {
+  -moz-font-feature-settings: "liga=1, dlig=1";
+  -ms-font-feature-settings: "liga", "dlig";
+  -webkit-font-feature-settings: "liga", "dlig";
+  -o-font-feature-settings: "liga", "dlig";
+  font-feature-settings: "liga", "dlig";
 }
 
 // Extensions for Structure

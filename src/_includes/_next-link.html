@@ -1,4 +1,4 @@
-<section class="clearfix mt-bs hidden-mobile">
+<section class="clearfix mt-bs hidden-mobile hi-4 pad-vbs">
   {% for category in site.categories %}
     {% assign catg_name = category.first %}
     {% if catg_name == page.categories.first | downcase %}
@@ -9,15 +9,15 @@
     {% if post.title == page.title %}
       {% unless forloop.last %}
         {% assign next = catg_posts[forloop.index] %}
-        <a class="animsition-link pull-left link--under--accent drift--left" href="{{ site.url }}{{ next.url }}">
-        <h6 class="text-left no-margin wi-100">Previous Work</h6>
-        <h4 class="text-left no-margin wi-100">{{ next.title }}</h4>
+        <a class="animsition-link text-left inline-block pull-left" href="{{ site.url }}{{ next.url }}">
+        <h6 class="no-margin accent block">Previous Work</h6>
+        <h5 class="no-margin link--under--accent inline">{{ next.title }}</h5>
         </a>
       {% endunless %}
       {% unless forloop.first %}
-        <a class="animsition-link pull-right link--under--accent drift--right" href="{{ site.url }}{{ prev.url }}">
-        <h6 class="text-left no-margin wi-100">Next Work</h6>
-        <h4 class="text-left no-margin wi-100">{{ prev.title }}</h4>
+        <a class="animsition-link text-right inline-block pull-right" href="{{ site.url }}{{ prev.url }}">
+        <h6 class="no-margin accent block">Next Work</h6>
+        <h5 class="no-margin link--under--accent inline">{{ prev.title }}</h5>
         </a>
       {% endunless %}
     {% endif %}

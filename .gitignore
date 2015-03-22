@@ -19,6 +19,9 @@ Desktop.ini
 ehthumbs.db
 Thumbs.db
 
+# PSD
+*.psd
+
 # Linux
 *~
 
@@ -77,3 +80,7 @@ ftp-credentials.json
 sitespeed-result
 sitespeed-result/
 sitespeed-result/*
+
+# Mockups
+mockup-templates
+mockup-templates/
