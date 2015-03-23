@@ -68,3 +68,12 @@ links:
   url: /journal/
 - title: About
   url: /about/
+
+
+
+portfolio:
+  template: _portfolio.txt
+  extension: md
+post:
+  template: _post.txt
+  extension: md

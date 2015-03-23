@@ -4,21 +4,13 @@
  <title>Twnsnd Co</title>
  <link href="http://coletownsend.com/atom.xml" rel="self"/>
  <link href="http://coletownsend.com/"/>
- <updated>2015-03-21T23:52:46-04:00</updated>
+ <updated>2015-03-23T16:56:30-04:00</updated>
  <id>http://coletownsend.com</id>
  <author>
    <name>Cole Townsend</name>
    <email>cole@coletownsend.com</email>
  </author>
 
- 
- <entry>
-   <title>new post</title>
-   <link href="http://coletownsend.com/new-post"/>
-   <updated>2015-03-21T00:00:00-04:00</updated>
-   <id>http://coletownsend.com/new-post</id>
-   <content type="html"></content>
- </entry>
  
  <entry>
    <title>Swipes</title>
@@ -32,7 +24,7 @@ Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students 
 
 &lt;p&gt;James needs to get to his 18th Century Psychology class at 10, but still needs breakfast. Normally, Goodrich is packed with at least a twenty minute wait at this time. He walks to Goodrich and checks anyway. To his surprise, the line is half as long. The employee at the register is just swiping away while 5 students prepare espresso drinks and bagels. He finds out that Goodrich now has an app that enables students to place orders on their phones.&lt;/p&gt;
 
-&lt;p&gt;He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on their. He taps on &amp;ldquo;Favorites&amp;rdquo; in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latté. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.&lt;/p&gt;
+&lt;p&gt;He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on their. He taps on &amp;ldquo;Favorites&amp;rdquo; in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latte. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;Wheat bagel with cream cheese and Latte for James?&amp;rdquo;&lt;/p&gt;
 
@@ -126,11 +118,11 @@ Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students 
 
 &lt;h2&gt;Executing the Animation&lt;/h2&gt;
 
-&lt;p&gt;I was impressed with Ahmet&amp;rsquo;s execution on the part of the click and scale animation that I gave him a set of rudimentary keyframes for. He also added the springiness to the underlines, atmospheric bubbles, and the animated letters. The added animations were certainly welcome to the design. You can seem them at the live site — &lt;a href=&quot;http://panda.network&quot;&gt;panda.network&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I was impressed with Ahmet&amp;rsquo;s execution on the part of the click and scale animation that I gave him a set of rudimentary keyframes for. He also added the springiness to the underlines, atmospheric bubbles, and the animated letters. The added animations were certainly welcome to the design. You can seem them at the live site &amp;emdash; &lt;a href=&quot;http://panda.network&quot;&gt;panda.network&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2&gt;Mobile&lt;/h2&gt;
 
-&lt;p&gt;The website also comes in a mobile flavor. It&amp;rsquo;s styled according to work per medium — when accessed on a mobile device, their latest apps available in the App Store appear.&lt;/p&gt;
+&lt;p&gt;The website also comes in a mobile flavor. It&amp;rsquo;s styled according to work per medium &amp;emdash; when accessed on a mobile device, their latest apps available in the App Store appear.&lt;/p&gt;
 
 &lt;figure class=&quot;full-width&quot;&gt;
   &lt;img data-src=&quot;http://coletownsend.com/assets/images/inline//panda-mocks/panda-mock-iphone.jpg&quot; alt=&quot;&quot; data-2x=&quot;http://coletownsend.com/assets/images/inline/&quot;&gt;&lt;/a&gt;
@@ -161,7 +153,7 @@ Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students 
 
 &lt;h2&gt;Web&lt;/h2&gt;
 
-&lt;p&gt;The website needed to communicate both how to work Nomad while showing how easy the service is to use. The goal in mind was lightweight modularity — just how great code should be. It also needs approachability. While many users will be familiar with command line, they may not be familiar with package managers. I tried to differentiate this site from most code based sites, looking to simplify information and aesthetic flourishes. The result is a clear hierarchy, minimal copywriting, and ample whitespace as to not overwhelm visitors.&lt;/p&gt;
+&lt;p&gt;The website needed to communicate both how to work Nomad while showing how easy the service is to use. The goal in mind was lightweight modularity &amp;emdash; just how great code should be. It also needs approachability. While many users will be familiar with command line, they may not be familiar with package managers. I tried to differentiate this site from most code based sites, looking to simplify information and aesthetic flourishes. The result is a clear hierarchy, minimal copywriting, and ample whitespace as to not overwhelm visitors.&lt;/p&gt;
 
 &lt;p&gt;You can see the full website at &lt;a href=&quot;http://nomad.cool&quot;&gt;nomad.cool&lt;/a&gt; or below.
 &lt;br&gt;
@@ -314,7 +306,7 @@ brew install rcm
 &lt;p&gt;I ran this script below that changes OSX preferences, but it requires a restart. &lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-sh&quot; data-lang=&quot;sh&quot;&gt;#!/usr/bin/env bash
 
-# ~/.osx — https://mths.be/osx
+# ~/.osx &amp;amp;emdash; https://mths.be/osx
 
 # Ask for the administrator password upfront
 sudo -v
@@ -1089,7 +1081,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;h2&gt;Reader Friendly&lt;/h2&gt;
 
-&lt;p&gt;The goal of this design was to optimize legibility. I focused on the reading experience. I started by choosing a font, and establishing the font size, line height and paragraph width. When I sought out to choose a font, I looked for humanist serifs that I enjoyed reading. I visited the informationArchitects blog, A List Apart, took a look at my kindle, and typed a bit on ByWord. I found that I enjoyed the heavier weighted serifs on my Kindle and A List Apart. I dug through free font catalogs and searched in the Google Web Fonts repo. I stumbled across Lora. Lora has moderate contrast and a tall x-height — perfect for long form reading.&lt;/p&gt;
+&lt;p&gt;The goal of this design was to optimize legibility. I focused on the reading experience. I started by choosing a font, and establishing the font size, line height and paragraph width. When I sought out to choose a font, I looked for humanist serifs that I enjoyed reading. I visited the informationArchitects blog, A List Apart, took a look at my kindle, and typed a bit on ByWord. I found that I enjoyed the heavier weighted serifs on my Kindle and A List Apart. I dug through free font catalogs and searched in the Google Web Fonts repo. I stumbled across Lora. Lora has moderate contrast and a tall x-height &amp;emdash; perfect for long form reading.&lt;/p&gt;
 
 &lt;p&gt;I then established a typographic rhythm. I used the Pearsonified typographic golden ratio calculator formula with the compute capabilities of SCSS. I established a body width of 620px and a large body font size. The end result was a good balance of line length, font size, and white space. &lt;/p&gt;
 
@@ -1160,7 +1152,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;li&gt;In your favourite client, connect to your webhost and upload the files into the public folder. Note: on different hosts, this folder might be called public_html, web, or httpdocs.&lt;/li&gt;
 &lt;li&gt;Most server should be configured to allow the webserver to read and write to your files and folders, but some do not, in this case you will have to change the permissions on the contents and anchor/config folder to 0777 for the installer to run.&lt;/li&gt;
 &lt;li&gt;Next you will need to create a database for Anchor to install to, this can be called anything you like. On different host this process might vary, normally you will have access to some sort of GUI client such as PHPMyAdmin or Sequel Pro. You’ll need to ask your webhost if you’re not sure with this.&lt;/li&gt;
-&lt;li&gt;Navigate your browser to your Anchor installation URL, if you have placed Anchor in a sub directory make sure you append the folder name to the URL: &lt;a href=&quot;http://mydomainname.com/anchor&quot;&gt;http://mydomainname.com/anchor&lt;/a&gt; — &lt;span class=&quot;hilite&quot;&gt;be sure to replace &amp;ldquo;mydomainname&amp;rdquo; with the root domain name to which you have uploaded.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Navigate your browser to your Anchor installation URL, if you have placed Anchor in a sub directory make sure you append the folder name to the URL: &lt;a href=&quot;http://mydomainname.com/anchor&quot;&gt;http://mydomainname.com/anchor&lt;/a&gt; &amp;emdash; &lt;span class=&quot;hilite&quot;&gt;be sure to replace &amp;ldquo;mydomainname&amp;rdquo; with the root domain name to which you have uploaded.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;After you&amp;rsquo;ve done all this, you will see a navy blue screen prompting you to install. Run the installer and follow the instructions. &lt;/p&gt;
@@ -1244,7 +1236,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;That’s the point.&lt;/p&gt;
 
-&lt;p&gt;The watches made by LIP in 1974 were designed and produced by the designers and watchmakers with no outside influence. The operated under shut doors, in a highly collaborative fashion. They were operating in a highly stressful environment, their jobs and their livelihoods were on the line. They were forced to  change their methods in order to compete. The new method of development is now something that we often see. The entire process — design, production, and sale — is controlled by the same people. They are the ones who are passionate about the product, and therefore they can infuse their brand, their marketing, their product with this very passion. The result is a product with a rich personality and a unique design.  &lt;/p&gt;
+&lt;p&gt;The watches made by LIP in 1974 were designed and produced by the designers and watchmakers with no outside influence. The operated under shut doors, in a highly collaborative fashion. They were operating in a highly stressful environment, their jobs and their livelihoods were on the line. They were forced to  change their methods in order to compete. The new method of development is now something that we often see. The entire process &amp;emdash; design, production, and sale &amp;emdash; is controlled by the same people. They are the ones who are passionate about the product, and therefore they can infuse their brand, their marketing, their product with this very passion. The result is a product with a rich personality and a unique design.  &lt;/p&gt;
 </content>
  </entry>
  
@@ -1263,7 +1255,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;h3&gt;Document Viewer&lt;/h3&gt;
 
-&lt;p&gt;I wanted to mimic the functions of Google Doc Viewer and Preview. The current functionality is fine, but it is not accessible. It requires flash and is a bit slow to respond. I found myself frustrated as I scrolled through a longer pdf. The scrolling isn&amp;rsquo;t smooth — it catches frequently. Additionally, the cursor hand moves at a slower speed in the doc viewer than it does out of it. This isn&amp;rsquo;t intuitive and can confuse users. Although I can&amp;rsquo;t reflect these changes in my visual representation, it is something I would address with the dev team. &lt;/p&gt;
+&lt;p&gt;I wanted to mimic the functions of Google Doc Viewer and Preview. The current functionality is fine, but it is not accessible. It requires flash and is a bit slow to respond. I found myself frustrated as I scrolled through a longer pdf. The scrolling isn&amp;rsquo;t smooth &amp;emdash; it catches frequently. Additionally, the cursor hand moves at a slower speed in the doc viewer than it does out of it. This isn&amp;rsquo;t intuitive and can confuse users. Although I can&amp;rsquo;t reflect these changes in my visual representation, it is something I would address with the dev team. &lt;/p&gt;
 
 &lt;p&gt;Specifically for the visuals, I aimed to minimize what was going on in the document viewer. I feel that it&amp;rsquo;s better to directly be able to influence specifically which page is viewed, rather than clicking through each one individually. &lt;/p&gt;
 
@@ -1312,7 +1304,7 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;p&gt;Another aspect to examine is the sidebar. The branch sidebar displays the branches of which you are currently a member. While this is good, a better way to utilize this sidebar would be to show an activity feed, perhaps similar to that of LayerVault. This would keep all the focus on the discussion.&lt;/p&gt;
 
-&lt;p&gt;A solution to notifications would be an icon with a push-style (à la iOS) mark that signals to the user someone else added to their branch. When clicked, the icon would open a small drop-down window that would show the activity, similar to the way the Dribbble notification system works. &lt;/p&gt;
+&lt;p&gt;A solution to notifications would be an icon with a push-style (a la iOS) mark that signals to the user someone else added to their branch. When clicked, the icon would open a small drop-down window that would show the activity, similar to the way the Dribbble notification system works. &lt;/p&gt;
 
 &lt;p&gt;Overall, the site functions very well. I really enjoy going on branch, opening up discussions, as well as participating in them. The familiar structure is similar to Twitter and reflects the websites deep integration with Twitter API. Users are added to discussion through either a direct message or public reply. Unfortunately this can get a bit spammy, so they also have an option to link to the discussion, which people can request to join. I have a &lt;a href=&quot;http://branch.com/b/how-flat&quot; target=&quot;_blank&quot;&gt;great conversation about &amp;ldquo;flat&amp;rdquo; or minimal design&lt;/a&gt; going.&lt;/p&gt;
 

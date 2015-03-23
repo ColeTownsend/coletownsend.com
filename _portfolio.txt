@@ -1,0 +1,16 @@
+---
+title: 
+layout: portfolio
+published: false
+home: true
+accent_color: ""
+title-color: ""
+category:
+tags: []
+extra_css:
+  image:
+    feature: .jpg
+    feature_2x: @2x.jpg
+    thumb: thumb.png
+    blur: blur.jpg
+---

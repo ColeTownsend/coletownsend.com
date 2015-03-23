@@ -16,7 +16,7 @@ I love Branch. It's awesome for discussion, and it's easy to get new people in o
 
 Another aspect to examine is the sidebar. The branch sidebar displays the branches of which you are currently a member. While this is good, a better way to utilize this sidebar would be to show an activity feed, perhaps similar to that of LayerVault. This would keep all the focus on the discussion.
 
-A solution to notifications would be an icon with a push-style (à la iOS) mark that signals to the user someone else added to their branch. When clicked, the icon would open a small drop-down window that would show the activity, similar to the way the Dribbble notification system works. 
+A solution to notifications would be an icon with a push-style (a la iOS) mark that signals to the user someone else added to their branch. When clicked, the icon would open a small drop-down window that would show the activity, similar to the way the Dribbble notification system works. 
 
 Overall, the site functions very well. I really enjoy going on branch, opening up discussions, as well as participating in them. The familiar structure is similar to Twitter and reflects the websites deep integration with Twitter API. Users are added to discussion through either a direct message or public reply. Unfortunately this can get a bit spammy, so they also have an option to link to the discussion, which people can request to join. I have a <a href="http://branch.com/b/how-flat" target="_blank">great conversation about "flat" or minimal design</a> going.
 

@@ -150,7 +150,7 @@ I ran this script below that changes OSX preferences, but it requires a restart.
 ```sh
 #!/usr/bin/env bash
 
-# ~/.osx — https://mths.be/osx
+# ~/.osx &emdash; https://mths.be/osx
 
 # Ask for the administrator password upfront
 sudo -v

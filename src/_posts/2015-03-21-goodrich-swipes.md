@@ -22,7 +22,7 @@ Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students 
 ## Case Study
 James needs to get to his 18th Century Psychology class at 10, but still needs breakfast. Normally, Goodrich is packed with at least a twenty minute wait at this time. He walks to Goodrich and checks anyway. To his surprise, the line is half as long. The employee at the register is just swiping away while 5 students prepare espresso drinks and bagels. He finds out that Goodrich now has an app that enables students to place orders on their phones.
 
-He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on their. He taps on "Favorites" in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latté. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.
+He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on their. He taps on "Favorites" in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latte. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.
 
 "Wheat bagel with cream cheese and Latte for James?"
 

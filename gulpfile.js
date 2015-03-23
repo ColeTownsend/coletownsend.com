@@ -58,6 +58,7 @@ gulp.task("styles", function () {
         './assets/scss',
         config.bowerDir + '/bourbon/app/assets/stylesheets',
         config.bowerDir + '/neat/app/assets/stylesheets',
+        config.bowerDir + '/chasers/src/',
         config.bowerDir + '/normalize.css'
       ]
     }))
