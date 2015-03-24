@@ -24,7 +24,7 @@ After mulling over 3 different layouts, Ahmet, Williams and I decided on a simpl
 This is a more basic but eye catching approach. It's straightforward and speaks directly to developers and designers who have likely heard of what Panda Networks has created. Panda can continually add new works as well without destroying the design and it will only further reinforce their identity.
 
 
-{% include _fullwidth.html url="/panda-mocks/imac/panda-network.jpg" retina="/panda-mocks/imac/panda-network.jpg"  %}
+{% include _fullwidth.html url="/panda-mocks/imac/panda-network.jpg" retina_url="/panda-mocks/imac/panda-network.jpg"  %}
 
 
 ## Copywriting
@@ -42,7 +42,7 @@ I was impressed with Ahmet's execution on the part of the click and scale animat
 
 The website also comes in a mobile flavor. It's styled according to work per medium &emdash; when accessed on a mobile device, their latest apps available in the App Store appear.
 
-{% include _fullwidth.html url="/panda-mocks/panda-mock-iphone.jpg" retina="/panda-mocks/panda-mock-iphone.jpg"   %}
+{% include _fullwidth.html url="/panda-mocks/panda-mock-iphone.jpg" retina_url="/panda-mocks/panda-mock-iphone.jpg"   %}
 
 Currently the website is optimized for a generic width starting at a minimum of 320px, and looks best on slightly larger more powerful devices due to the slightly resource intensive animation. 
 

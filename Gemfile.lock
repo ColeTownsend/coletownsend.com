@@ -48,7 +48,7 @@ GEM
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.10)
-    pygments.rb (0.6.2)
+    pygments.rb (0.6.3)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.2.0)
     rb-fsevent (0.9.4)
