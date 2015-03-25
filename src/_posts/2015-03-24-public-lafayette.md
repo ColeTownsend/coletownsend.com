@@ -12,8 +12,8 @@ image:
     feature_2x:  public-logo@2x.png
 ---
 
-<p><del>As a local tastemaker and connoisseur of fine coffee I can say that</del> 
-<br> Ha, no way.</p>
+<p><del><a href="http://video.gq.com/watch/gentlemen-lobsters-garrett-and-quinn-visit-a-new-pour-over-coffee-shop"> As a local tastemaker and connoisseur of fine coffee I can say that</a></del> 
+<br> Ha, no way. But seriously watch that ^^</p>
 You don't need to be a local tastemaker, hipster, or coffee snob to realize that Public is the best coffee in Buffalo, New York. All it takes is a single cup. They won't chastise you for adding milk, sugar, or honey though they may ask you to try your drink black. They're a small, friendly business. Chances are that you know someone that knows them from before their days in the coffee business. They're big on building relationships with customers and local restaurants.
 
 Offering weekly fresh roasted coffee, they deliver the brightest, freshest cup of coffee you could ever hope to have.  Their staples are a blend from South America, sourced from farmers with which they have close relationships. I've had their Bali and Yirgacheffe coffees. The Yirgacheffe is bright, acidic, and a bit lemony. It's a great pick me up early in the morning. The Bali is new as of March 2015 to the Public bullpen. It's claimed to have flavors of strawberry, dark chocolate, and earth(?).  The espresso shot was crystal bright and a bit fruity with no noticeable bitterness. The pour over was delightful &mdash; very much in tune with the strawberry and definitely a hint of that dark cocoa bitter taste. Once it cooled, it was downright silky.
