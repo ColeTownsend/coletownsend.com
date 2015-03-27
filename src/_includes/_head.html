@@ -20,7 +20,24 @@
   <link rel="stylesheet" href="/assets/stylesheets/style.css">
   <!-- endbuild -->
 
-  <link data-instant href="//cloud.webtype.com/css/bf74e1bf-b2c3-4c81-b846-9e5db693f269.css" rel="stylesheet" type="text/css" />
+  <!-- Webfont.js -->
+  <script type="text/javascript">
+    WebFontConfig = {
+      custom: { families: ['Nitti Grotesk', 'Karla'],
+      urls: [ '//cloud.webtype.com/css/bf74e1bf-b2c3-4c81-b846-9e5db693f269.css' ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+
+  <!-- <link data-instant href="//cloud.webtype.com/css/bf74e1bf-b2c3-4c81-b846-9e5db693f269.css" rel="stylesheet" type="text/css" /> -->
 
   <!-- Icons -->
   <link data-instant rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}{{ site.image.assets }}favicon-256x256.png">
