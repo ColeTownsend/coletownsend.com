@@ -15,17 +15,19 @@ var merge = require("merge-stream");
 var reload = browserSync.reload;
 // And define a variable that BrowserSync uses in it"s function
 var bs;
-
 // image resizing, etc.
 var responsive = require('gulp-responsive');
+// sourcemaps
+var sourcemaps = require('gulp-sourcemaps');
 
+// bower stuff
 var bower = require('gulp-bower');
-
 var config = {
      scssPath: './assets/scss',
      bowerDir: './src/_bower_components' 
 }
 
+// gulp bower runs bower install to the right places.
 gulp.task('bower', function() { 
   return bower()
     .pipe(gulp.dest(config.bowerDir)) 
@@ -53,6 +55,7 @@ gulp.task("jekyll:prod", $.shell.task("jekyll build --config _config.yml,_config
 gulp.task("styles", function () {
   // Looks at the style.scss file for what to include and creates a style.css file
   return gulp.src("src/assets/scss/style.scss")
+    .pipe($.sourcemaps.init())
     .pipe($.sass({
       includePaths: [
         './assets/scss',
@@ -64,6 +67,8 @@ gulp.task("styles", function () {
     }))
     // AutoPrefix your CSS so it works between browsers
     .pipe($.autoprefixer("last 1 version", { cascade: true }))
+    // source map it all homie
+    .pipe($.sourcemaps.write('./', {includeContent: false, sourceRoot: '../../src/assets/scss', debug: true}))
     // Directory your CSS file goes to
     .pipe(gulp.dest("src/assets/stylesheets/"))
     .pipe(gulp.dest("serve/assets/stylesheets/"))

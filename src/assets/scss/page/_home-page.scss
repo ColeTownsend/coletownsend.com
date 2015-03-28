@@ -1,7 +1,7 @@
 .home {
-  background: $red-gray;
+  background: $white;
   header[role="main-header"] {
-    background: $red-gray;
+    background: $white;
   }
 }
 
@@ -20,7 +20,6 @@ section[class~="block"] {
 .block-1 {
   padding: $base-line-height 0;
   margin: $base-line-height*2 0;
-  background: $red-gray;
   @include media($small) {
     margin-bottom: 0;
     padding-bottom: 0;

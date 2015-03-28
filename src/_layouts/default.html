@@ -2,7 +2,7 @@
 <html lang="en">
   {% include _head.html %}
   <body class="post">
-    {% include _navigation_main.html %}
+    {% include _navigation.html %}
 
     {% if page.image.feature %}
     <header class="full bg-img" data-src="{{ site.url }}/images/posts/{{ page.image.feature }}" {% if page.image.feature_2x %} data-2x="{{ site.url }}/images/posts/{{ page.image.feature_2x }}" {% else %} data-2x="{{ site.url }}/images/posts/{{ page.image.feature }}" {% endif %}>

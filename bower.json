@@ -2,12 +2,9 @@
   "name": "coletownsend-com",
   "version": "0.0.0",
   "dependencies": {
-    "normalize.scss": "~3.0.2+normalize.3.0.2",
-    "normalize.css": "~3.0.2",
     "normalize-scss": "~3.0.2"
   },
   "devDependencies": {
     "modularized-normalize-scss": "~3.0.2",
-    "instantclick": "~3.1.0"
   }
 }

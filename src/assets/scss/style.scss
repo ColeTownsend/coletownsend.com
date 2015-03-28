@@ -42,27 +42,21 @@ The main SCSS file for everything, yep
 @import "base/defaults";
 @import "base/utilities";
 @import "base/type";
-// @import "base/typography";
-// @import "base/forms";
-// @import "base/buttons";
-// @import "base/tables";
 @import "base/lists";
-// @import "base/flashes";
-// @import "base/fonts";
-// @import "base/library";
-// @import "base/application";
+@import "component/flexbox";
+
 
 
 
 /* Components
  * -----------------------------------------------------------------------------*/
- @import "component/animsition";
+@import "component/animsition";
 @import "component/animations";
 @import "component/fluidbox";
-@import "component/instantclick";
 @import "component/navigation";
 @import "component/listing";
 @import "component/posts";
+@import "component/card";
 @import "component/footer";
 
 

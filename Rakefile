@@ -141,8 +141,20 @@ end
 
 
 # rake deploy["Commit message"]
-desc "Deploy the site to a remote git repo"
+desc "Commit and push yo shit."
 task :deploy, :message do |t, args|
+  message = args[:message]
+  if message.nil? or message.empty?
+    raise "Please add a commit message."
+  end
+  execute("git add .")
+  execute("git commit -m \"#{message}\"")
+  execute("git push")
+end
+
+# rake publish["Commit message"]
+desc "A copy of rake deloy."
+task :publish, :message do |t, args|
   message = args[:message]
   if message.nil? or message.empty?
     raise "Please add a commit message."

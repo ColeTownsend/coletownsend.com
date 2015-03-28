@@ -2,12 +2,12 @@
 <html lang="en">
   {% include _head.html %}
   <body data-no-instant class="listing animsition">
-    {% include _navigation_main.html %}
+    {% include _navigation.html %}
     <section class="full">
       <article class="full">
           <ul class="work-listing">
             <li class="list-head">
-              <h1>Thoughts & Tidbits</h1>
+              <h1>Thoughts &amp; Tidbits</h1>
             </li>
           {% for post in site.posts %}
             {% if post.categories contains 'journal' %}

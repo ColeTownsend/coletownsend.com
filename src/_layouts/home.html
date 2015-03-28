@@ -2,10 +2,9 @@
 <html lang="en">
   {% include _head.html %}
   <body class="home animsition">
-    {% include _navigation_main.html %}
+    {% include _navigation.html %}
     <section class="full block-1">
-      <article>
-      <!-- He works in a variety of media with emphasis on web and iOS. -->
+      <article class="container">
         <p>
           Cole Townsend is a visual designer who wants to work with you. <br> He has a passion for clean and intuitive solutions.
           {% if site.data.work_status contains 'unavailable' %}
@@ -16,38 +15,21 @@
         </p>
       </article>
     </section>
-    <section id="work" class="block-2">
-      <article class="full">
-      <ul>
+    <section id="work" class="full block-2">
+      <ul class="container work-listing">
         {% for post in site.posts %}
-        {% if post.home %}
-        {% if post.image.feature or post.image.thumb %}
-          <li class="work-grid {% if post.home and site.posts.last %} last {% endif %}">
-            <!-- Blurred project -->
-            {% if post.image.blur %}<span class="blur" style="background-image: url({{ site.url }}{{ site.image.post }}{{ post.image.blur }});"></span> {% endif %}
-
-            <!-- Colorize -->
-            <span class="colorize" style="background:{% if post.accent_color %}{{ post.accent_color}}{% else %}#EFEFEF{% endif %};"></span>
-
-            <!-- project image -->
-            <span class="project {% if post.image.blur %}with-blur{% endif %}" style="background-image: url({{ site.url }}{{ site.image.post }}{% if post.image.thumb %}{{ post.image.thumb }}{% else %}{{ post.image.feature }}{% endif %});"></span>
-
-            <!-- Link Overlay -->
-            <a href="{{ site.url }}{{ post.url }}" class="animsition-link" data-event="Clicked {{post.title}} on home page">
-              <h1 {% if post.title-color %} style="color: {{ post.title-color }};"{% endif %}>{{ post.title }}</h1>
-            </a>
-        </li>
-        {% else %}
-          <li class="work-grid" style="background:{% if post.accent_color %}{{ post.accent_color}}{% else %}#EFEFEF{% endif %};">
-            <a class="shown" data-event="Clicked {{post.title}}, no feature img" href="{{ site.url }}{{ post.url }}">
-              <h1 {% if post.title-color %} style="color: {{ post.title-color }};"{% endif %}>{{ post.title }}</h1>
-            </a>
-          </li>
-        {% endif %}
+        <!-- Journal -->
+        {% if post.category == "journal" %}
+        {% include atom/_journal-card.html %}
+        <!-- Portfolio -->
+        {% elsif post.category == "work" %}
+          {% include atom/_portfolio-card.html %}
+        <!-- Journal -->
+        {% elsif post.category == "links" %}
+          {% include atom/_link-card.html %}
         {% endif %}
         {% endfor %}
-        </ul>
-      </article>
+      </ul>
     </section>
     {% include _footer.html %}
   </body>
