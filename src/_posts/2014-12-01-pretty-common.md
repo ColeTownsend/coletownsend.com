@@ -3,6 +3,7 @@ layout: portfolio
 title: Pretty Common
 date: 2014-12-01
 category: "work"
+omit: true
 accent_color: "#000000"
 role: Designer and Developer
 tags: [frontend, web design]

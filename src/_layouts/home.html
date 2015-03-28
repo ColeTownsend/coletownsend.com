@@ -16,17 +16,19 @@
       </article>
     </section>
     <section id="work" class="full block-2">
-      <ul class="container work-listing">
-        {% for post in site.posts %}
+      <ul class="container home-listing">
+        {% for post in site.posts limit: 12 %}
+        {% if post.omit == False %}
         <!-- Journal -->
         {% if post.category == "journal" %}
-        {% include atom/_journal-card.html %}
+        <li>{% include atom/_journal-card.html %}</li>
         <!-- Portfolio -->
         {% elsif post.category == "work" %}
-          {% include atom/_portfolio-card.html %}
+        <li>{% include atom/_portfolio-card.html %}</li>
         <!-- Journal -->
         {% elsif post.category == "links" %}
-          {% include atom/_link-card.html %}
+          <li>{% include atom/_link-card.html %}</li>
+        {% endif %}
         {% endif %}
         {% endfor %}
       </ul>
