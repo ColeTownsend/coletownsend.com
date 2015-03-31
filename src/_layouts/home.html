@@ -22,7 +22,7 @@
         {% for post in site.posts %}
         {% if post.home %}
         {% if post.image.feature or post.image.thumb %}
-          <li class="work-grid {% if post.home and site.posts.last %} last {% endif %}">
+          <li class="work-grid">
             <!-- Blurred project -->
             {% if post.image.blur %}<span class="blur" style="background-image: url({{ site.url }}{{ site.image.post }}{{ post.image.blur }});"></span> {% endif %}
 

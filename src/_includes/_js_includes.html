@@ -59,6 +59,19 @@ $.Velocity.RegisterUI("transition.bounceIn", {
 });
 $(".work-grid").velocity("transition.bounceIn", { delay: 100, stagger: 100, drag: true });
 $(".buffalo").velocity("transition.bounceIn");
+
+$.Velocity.RegisterUI("click.bubble", {
+    defaultDuration: 1000,
+    calls: [
+      [ { scale: .9 }, 0.5, { easing: [ 300, 12 ] } ],
+      [ { scale: 1 }, 0.5, { easing: [ 300, 12 ] } ]
+    ]
+});
+
+$('.work-grid').mousedown(function(){
+    $(this).velocity("click.bubble");
+});
+
 </script>
 
 <script>
