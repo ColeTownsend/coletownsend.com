@@ -26,7 +26,7 @@ I am taking on new work! <a class="link--accent" href="&#109;&#97;&#105;&#108;&#
 <br>
 <hr>
 ###### Elsewhere
-- <a class="link--under" href="{{ site.url }}/journal)">Journal</a> &mdash; Thoughts and the like.
+- <a class="link--under" href="{{ site.url }}/journal">Journal</a> &mdash; Thoughts and the like.
 - <a class="link--under" href="http://twitter.com/{{ site.author.twitter }}">Twitter</a> &mdash; Clever, sometimes.
 - <a class="link--under" href="http://dribbble.com/coletownsend">Dribbble</a> &mdash; Fun sized projects.
 -  <a class="link--under" href="http://github.com/coletownsend">Github</a> &mdash; Coding is for nerds.
