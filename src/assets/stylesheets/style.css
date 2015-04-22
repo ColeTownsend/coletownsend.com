@@ -2873,7 +2873,7 @@ header[role="main-header"] {
       margin: 0 auto; }
     .listing .work-listing small {
       opacity: .33;
-      font-family: "Nitti PX", "Menlo";
+      font-family: "Nitti PX", "Menlo", monospaced;
       font-weight: bold;
       letter-spacing: 0.08em;
       margin-top: 1.5em; }

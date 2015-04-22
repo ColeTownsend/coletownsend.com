@@ -4,13 +4,22 @@
  <title>Twnsnd Co</title>
  <link href="http://coletownsend.com/atom.xml" rel="self"/>
  <link href="http://coletownsend.com/"/>
- <updated>2015-03-26T20:38:18-04:00</updated>
+ <updated>2015-04-22T11:25:13-04:00</updated>
  <id>http://coletownsend.com</id>
  <author>
    <name>Cole Townsend</name>
    <email>cole@coletownsend.com</email>
  </author>
 
+ 
+ <entry>
+   <title>NOS Photo Packs</title>
+   <link href="http://coletownsend.com/links/photo-packs"/>
+   <updated>2015-04-22T00:00:00-04:00</updated>
+   <id>http://coletownsend.com/links/photo-packs</id>
+   <content type="html">&lt;p&gt;Curated collections, edited for quick use.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Public at Hotel Lafayette</title>
@@ -53,14 +62,6 @@
  </entry>
  
  <entry>
-   <title>Mobile First With Bourbon Neat</title>
-   <link href="http://coletownsend.com/mobile-first-with-bourbon-neat"/>
-   <updated>2015-03-24T00:00:00-04:00</updated>
-   <id>http://coletownsend.com/mobile-first-with-bourbon-neat</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
    <title>Swipes</title>
    <link href="http://coletownsend.com/work/goodrich-swipes"/>
    <updated>2015-03-21T00:00:00-04:00</updated>
@@ -72,7 +73,7 @@ Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students 
 
 &lt;p&gt;James needs to get to his 18th Century Psychology class at 10, but still needs breakfast. Normally, Goodrich is packed with at least a twenty minute wait at this time. He walks to Goodrich and checks anyway. To his surprise, the line is half as long. The employee at the register is just swiping away while 5 students prepare espresso drinks and bagels. He finds out that Goodrich now has an app that enables students to place orders on their phones.&lt;/p&gt;
 
-&lt;p&gt;He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on their. He taps on &amp;ldquo;Favorites&amp;rdquo; in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latte. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.&lt;/p&gt;
+&lt;p&gt;He downloads Swipes for Goodrich, taps in his student unix and name. He confirms his info and the forms fade away, exposing the menu. He swipes through realizing the entire menu is on there. He taps on &amp;ldquo;Favorites&amp;rdquo; in the tab bar, chooses The Goodrich: a bagel, cream cheese, and large latte. His cart total turns green and displays $4.50. He taps the card in the top right corner, which extends the navbar to show his order details. He confirms his order. He waits in line for a few minutes and hands over his swipe.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;Wheat bagel with cream cheese and Latte for James?&amp;rdquo;&lt;/p&gt;
 
