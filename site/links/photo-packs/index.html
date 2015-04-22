@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en"><head data-no-instant><title></title><meta name="author" content="Cole Townsend"><meta name="description" content="my portfolio, but running with gulp. so way faster."><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1"><title>NOS Photo Packs &middot; Twnsnd Co</title><link rel="stylesheet" href="http://coletownsend.com/assets/stylesheets/style.min.286bf728.css"><script type="text/javascript">WebFontConfig = {
+      custom: { families: ['Nitti Grotesk', 'Karla'],
+      urls: [ '//cloud.webtype.com/css/bf74e1bf-b2c3-4c81-b846-9e5db693f269.css' ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();</script><link data-instant rel="apple-touch-icon-precomposed" sizes="144x144" href="http://coletownsend.com/assets/images/assets/favicon-256x256.png"><link data-instant rel="shortcut icon" href="http://coletownsend.com/assets/images/assets/favicon.ico"><link data-instant rel="alternate" type="application/rss+xml" title="RSS" href="http://coletownsend.com/atom.xml"></head><body class="post animsition"><header id="top" role="main-header"><nav><hgroup class="fs6 lsp2"><a class="link--black" href="http://coletownsend.com">Twnsnd Co</a></hgroup><ul><li class="inline-block fs6 lsp2"><a class="link--black animsition-link" href="http://coletownsend.com/work/">Work</a></li><li class="inline-block fs6 lsp2"><a class="link--black animsition-link" href="http://coletownsend.com/journal/">Journal</a></li><li class="inline-block fs6 lsp2"><a class="link--black animsition-link" href="http://coletownsend.com/about/">About</a></li></ul></nav></header><section class="wrap"><article><header><a data-no-instant href=""><h1>NOS Photo Packs</h1></a></header><p>Curated collections, edited for quick use.</p></article></section><footer><small><a data-instant data-event="Clicked More in Footer" href="http://coletownsend.com/links">More</a><br><img class="buffalo-icon" src="http://coletownsend.com/assets/images/assets/buffalo-blue.svg"> Made in Buffalo<br>© 2015 Cole Townsend</small></footer><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script src="http://coletownsend.com/assets/javascript/all.min.41e8b3c2.js"></script><script>$(document).ready(function() {
+  // bind click event to all internal page anchors
+  $("a[href*=#]").bind("click", function(e) {
+    // prevent default action and bubbling
+    e.preventDefault();
+    e.stopPropagation();
+    // set target to anchor's "href" attribute
+    var target = $(this).attr("href");
+    // scroll to each target
+    $(target).velocity("scroll", {
+        duration: 500,
+        offset: -40,
+        easing: "ease-in-out"
+    });
+  });
+});</script><script>$(".delayFade").velocity("transition.fadeIn",{ delay: 1200, duration: 400, easing: [ 250, 18 ] });</script><script>$(function () {
+  $(".zoomIt").fluidbox({
+    closeTrigger: [
+      { selector: '#fluidbox-overlay', event: 'click'},
+      { selector: 'window', event: 'scroll'}
+    ]
+  });
+});</script><script>$.Velocity.RegisterUI("transition.bounceIn", {
+  defaultDuration: 1200,
+  calls: [
+    [ { scale: 0 }, .5, { easing: [ 250, 12 ] } ],
+    [ {opacity: 1}, .5],
+    [ { scale: 1 }, .7, { easing: [ 250, 12 ] } ]
+  ]
+});
+$(".work-grid").velocity("transition.bounceIn", { delay: 100, stagger: 100, drag: true });
+$(".buffalo").velocity("transition.bounceIn");
+
+$.Velocity.RegisterUI("click.bubble", {
+    defaultDuration: 1000,
+    calls: [
+      [ { scale: .9 }, 0.5, { easing: [ 300, 12 ] } ],
+      [ { scale: 1 }, 0.5, { easing: [ 300, 12 ] } ]
+    ]
+});
+
+$('.work-grid').mousedown(function(){
+    $(this).velocity("click.bubble");
+});</script><script>$(function () {
+    $('a[role="fluidbox"]').fluidbox();
+  })</script><script>!function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+  d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+  insertBefore(d,q)}(window,document,'script','_gs');
+
+  _gs('GSN-487843-D');</script><script>$('[data-event]').on('click', function() {
+  _gs('event', $(this).data('event'));
+});</script></body></html>
