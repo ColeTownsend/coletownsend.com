@@ -22,8 +22,12 @@ section[class~="block"] {
   margin: $base-line-height*2 0;
   background: $red-gray;
   @include media($small) {
-    margin-bottom: 0;
-    padding-bottom: 0;
+    margin: 0;
+    padding: 0;
+  }
+  br {
+    display: none;
+    margin: 0;
   }
   article {
     @extend %container;
@@ -32,7 +36,7 @@ section[class~="block"] {
     position: relative;
     height: 100%;
     @include media($small) {
-      padding: 0 1em;
+      padding: 2em 1em;
     }
   }
   p {

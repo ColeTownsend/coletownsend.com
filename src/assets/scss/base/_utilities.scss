@@ -155,6 +155,10 @@
   }
 }
 
+.sub-container {
+  @extend %post-width;
+}
+
 .full {
   width: 100%;
   min-height: 1px;
@@ -170,4 +174,3 @@
 }
 
 // Animation Utilities
-

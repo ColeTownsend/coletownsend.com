@@ -347,7 +347,8 @@ html {
   min-height: 100%;
   position: relative;
   font-weight: normal;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  overflow-y: hidden !important; }
   @media screen and (max-width: 640px)  {
     html {
       font-size: 16px; } }
@@ -741,7 +742,7 @@ div.highlight {
 
 /* Copy
    ========================================================================== */
-.post hr, [role="portfolio"] article h1, [role="post"] article h1, [role="portfolio"] article h2, [role="portfolio"] article h3, [role="portfolio"] article .block-1 p, .block-1 [role="portfolio"] article p, [role="portfolio"] article h4, [role="portfolio"] article h5, [role="post"] article h2, [role="post"] article h3, [role="post"] article .block-1 p, .block-1 [role="post"] article p, [role="post"] article h4, [role="post"] article h5, [role="portfolio"] article h6, [role="portfolio"] article figcaption, [role="portfolio"] article .contact p:first-child, .contact [role="portfolio"] article p:first-child, [role="portfolio"] article .contact label, .contact [role="portfolio"] article label, [role="post"] article h6, [role="post"] article figcaption, [role="post"] article .contact p:first-child, .contact [role="post"] article p:first-child, [role="post"] article .contact label, .contact [role="post"] article label, .post article header, .post article p, .post article ul, .post article ul ol, .post-width {
+.sub-container, .post hr, [role="portfolio"] article h1, [role="post"] article h1, [role="portfolio"] article h2, [role="portfolio"] article h3, [role="portfolio"] article .block-1 p, .block-1 [role="portfolio"] article p, [role="portfolio"] article h4, [role="portfolio"] article h5, [role="post"] article h2, [role="post"] article h3, [role="post"] article .block-1 p, .block-1 [role="post"] article p, [role="post"] article h4, [role="post"] article h5, [role="portfolio"] article h6, [role="portfolio"] article figcaption, [role="portfolio"] article .contact p:first-child, .contact [role="portfolio"] article p:first-child, [role="portfolio"] article .contact label, .contact [role="portfolio"] article label, [role="post"] article h6, [role="post"] article figcaption, [role="post"] article .contact p:first-child, .contact [role="post"] article p:first-child, [role="post"] article .contact label, .contact [role="post"] article label, .post article header, .post article p, .post article ul, .post article ul ol, .post-width {
   float: left;
   display: block;
   margin-right: 1.69492%;
@@ -749,16 +750,16 @@ div.highlight {
   margin-left: 16.94915%;
   float: none;
   position: relative; }
-  .post hr:last-child, [role="portfolio"] article h1:last-child, [role="post"] article h1:last-child, [role="portfolio"] article h2:last-child, [role="portfolio"] article h3:last-child, [role="portfolio"] article .block-1 p:last-child, .block-1 [role="portfolio"] article p:last-child, [role="portfolio"] article h4:last-child, [role="portfolio"] article h5:last-child, [role="post"] article h2:last-child, [role="post"] article h3:last-child, [role="post"] article .block-1 p:last-child, .block-1 [role="post"] article p:last-child, [role="post"] article h4:last-child, [role="post"] article h5:last-child, [role="portfolio"] article h6:last-child, [role="portfolio"] article figcaption:last-child, [role="portfolio"] article .contact p:last-child:first-child, .contact [role="portfolio"] article p:last-child:first-child, [role="portfolio"] article .contact label:last-child, .contact [role="portfolio"] article label:last-child, [role="post"] article h6:last-child, [role="post"] article figcaption:last-child, [role="post"] article .contact p:last-child:first-child, .contact [role="post"] article p:last-child:first-child, [role="post"] article .contact label:last-child, .contact [role="post"] article label:last-child, .post article header:last-child, .post article p:last-child, .post article ul:last-child, .post article ul ol:last-child, .post-width:last-child {
+  .sub-container:last-child, .post hr:last-child, [role="portfolio"] article h1:last-child, [role="post"] article h1:last-child, [role="portfolio"] article h2:last-child, [role="portfolio"] article h3:last-child, [role="portfolio"] article .block-1 p:last-child, .block-1 [role="portfolio"] article p:last-child, [role="portfolio"] article h4:last-child, [role="portfolio"] article h5:last-child, [role="post"] article h2:last-child, [role="post"] article h3:last-child, [role="post"] article .block-1 p:last-child, .block-1 [role="post"] article p:last-child, [role="post"] article h4:last-child, [role="post"] article h5:last-child, [role="portfolio"] article h6:last-child, [role="portfolio"] article figcaption:last-child, [role="portfolio"] article .contact p:last-child:first-child, .contact [role="portfolio"] article p:last-child:first-child, [role="portfolio"] article .contact label:last-child, .contact [role="portfolio"] article label:last-child, [role="post"] article h6:last-child, [role="post"] article figcaption:last-child, [role="post"] article .contact p:last-child:first-child, .contact [role="post"] article p:last-child:first-child, [role="post"] article .contact label:last-child, .contact [role="post"] article label:last-child, .post article header:last-child, .post article p:last-child, .post article ul:last-child, .post article ul ol:last-child, .post-width:last-child {
     margin-right: 0; }
   @media screen and (max-width: 640px)  {
-    .post hr, [role="portfolio"] article h1, [role="post"] article h1, [role="portfolio"] article h2, [role="portfolio"] article h3, [role="portfolio"] article .block-1 p, .block-1 [role="portfolio"] article p, [role="portfolio"] article h4, [role="portfolio"] article h5, [role="post"] article h2, [role="post"] article h3, [role="post"] article .block-1 p, .block-1 [role="post"] article p, [role="post"] article h4, [role="post"] article h5, [role="portfolio"] article h6, [role="portfolio"] article figcaption, [role="portfolio"] article .contact p:first-child, .contact [role="portfolio"] article p:first-child, [role="portfolio"] article .contact label, .contact [role="portfolio"] article label, [role="post"] article h6, [role="post"] article figcaption, [role="post"] article .contact p:first-child, .contact [role="post"] article p:first-child, [role="post"] article .contact label, .contact [role="post"] article label, .post article header, .post article p, .post article ul, .post article ul ol, .post-width {
+    .sub-container, .post hr, [role="portfolio"] article h1, [role="post"] article h1, [role="portfolio"] article h2, [role="portfolio"] article h3, [role="portfolio"] article .block-1 p, .block-1 [role="portfolio"] article p, [role="portfolio"] article h4, [role="portfolio"] article h5, [role="post"] article h2, [role="post"] article h3, [role="post"] article .block-1 p, .block-1 [role="post"] article p, [role="post"] article h4, [role="post"] article h5, [role="portfolio"] article h6, [role="portfolio"] article figcaption, [role="portfolio"] article .contact p:first-child, .contact [role="portfolio"] article p:first-child, [role="portfolio"] article .contact label, .contact [role="portfolio"] article label, [role="post"] article h6, [role="post"] article figcaption, [role="post"] article .contact p:first-child, .contact [role="post"] article p:first-child, [role="post"] article .contact label, .contact [role="post"] article label, .post article header, .post article p, .post article ul, .post article ul ol, .post-width {
       float: left;
       display: block;
       margin-right: 1.69492%;
       width: 100%;
       margin-left: 0%; }
-      .post hr:last-child, [role="portfolio"] article h1:last-child, [role="post"] article h1:last-child, [role="portfolio"] article h2:last-child, [role="portfolio"] article h3:last-child, [role="portfolio"] article .block-1 p:last-child, .block-1 [role="portfolio"] article p:last-child, [role="portfolio"] article h4:last-child, [role="portfolio"] article h5:last-child, [role="post"] article h2:last-child, [role="post"] article h3:last-child, [role="post"] article .block-1 p:last-child, .block-1 [role="post"] article p:last-child, [role="post"] article h4:last-child, [role="post"] article h5:last-child, [role="portfolio"] article h6:last-child, [role="portfolio"] article figcaption:last-child, [role="portfolio"] article .contact p:last-child:first-child, .contact [role="portfolio"] article p:last-child:first-child, [role="portfolio"] article .contact label:last-child, .contact [role="portfolio"] article label:last-child, [role="post"] article h6:last-child, [role="post"] article figcaption:last-child, [role="post"] article .contact p:last-child:first-child, .contact [role="post"] article p:last-child:first-child, [role="post"] article .contact label:last-child, .contact [role="post"] article label:last-child, .post article header:last-child, .post article p:last-child, .post article ul:last-child, .post article ul ol:last-child, .post-width:last-child {
+      .sub-container:last-child, .post hr:last-child, [role="portfolio"] article h1:last-child, [role="post"] article h1:last-child, [role="portfolio"] article h2:last-child, [role="portfolio"] article h3:last-child, [role="portfolio"] article .block-1 p:last-child, .block-1 [role="portfolio"] article p:last-child, [role="portfolio"] article h4:last-child, [role="portfolio"] article h5:last-child, [role="post"] article h2:last-child, [role="post"] article h3:last-child, [role="post"] article .block-1 p:last-child, .block-1 [role="post"] article p:last-child, [role="post"] article h4:last-child, [role="post"] article h5:last-child, [role="portfolio"] article h6:last-child, [role="portfolio"] article figcaption:last-child, [role="portfolio"] article .contact p:last-child:first-child, .contact [role="portfolio"] article p:last-child:first-child, [role="portfolio"] article .contact label:last-child, .contact [role="portfolio"] article label:last-child, [role="post"] article h6:last-child, [role="post"] article figcaption:last-child, [role="post"] article .contact p:last-child:first-child, .contact [role="post"] article p:last-child:first-child, [role="post"] article .contact label:last-child, .contact [role="post"] article label:last-child, .post article header:last-child, .post article p:last-child, .post article ul:last-child, .post article ul ol:last-child, .post-width:last-child {
         margin-right: 0; } }
 
 /* Casing
@@ -2799,7 +2800,7 @@ header[role="main-header"] {
       header[role="main-header"] hgroup {
         display: block;
         float: none;
-        text-align: center;
+        text-align: left;
         margin-bottom: .5rem; } }
   header[role="main-header"] a {
     line-height: 90px; }
@@ -2821,7 +2822,7 @@ header[role="main-header"] {
           display: block;
           float: none;
           width: 100%;
-          text-align: center;
+          text-align: left;
           margin-bottom: .5rem; } }
     header[role="main-header"] nav ul li {
       text-align: right;
@@ -2831,6 +2832,9 @@ header[role="main-header"] {
       margin-left: 2em; }
       header[role="main-header"] nav ul li:first-child {
         margin-left: 0; }
+      @media screen and (max-width: 640px)  {
+        header[role="main-header"] nav ul li {
+          text-align: left; } }
 
 .listing {
   background: #4A4C52; }
@@ -3315,8 +3319,11 @@ section[class~="block"] {
   background: #fafafa; }
   @media screen and (max-width: 640px)  {
     .block-1 {
-      margin-bottom: 0;
-      padding-bottom: 0; } }
+      margin: 0;
+      padding: 0; } }
+  .block-1 br {
+    display: none;
+    margin: 0; }
   .block-1 article {
     float: none;
     padding: 3em 0;
@@ -3324,7 +3331,7 @@ section[class~="block"] {
     height: 100%; }
     @media screen and (max-width: 640px)  {
       .block-1 article {
-        padding: 0 1em; } }
+        padding: 2em 1em; } }
   .block-1 p {
     color: #323438;
     line-height: 1.5em; }

@@ -15,7 +15,7 @@ header[role="main-header"] {
     @include media($small) {
       display: block;
       float: none;
-      text-align: center;
+      text-align: left;
       margin-bottom: .5rem;
     }
   }
@@ -41,7 +41,7 @@ header[role="main-header"] {
         display: block;
         float: none;
         width: 100%;
-        text-align: center;
+        text-align: left;
         margin-bottom: .5rem;
       }
     }
@@ -53,6 +53,9 @@ header[role="main-header"] {
       margin-left: 2em;
       &:first-child {
         margin-left: 0;
+      }
+      @include media($small) {
+        text-align: left;
       }
     }
   }

@@ -1,0 +1,349 @@
+//
+// Forms
+// --------------------------------------------------
+
+$bodyFontSize: 16px;
+$inputBorderRadius: 1px;
+$inputBorder: #CCC;
+$borderWidth: 2px;
+$accentColor: #9255D4;
+$buttonColor: #5CEDAF;
+
+@mixin box-sizing($style) {
+  -webkit-box-sizing: $style;
+  -moz-box-sizing: $style;
+  box-sizing: $style;
+}
+
+@mixin box-shadow($style) {
+  -webkit-box-shadow: $style;
+  -moz-box-shadow: $style;
+  box-shadow: $style;
+}
+
+@mixin border-radius($style) {
+  -webkit-border-radius: $style;
+  -moz-border-radius: $style;
+  border-radius: $style;
+}
+
+@mixin transition($style) {
+  -webkit-transition: $style;
+  -moz-transition: $style;
+  -ms-transition: $style;
+  -o-transition: $style;
+  transition: $style;
+}
+
+@mixin ie7-inline-block {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+
+input[type="submit"] {
+  position: relative;
+  padding: 12px 12px;
+  margin: 0;
+  background: none;
+  border: 1px solid #50E3C2;
+  color: #50E3C2;
+  white-space: nowrap;
+  font-family: "Office Code Pro", Helvetica, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-background-clip: padding;
+  -moz-background-clip: padding;
+  background-clip: padding;
+  cursor: default;
+  background-color: #fff;
+  border: 1px solid #dcdcdc;
+  -webkit-border-radius: 1px;
+  -moz-border-radius: 1px;
+  border-radius: 1px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+input[type="submit"]:hover {
+  text-shadow: none;
+  border: 1px solid #50E3C2;
+  color: #fff;
+/*   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1); */
+  background-color: #50E3C2;
+  background-position: 0 0;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+input[type="submit"].active,
+input[type="submit"]:active {
+  background-image: none;
+  outline: 0;
+  background-color: #50E3C2;
+/*   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1); */
+}
+input[type="submit"].disabled,
+input[type="submit"].disabled:hover,
+input[type="submit"].disabled:active,
+input[type="submit"].disabled.active,
+input[type="submit"].disabled:focus,
+input[type="submit"][disabled],
+input[type="submit"][disabled]:hover,
+input[type="submit"][disabled]:active,
+input[type="submit"][disabled].active,
+input[type="submit"][disabled]:focus {
+  border: 1px solid #dcdcdc;
+  background-color: #f3f3f3;
+  background-image: -moz-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f5f5f5), to(#f1f1f1));
+  background-image: -webkit-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background-image: -o-linear-gradient(top, #f5f5f5, #f1f1f1);
+  background-image: linear-gradient(to bottom, #f5f5f5, #f1f1f1);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#fff1f1f1', GradientType=0);
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  text-shadow: none;
+}
+input[type="submit"]:focus {
+  /* Blue border on button focus. */
+}
+input[type="submit"],
+input[type="submit"]:hover,
+.btn-warning,
+.btn-warning:hover,
+.btn-danger,
+.btn-danger:hover,
+.btn-success,
+.btn-success:hover,
+.btn-info,
+.btn-info:hover,
+.btn-inverse,
+.btn-inverse:hover {
+  color: #ffffff;
+  /* text-shadow: 0 1px rgba(0, 0, 0, 0.1); */
+}
+input[type="submit"]:hover {
+/*   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2); */
+}
+input[type="submit"]:active,
+input[type="submit"].active {
+/*   -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3);
+-moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3);
+box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3); */
+}
+input[type="submit"].active,
+input[type="submit"]:active,
+input[type="submit"]:hover {
+  color: white;
+  /* text-shadow: 0 1px rgba(0, 0, 0, 0.3); */
+}
+input[type="submit"] {
+  background: none;
+  border: $borderWidth solid $buttonColor;
+  color: $buttonColor;
+}
+input[type="submit"]:hover,
+input[type="submit"]:active,
+input[type="submit"].active,
+input[type="submit"]:focus {
+  border: $borderWidth solid $buttonColor;
+  color: #ffffff;
+  background-color: $buttonColor;
+}
+input[type="submit"]:active,
+input[type="submit"].active {
+  border: $borderWidth solid $buttonColor; // darken this
+  color: #ffffff;
+  background-color: $buttonColor; // darken this
+}
+input[type="submit"]:focus {
+  border: $borderWidth solid $buttonColor;
+/*   -webkit-box-shadow: inset 0 0 0 1px #ffffff;
+-moz-box-shadow: inset 0 0 0 1px #ffffff;
+box-shadow: inset 0 0 0 1px #ffffff; */
+}
+input[type="submit"].disabled,
+input[type="submit"][disabled],
+input[type="submit"].disabled:hover,
+input[type="submit"][disabled]:hover,
+input[type="submit"].disabled:active,
+input[type="submit"][disabled]:active,
+input[type="submit"].disabled:focus,
+input[type="submit"][disabled]:focus {
+  border: $borderWidth solid $inputBorder;
+  background-color: lighten($inputBorder, 10%);
+}
+
+// Form controls
+// -------------------------
+
+// Shared size and type resets
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+  padding: 6px 10px;
+  font-size: $bodyFontSize;
+  border-radius: $inputBorderRadius;
+}
+
+// Reset appearance properties for textual inputs and textarea
+// Declare width for legacy (can't be on input[type=*] selectors or it's too specific)
+input,
+textarea {
+  width: 210px;
+}
+// Reset height since textareas have rows
+textarea {
+  padding-right: 4px;
+}
+// Everything else
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+  border: $borderWidth solid $inputBorder;
+  @include box-shadow(none);
+  @include transition(none);
+
+  &:hover {
+    border: $borderWidth solid $accentColor;
+    /* box-shadow: inset 0 1px 2px rgba(0,0,0,0.1); */
+  }
+
+  // Focus state
+  &:focus {
+    outline: 0 \9;
+    border-color: $accentColor;
+    /* box-shadow: inset 0 1px 2px rgba(0,0,0,0.1); */
+    transition: none;
+  }
+}
+
+
+// CHECKBOXES & RADIOS
+// -------------------
+
+// Google style
+input[type="checkbox"],
+input[type="radio"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 13px;
+  height: 13px;
+  background: white;
+  border: 1px solid #dcdcdc;
+  @include border-radius(1px);
+  box-sizing: border-box;
+  position: relative;
+}
+input[type="radio"] {
+  @include border-radius(1em);
+  width: 15px;
+  height: 15px;
+}
+input[type="checkbox"]:hover {
+  border-color: #c6c6c6;
+  @include box-shadow(inset 0 1px 1px rgba(0, 0, 0, 0.1));
+
+  // no box shadow for IE
+  box-shadow: none e("\9");
+}
+input[type="checkbox"]:active,
+input[type="radio"]:active {
+  border-color: #c6c6c6;
+  background-color: #ebebeb;
+  // override the bkgd color for IE
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffffff', GradientType=0);
+}
+input[type="checkbox"]:checked,
+input[type="radio"]:checked {
+  background: #fff;
+}
+input[type="checkbox"]:checked::after {
+  content: url(css/checkmark.png);
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: -5px;
+}
+input[type="radio"]:checked::after {
+  content: '';
+  display: block;
+  position: relative;
+  top: 3px;
+  left: 3px;
+  width: 7px;
+  height: 7px;
+  background: #666;
+  @include border-radius(1em);
+}
+input[type="checkbox"]:focus,
+input[type="radio"]:focus {
+  outline: none;
+  border-color: #4d90fe;
+}
+
+
+// DISABLED STATE
+// --------------
+
+// Disabled and read-only inputs
+input[disabled],
+select[disabled],
+textarea[disabled] {
+  cursor: not-allowed;
+  border: 1px solid #e5e5e5;
+  background: #f1f1f1;
+
+  &:hover {
+    @include box-shadow(none);
+  }
+}
+input[readonly],
+select[readonly],
+textarea[readonly] {
+  cursor: not-allowed;
+  border: 1px solid $inputBorder;
+
+  &:hover,
+  &:focus {
+    @include box-shadow(none);
+  }
+}
