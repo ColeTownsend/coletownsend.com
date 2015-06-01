@@ -24,10 +24,10 @@ section[class~="block"] {
   @include media($small) {
     margin: 0;
     padding: 0;
-  }
-  br {
-    display: none;
-    margin: 0;
+    br {
+      display: none;
+      margin: 0;
+    }
   }
   article {
     @extend %container;

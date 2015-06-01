@@ -3320,10 +3320,10 @@ section[class~="block"] {
   @media screen and (max-width: 640px)  {
     .block-1 {
       margin: 0;
-      padding: 0; } }
-  .block-1 br {
-    display: none;
-    margin: 0; }
+      padding: 0; }
+      .block-1 br {
+        display: none;
+        margin: 0; } }
   .block-1 article {
     float: none;
     padding: 3em 0;
