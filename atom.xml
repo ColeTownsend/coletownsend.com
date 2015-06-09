@@ -4,13 +4,40 @@
  <title>Twnsnd Co</title>
  <link href="http://coletownsend.com/atom.xml" rel="self"/>
  <link href="http://coletownsend.com/"/>
- <updated>2015-05-29T08:55:42-04:00</updated>
+ <updated>2015-06-09T12:15:57-04:00</updated>
  <id>http://coletownsend.com</id>
  <author>
    <name>Cole Townsend</name>
    <email>cole@coletownsend.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Summer in the District</title>
+   <link href="http://coletownsend.com/journal/summer-in-the-district"/>
+   <updated>2015-06-09T00:00:00-04:00</updated>
+   <id>http://coletownsend.com/journal/summer-in-the-district</id>
+   <content type="html">&lt;h2&gt;Day 1: Homebody&lt;/h2&gt;
+
+&lt;p&gt;The doors stayed locked. I worked all day in bed. I drank several cups of coffee. This is a scary place, but, hell, this basement apartment is cozy. Thanks Brian!&lt;/p&gt;
+
+&lt;h2&gt;Day 2: Cortado and a Haircut&lt;/h2&gt;
+
+&lt;p&gt;The Flying Fish Cafe is a lovely third wave place near Mount Pleasant and 16th NW. It&amp;rsquo;s molded ceilings and vast art collection add a nice touch to the otherwise clean and plain interior. They offer a widespread range of drinks: cortados, pourovers, iced coffee growlers, and twenty different types of tea. It&amp;rsquo;s affordably priced; even the sandwiches seem like a value. &lt;/p&gt;
+
+&lt;div class=&quot;clearfix&quot;&gt;
+    
+
+&lt;figure class=&quot;grid-full&quot; &gt;
+  
+  &lt;a data-event=&quot;Clicked fluidbox on Summer in the District&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/ff-cortado.jpg&quot; title=&quot;the Flying Fish Cortado&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/ff-cortado.jpg&quot; alt=&quot;the Flying Fish Cortado&quot; title=&quot;the Flying Fish Cortado&quot;&gt;&lt;/a&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tour de France Vis</title>
