@@ -4,7 +4,7 @@
  <title>Twnsnd Co</title>
  <link href="http://coletownsend.com/atom.xml" rel="self"/>
  <link href="http://coletownsend.com/"/>
- <updated>2015-05-31T22:01:04-04:00</updated>
+ <updated>2015-06-09T15:50:16-04:00</updated>
  <id>http://coletownsend.com</id>
  <author>
    <name>Cole Townsend</name>
@@ -50,11 +50,10 @@
 
 &lt;div class=&quot;clearfix&quot;&gt;
     
-
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Public at Hotel Lafayette&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/lafayette-wall-art.jpg&quot; title=&quot;Pan Am Fever&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/lafayette-wall-art.jpg&quot; alt=&quot;Pan Am Fever&quot; title=&quot;Pan Am Fever&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Public at Hotel Lafayette&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/lafayette-wall-art.jpg&quot; title=&quot;Pan Am Fever&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/lafayette-wall-art.jpg&quot; alt=&quot;Pan Am Fever&quot; title=&quot;Pan Am Fever&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
@@ -96,35 +95,31 @@ Swipes is an app to speed up the Goodrich Coffee Bar ordering process. Students 
 
 &lt;div class=&quot;clearfix&quot;&gt;
 
-
 &lt;figure class=&quot;grid-4&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist-none@2x.jpg&quot; title=&quot;GC Swipes Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist-none@2x.jpg&quot; alt=&quot;GC Swipes Menu&quot; title=&quot;GC Swipes Menu&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist-none@2x.jpg&quot; title=&quot;GC Swipes Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist-none@2x.jpg&quot; alt=&quot;GC Swipes Menu&quot; title=&quot;GC Swipes Menu&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
-
 &lt;figure class=&quot;grid-4&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist@2x.jpg&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist@2x.jpg&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist@2x.jpg&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/menu-checklist@2x.jpg&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
-
 &lt;figure class=&quot;grid-4&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/recents@2x.jpg&quot; title=&quot;GC Swipes Recent Orders&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/recents@2x.jpg&quot; alt=&quot;GC Swipes Recent Orders&quot; title=&quot;GC Swipes Recent Orders&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/recents@2x.jpg&quot; title=&quot;GC Swipes Recent Orders&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/recents@2x.jpg&quot; alt=&quot;GC Swipes Recent Orders&quot; title=&quot;GC Swipes Recent Orders&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
-
 &lt;figure class=&quot;grid-4&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/confirm-order@2x.jpg&quot; title=&quot;GC Swipes Order Confirmation&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/confirm-order@2x.jpg&quot; alt=&quot;GC Swipes Order Confirmation&quot; title=&quot;GC Swipes Order Confirmation&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Swipes&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gc/confirm-order@2x.jpg&quot; title=&quot;GC Swipes Order Confirmation&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gc/confirm-order@2x.jpg&quot; alt=&quot;GC Swipes Order Confirmation&quot; title=&quot;GC Swipes Order Confirmation&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
@@ -864,36 +859,32 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div class=&quot;clearfix&quot;&gt;
 
+&lt;figure class=&quot;grid-4&quot; &gt;
+&lt;figcaption&gt;Commenting&lt;/figcaption&gt;
+&lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
+
+&lt;/figure&gt;
+
 
 &lt;figure class=&quot;grid-4&quot; &gt;
-  &lt;figcaption&gt;Commenting&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-comment.png&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-comment.png&quot; alt=&quot;TheNews App Comment View&quot; title=&quot;TheNews App Comment View&quot;&gt;&lt;/a&gt;
-  
+&lt;figcaption&gt;The Menu&lt;/figcaption&gt;
+&lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
 
 &lt;figure class=&quot;grid-4&quot; &gt;
-  &lt;figcaption&gt;The Menu&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-menu.png&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-menu.png&quot; alt=&quot;TheNews App Menu&quot; title=&quot;TheNews App Menu&quot;&gt;&lt;/a&gt;
-  
+&lt;figcaption&gt;MOTD&lt;/figcaption&gt;
+&lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
-
-
 &lt;figure class=&quot;grid-4&quot; &gt;
-  &lt;figcaption&gt;MOTD&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; title=&quot;Message of the Day&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; alt=&quot;Message of the Day&quot; title=&quot;Message of the Day&quot;&gt;&lt;/a&gt;
-  
-&lt;/figure&gt;
+&lt;figcaption&gt;Hacker News&lt;/figcaption&gt;
+&lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
 
-
-
-&lt;figure class=&quot;grid-4&quot; &gt;
-  &lt;figcaption&gt;Hacker News&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-hacker.png&quot; alt=&quot;TheNews Hacker View&quot; title=&quot;TheNews Hacker View&quot;&gt;&lt;/a&gt;
-  
 &lt;/figure&gt;
 
 
@@ -901,11 +892,10 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div class=&quot;clearfix&quot;&gt;
 
-
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;TheNews App Site&lt;/figcaption&gt;
+
+&lt;a data-event=&quot;Clicked fluidbox on TheNews&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/thenews-app-site.png&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/thenews-app-site.png&quot; alt=&quot;TheNews App Landing Page&quot; title=&quot;TheNews App Landing Page&quot;&gt;&lt;/a&gt;
+&lt;figcaption&gt;TheNews App Site&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
@@ -926,18 +916,18 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div class=&quot;clearfix&quot;&gt;
 
-&lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
+  &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
   &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/pvcc-home.png&quot; title=&quot;Home Page&quot;&gt;
-  &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/pvcc-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;
+    &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/pvcc-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
 
 
 
-&lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Sign Up&lt;/figcaption&gt;
+  &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Sign Up&lt;/figcaption&gt;
   &lt;a data-event=&quot;Clicked fluidbox on Purple Valley Coffee Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/pvcc-sign-up.png&quot; title=&quot;Sign Up&quot;&gt;
-  &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/pvcc-sign-up.png&quot; alt=&quot;Sign Up&quot; title=&quot;Sign Up&quot;&gt;
+    &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/pvcc-sign-up.png&quot; alt=&quot;Sign Up&quot; title=&quot;Sign Up&quot;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
@@ -979,11 +969,10 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div class=&quot;clearfix&quot;&gt;
 
-
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/tosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
+
+&lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-home.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/tosin-home.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Landing Page&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
@@ -991,20 +980,19 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div class=&quot;clearfix&quot;&gt;
 
-&lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Case Study&lt;/figcaption&gt;
+  &lt;figure class=&quot;grid-2&quot; &gt;&lt;figcaption&gt;Case Study&lt;/figcaption&gt;
   &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-work.png&quot; title=&quot;Case Study&quot;&gt;
-  &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/tosin-work.png&quot; alt=&quot;Case Study&quot; title=&quot;Case Study&quot;&gt;
+    &lt;img src=&quot;http://coletownsend.com/assets/images/inline/thumbs/tosin-work.png&quot; alt=&quot;Case Study&quot; title=&quot;Case Study&quot;&gt;
   &lt;/a&gt;
   
 &lt;/figure&gt;
 
 
 
-
 &lt;figure class=&quot;grid-2&quot; &gt;
-  &lt;figcaption&gt;Portfolio Listing&lt;/figcaption&gt;
-  &lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/tosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
-  
+&lt;figcaption&gt;Portfolio Listing&lt;/figcaption&gt;
+&lt;a data-event=&quot;Clicked fluidbox on Portfolio of Tosin Afolabi&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/tosin-listing.png&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/tosin-listing.png&quot; alt=&quot;Portfolio Listing&quot; title=&quot;Portfolio Listing&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
@@ -1025,30 +1013,30 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;div&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-skyr.jpg&quot; title=&quot;Skyr Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-skyr.jpg&quot; alt=&quot;Skyr Poster&quot; title=&quot;Skyr Poster&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-tees.jpg&quot; title=&quot;Tees Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-tees.jpg&quot; alt=&quot;Tees Poster&quot; title=&quot;Tees Poster&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;/div&gt;
 &lt;div&gt;&lt;/p&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-iced.jpg&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-iced.jpg&quot; alt=&quot;Iced Coffee Poster&quot; title=&quot;Iced Coffee Poster&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-2&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-wildflour.jpg&quot; title=&quot;Cookies Poster&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-wildflour.jpg&quot; alt=&quot;Cookies Poster&quot; title=&quot;Cookies Poster&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
@@ -1059,19 +1047,17 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div&gt;
 
-
 &lt;figure class=&quot;grid-2&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-night.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-night.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
-
 &lt;figure class=&quot;grid-2&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
-  
+
+&lt;a data-event=&quot;Clicked fluidbox on Goodrich Coffee&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/gcb-happy-tea.jpg&quot; title=&quot;Tees&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/gcb-happy-tea.jpg&quot; alt=&quot;Tees&quot; title=&quot;Tees&quot;&gt;&lt;/a&gt;
+
 &lt;/figure&gt;
 
 
@@ -1108,19 +1094,17 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 
 &lt;div&gt;
 
-
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Balzac Hero&lt;/figcaption&gt;
+
+&lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-1.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-1.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Balzac Hero&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Balzac Longform&lt;/figcaption&gt;
+
+&lt;a data-event=&quot;Clicked fluidbox on Balzac Theme&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-2.png&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/balzac-theme-2.png&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Balzac Longform&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
@@ -1434,15 +1418,15 @@ echo &amp;quot;Done. Note that some of these changes require a logout/restart to
 &lt;p&gt;I applied the logo in several different branding schemes to give an idea of how it might be used.&lt;/p&gt;
 
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/WOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/WOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Business Cards&lt;/figcaption&gt;
+
+&lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/WOC-stationary.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/WOC-stationary.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Business Cards&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure class=&quot;grid-full&quot; &gt;
-  
-  &lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/WOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/WOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Branding Posters&lt;/figcaption&gt;
+
+&lt;a data-event=&quot;Clicked fluidbox on Williams Outing Club&quot; role=&quot;fluidbox&quot; class=&quot;&quot; href=&quot;http://coletownsend.com/assets/images/inline/WOC-poster.jpg&quot; title=&quot;Home Page&quot;&gt;&lt;img src=&quot;http://coletownsend.com/assets/images/inline/WOC-poster.jpg&quot; alt=&quot;Home Page&quot; title=&quot;Home Page&quot;&gt;&lt;/a&gt;
+&lt;figcaption&gt;Branding Posters&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>
  </entry>
