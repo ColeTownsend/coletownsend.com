@@ -5,7 +5,7 @@ html {
   position: relative;
   font-weight: normal;
   @include box-sizing(border-box);
-  overflow-y: hidden !important;
+  overflow-x: hidden !important;
   // font sizing for quick MQ adjustments
 
   @include media($small) {

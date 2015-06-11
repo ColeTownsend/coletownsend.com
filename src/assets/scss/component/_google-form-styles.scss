@@ -273,44 +273,20 @@ box-shadow: inset 0 0 0 1px #ffffff; */
   input[type="checkbox"]:hover {
     border-color: #c6c6c6;
     @include box-shadow(inset 0 1px 1px rgba(0, 0, 0, 0.1));
-
-    // no box shadow for IE
-    box-shadow: none e("\9");
   }
   input[type="checkbox"]:active,
   input[type="radio"]:active {
-    border-color: #c6c6c6;
+    border-color: $accentColor;
     background-color: #ebebeb;
-
-    // override the bkgd color for IE
-    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffffffff', GradientType=0);
   }
   input[type="checkbox"]:checked,
   input[type="radio"]:checked {
-    background: #fff;
-  }
-  input[type="checkbox"]:checked::after {
-    content: url("css/checkmark.png");
-    display: block;
-    position: absolute;
-    top: -6px;
-    left: -5px;
-  }
-  input[type="radio"]:checked::after {
-    content: '';
-    display: block;
-    position: relative;
-    top: 3px;
-    left: 3px;
-    width: 7px;
-    height: 7px;
-    background: #666;
-    @include border-radius(1em);
+    background: $accentColor;
   }
   input[type="checkbox"]:focus,
   input[type="radio"]:focus {
     outline: none;
-    border-color: #4d90fe;
+    border-color: $accentColor;
   }
 
   // DISABLED STATE
